@@ -1,0 +1,1231 @@
+Hospital Id,Hospital Name,State,District,Hospital Type,Empanelment Type,Convergence Scheme,Specialities,Num Specialities,M Codes,S Codes,Coverage Level
+HOSP23G00360,Jay Prakash District Hospital Bhopal,MADHYA PRADESH,Bhopal,Public,PMJAY,No,"M1, M7, M2, S1, S14, S16, S2, S3, S4, S5",10,3,7,High
+HOSP23G00853,Bundelkhand Medical College Sagar,MADHYA PRADESH,Sagar,Public,PMJAY,No,"M1, M7, M2, S1, S16, S2, S3, S4, S5",9,3,6,High
+HOSP23G01370,Sgmh And Gmh Rewa,MADHYA PRADESH,Rewa,Public,PMJAY,No,"M1, M7, M2, M3, M8, S1, S10, S11, S12, S14, S16, S2, S3, S4, S5, S6, S7, S8, S9",19,5,14,High
+HOSP23G01396,Hamidia Hospital,MADHYA PRADESH,Bhopal,Public,PMJAY,No,"M1, M2, S8, M7, S7, M3, M4, M5, M6, M8, S1, S10, S11, S12, S13, S14, S15, S16, S2, S3, S4, S5, S6, S9",24,8,16,High
+HOSP23G01412,Maharaja Yashwant Rao,MADHYA PRADESH,Indore,Public,PMJAY,No,"M1, M2, S8, M7, S7, M3, M4, M5, M6, M8, S1, S10, S11, S12, S14, S15, S16, S2, S3, S4, S5, S6, S9",23,8,15,High
+HOSP23G01461,Datia Medical College Hospital,MADHYA PRADESH,Datia,Public,PMJAY,No,"M1, M7, M2, S1, S16, S2, S3, S4, S5, S6",10,3,7,Low
+HOSP23G01466,Netaji Subhash Chnadra Bose Medical College Jabalpur,MADHYA PRADESH,Jabalpur,Public,PMJAY,No,"M1, M7, S7, M2, M8, S1, S10, S11, S14, S2, S3, S4, S5, S8, S9",15,4,11,High
+HOSP23G01495,Jayarogya Hospital,MADHYA PRADESH,Gwalior,Public,PMJAY,No,"M1, M2, S8, M7, S7, M3, M4, M5, M6, M8, S1, S10, S11, S12, S13, S14, S15, S16, S2, S3, S4, S5, S6, S9",24,8,16,High
+HOSP23G01690,Gwalior Mansik Arogyashala,MADHYA PRADESH,Gwalior,Public,PMJAY,No,M8,1,1,0,High
+HOSP23G02043,Community Health Center Kareli,MADHYA PRADESH,Narsinghpur,Public,PMJAY,No,"M1, M7, M2, S1, S4",5,3,2,Medium
+HOSP23G02046,District Hospital Dhar,MADHYA PRADESH,Dhar,Public,PMJAY,No,"M1, M7, M2, M3, S1, S16, S3, S5",8,4,4,High
+HOSP23G02051,Dh Ashoknagar,MADHYA PRADESH,Ashok Nagar,Public,PMJAY,No,"M1, M7, M2, S1, S4",5,3,2,Low
+HOSP23G02053,District Hospital Vidisha,MADHYA PRADESH,Vidisha,Public,PMJAY,No,"M1, M7, M2, S1, S2, S3, S4, S5",8,3,5,High
+HOSP23G02054,District Hospital Sidhi,MADHYA PRADESH,Sidhi,Public,PMJAY,No,"M1, M7, S7, M2, M3, M8, S1, S3",8,5,3,Low
+HOSP23G02055,Dh Bhind,MADHYA PRADESH,Bhind,Public,PMJAY,No,"M1, M7, M2, M3, M8, S1, S10, S11, S16, S2, S3, S4, S5, S6",14,5,9,Medium
+HOSP23G02056,District Hospital Panna,MADHYA PRADESH,Panna,Public,PMJAY,No,"M1, M7, S7, M2, M3, S1, S10, S11, S16, S2, S3, S4, S5",13,4,9,Low
+HOSP23G02057,Indira Gandhi District Hospital Seoni,MADHYA PRADESH,Seoni,Public,PMJAY,No,"M1, M7, M2, S1, S16, S2, S4, S5",8,3,5,Low
+HOSP23G02058,Dh Dindori,MADHYA PRADESH,Dindori,Public,PMJAY,No,"M1, M7, M2, S1, S4, S5",6,3,3,Low
+HOSP23G02059,Govt Hospital Jhabua,MADHYA PRADESH,Jhabua,Public,PMJAY,No,"M1, M7, M2, M3, S1, S16, S2, S3, S4, S5",10,4,6,Low
+HOSP23G02060,District Hospital Chhatarpur,MADHYA PRADESH,Chhatarpur,Public,PMJAY,No,"M1, M7, M2, M3, S1, S2, S3, S4, S5",9,4,5,Medium
+HOSP23G02061,District Hospital Sehore,MADHYA PRADESH,Sehore,Public,PMJAY,No,"M1, M7, M2, M3, M8, S1, S2, S3, S4, S5, S6",11,5,6,High
+HOSP23G02062,District Hospital Khandwa,MADHYA PRADESH,Khandwa,Public,PMJAY,No,"M1, M7, M2, S1, S10, S11, S2, S3, S4, S5",10,3,7,Medium
+HOSP23G02063,Dh Shajapur,MADHYA PRADESH,Shajapur,Public,PMJAY,No,"M1, M7, M2, M3, M5, S1, S14, S3, S4, S5",10,5,5,Medium
+HOSP23G02066,Mgh Dewas,MADHYA PRADESH,Dewas,Public,PMJAY,No,"M1, M7, M2, S1, S2, S5",6,3,3,Medium
+HOSP23G02067,District Hospital Ujjain,MADHYA PRADESH,Ujjain,Public,PMJAY,No,"M1, M7, M2, M3, M5, M8, S1, S13, S2, S3, S4, S5",12,6,6,Medium
+HOSP23G02068,District Hospital Tikamgarh,MADHYA PRADESH,Tikamgarh,Public,PMJAY,No,"S1, S3, S4, S5",4,0,4,Medium
+HOSP23G02069,Dh Katni,MADHYA PRADESH,Katni,Public,PMJAY,No,"M1, M7, S7, M2, M3, S1, S10, S11, S3, S4, S5",11,4,7,Medium
+HOSP23G02072,Dh Chhindwara1,MADHYA PRADESH,Chhindwara,Public,PMJAY,No,"M1, M7, M2, S1, S13, S14, S2, S4, S5",9,3,6,Medium
+HOSP23G02074,District Hospital Mandla,MADHYA PRADESH,Mandla,Public,PMJAY,No,"M1, M7, S7, M2, M3, M5, S1, S12, S16, S3, S4, S5",12,5,7,Medium
+HOSP23G02075,District Hospital Agar Malwa,MADHYA PRADESH,Agar Malwa,Public,PMJAY,No,"M1, M7, M2, M3, S1, S16, S3, S4, S5",9,4,5,Low
+HOSP23G02079,District Hospital Khargone,MADHYA PRADESH,Khargone,Public,PMJAY,No,"M1, M7, M2, M3, M5, S1, S10, S11, S16, S2, S3, S4, S5, S7",14,5,9,High
+HOSP23G02080,District Hospital Sheopur,MADHYA PRADESH,Sheopur,Public,PMJAY,No,"M1, M7, M2, M3, S1, S16, S2, S3, S4, S5",10,4,6,Low
+HOSP23G02081,Dh Indore,MADHYA PRADESH,Indore,Public,PMJAY,No,"M1, S1, S2, S3, S4, S5",6,1,5,High
+HOSP23G02083,District Hospital Datia,MADHYA PRADESH,Datia,Public,PMJAY,No,"M1, M2, S8, M7, M3, S1, S12, S14, S16, S2, S3, S4, S5",13,4,9,Low
+HOSP23G02086,District Hospital Ratlam,MADHYA PRADESH,Ratlam,Public,PMJAY,No,"M1, M7, M2, M8, S1, S10, S11, S16, S2, S3, S4, S5, S6",13,4,9,Medium
+HOSP23G02087,Dh Shahdol,MADHYA PRADESH,Shahdol,Public,PMJAY,No,"M1, M7, M2, S1, S2, S3, S4, S5",8,3,5,Medium
+HOSP23G02088,Alirajpur,MADHYA PRADESH,Alirajpur,Public,PMJAY,No,"M1, M7, M2, S1, S4, S5",6,3,3,Low
+HOSP23G02090,District Hospital Damoh,MADHYA PRADESH,Damoh,Public,PMJAY,No,"M1, M7, M2, M3, M8, S1, S16, S2, S3, S4, S5",11,5,6,Low
+HOSP23G02092,District Hospital Rajgarh,MADHYA PRADESH,Rajgarh,Public,PMJAY,No,"M1, M7, M2, S1, S16, S4, S5",7,3,4,Medium
+HOSP23G02095,Dh Hospital Harda,MADHYA PRADESH,Harda,Public,PMJAY,No,"M1, M2, S8, M7, S7, M3, M5, S1, S12, S16, S4, S5, S6",13,5,8,Medium
+HOSP23G02098,Dh Morena,MADHYA PRADESH,Morena,Public,PMJAY,No,-NA-,1,0,0,Medium
+HOSP23G02099,District Hospital Waidhan,MADHYA PRADESH,Singrauli,Public,PMJAY,No,"M1, M2, S8, M7, S7, M3, M4, M5, M6, M8, S1, S10, S11, S12, S13, S14, S15, S16, S2, S3, S4, S5, S6, S9",24,8,16,Medium
+HOSP23G02103,District Hospital Barwani,MADHYA PRADESH,Barwani,Public,PMJAY,No,"M1, M7, M2, M3, S1, S10, S11, S16, S2, S3, S4, S5",12,4,8,High
+HOSP23G02128,Vijaya Raje Singhiya,MADHYA PRADESH,Neemuch,Public,PMJAY,No,"M1, M7, M2, S1, S16, S4, S6",7,3,4,Medium
+HOSP23G02132,District Hospital Anuppur,MADHYA PRADESH,Anuppur,Public,PMJAY,No,"M1, M7, M2, M3, S1, S12, S16, S3, S4, S5, S7",11,4,7,Low
+HOSP23G02135,Dh Raisen,MADHYA PRADESH,Raisen,Public,PMJAY,No,-NA-,1,0,0,High
+HOSP23G02136,District Hospital Hoshangabad,MADHYA PRADESH,Hoshangabad,Public,PMJAY,No,"M1, M7, M2, M3, S1, S16, S2, S3, S4, S5, S6, S7",12,4,8,High
+HOSP23G02153,Shaid Bhagat Singh Dist Hospital Balaghat,MADHYA PRADESH,Balaghat,Public,PMJAY,No,"M1, M7, M2, S1, S14, S16, S2, S4, S5",9,3,6,Medium
+HOSP23G02163,District Hospital Satna,MADHYA PRADESH,Satna,Public,PMJAY,No,"M1, M7, S7, M2, M3, M8, S1, S12, S16, S2, S3, S4, S5, S6",14,5,9,Medium
+HOSP23G02182,Seth Govind Das District Hospital,MADHYA PRADESH,Jabalpur,Public,PMJAY,No,"M1, M2, S8, M7, S7, M5, S1, S12, S14, S15, S16, S2, S3, S5, S6",15,4,11,High
+HOSP23G02196,Dh Burhanpur,MADHYA PRADESH,Burhanpur,Public,PMJAY,No,"M1, M7, M2, S1, S16, S3, S4, S5",8,3,5,Medium
+HOSP23G02199,Chc Bankhedi,MADHYA PRADESH,Hoshangabad,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G02225,Chc Sukhtawa,MADHYA PRADESH,Hoshangabad,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G02226,Community Health Center Babai,MADHYA PRADESH,Hoshangabad,Public,PMJAY,No,"M1, M7, S4",3,2,1,High
+HOSP23G02231,Chc Pipariya,MADHYA PRADESH,Hoshangabad,Public,PMJAY,No,"M1, M7, M2, M3, S1, S10, S11, S12, S2, S4, S5",11,4,7,High
+HOSP23G02240,Community Health Center,MADHYA PRADESH,Hoshangabad,Public,PMJAY,No,"M1, M7, S4, SB, SG, SM",6,2,4,High
+HOSP23G02280,Elgin Jabalpur,MADHYA PRADESH,Jabalpur,Public,PMJAY,No,"M3, S4",2,1,1,High
+HOSP23G02315,Chc Nainpur,MADHYA PRADESH,Mandla,Public,PMJAY,No,"M1, M7, MP, SO",4,3,1,Medium
+HOSP23G02336,Chc Bhabhra,MADHYA PRADESH,Alirajpur,Public,PMJAY,No,"M1, M7",2,2,0,Low
+HOSP23G02339,Choudhari Shankarlal Govt  District Hospital Narsinghpur,MADHYA PRADESH,Narsinghpur,Public,PMJAY,No,"M1, M7, M2, M3, S1, S10, S11, S4, S5",9,4,5,Medium
+HOSP23G02340,Chc Jobat,MADHYA PRADESH,Alirajpur,Public,PMJAY,No,"S4, BM, ER, ID, MC, MG, MN, MP, SB, SE, SG, SL, SM, ST, SU",15,4,8,Low
+HOSP23G02390,District Hospital Gwalior Mp,MADHYA PRADESH,Gwalior,Public,PMJAY,No,"S1, S14, S2, S3, S4, S5",6,0,6,High
+HOSP23G02396,Chc Sondwa,MADHYA PRADESH,Alirajpur,Public,PMJAY,No,"M1, M7",2,2,0,Low
+HOSP23G02439,District Hospital Sagar,MADHYA PRADESH,Sagar,Public,PMJAY,No,S1,1,0,1,High
+HOSP23G02444,Chc Bamhani,MADHYA PRADESH,Mandla,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G02447,Chc Ghughri,MADHYA PRADESH,Mandla,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G02449,Chc Narayanganj,MADHYA PRADESH,Mandla,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G02455,Chc Udaigad,MADHYA PRADESH,Alirajpur,Public,PMJAY,No,"M1, M7",2,2,0,Low
+HOSP23G02468,Chc Katthiwada,MADHYA PRADESH,Alirajpur,Public,PMJAY,No,"M1, M7",2,2,0,Low
+HOSP23G02548,Chc Bijadandi,MADHYA PRADESH,Mandla,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G02557,Chc Mohgaon,MADHYA PRADESH,Mandla,Public,PMJAY,No,"M1, M7, MP, SO",4,3,1,Medium
+HOSP23G02599,Ch Bina,MADHYA PRADESH,Sagar,Public,PMJAY,No,"M2, S16, S4, S5",4,1,3,High
+HOSP23G02603,Civil Surgeon Cum Hospital Supdt District Hospital Betul,MADHYA PRADESH,Betul,Public,PMJAY,No,"M1, M7, M2, S1, S3, S4, S5",7,3,4,Medium
+HOSP23G02659,Chc Deori,MADHYA PRADESH,Sagar,Public,PMJAY,No,"M1, M7, S1, S4",4,2,2,High
+HOSP23G02686,Chc Mawai,MADHYA PRADESH,Mandla,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G02774,Indira Gandhi District Hospital Mandsaur,MADHYA PRADESH,Mandsaur,Public,PMJAY,No,"M1, M7, M2, M3, S1, S10, S11, S16, S2, S3, S4, S5, S6",13,4,9,High
+HOSP23G02789,Civil Hospital Ranjhi Jabalpur,MADHYA PRADESH,Jabalpur,Public,PMJAY,No,S4,1,0,1,High
+HOSP23G02817,Chc Tendukheda,MADHYA PRADESH,Narsinghpur,Public,PMJAY,No,"M2, ER, MG",3,2,0,Medium
+HOSP23G03014,District Hospital Shivpuri,MADHYA PRADESH,Shivpuri,Public,PMJAY,No,"M1, M2, S8, M7, S7, M3, M4, M5, M6, M8, S1, S10, S11, S12, S13, S14, S15, S16, S2, S3, S4, S5, S6, S9",24,8,16,Medium
+HOSP23G03416,Chc Kasrawad,MADHYA PRADESH,Khargone,Public,PMJAY,No,"M1, M7, M2, M3, S16, S4",6,4,2,High
+HOSP23G03455,Civil Hospital Sanawad,MADHYA PRADESH,Khargone,Public,PMJAY,No,"M1, M7, M2, S16, S4",5,3,2,High
+HOSP23G04517,P C Sethi Civil Hospital,MADHYA PRADESH,Indore,Public,PMJAY,No,S4,1,0,1,High
+HOSP23G05025,Chc Depalpur,MADHYA PRADESH,Indore,Public,PMJAY,No,S1,1,0,1,High
+HOSP23G06438,Govt Khan Shakir Ali Khan Gas Rahat Hospital,MADHYA PRADESH,Bhopal,Public,PMJAY,No,"M1, M7, M2, S1, S3, S5",6,3,3,High
+HOSP23G06502,Kamla Nehru Hospital Gas Rahat Bhopal,MADHYA PRADESH,Bhopal,Public,PMJAY,No,"M1, M2, S8, M7, S7, S1, S12, S2, S3",9,3,6,High
+HOSP23G06513,Jawahar Lal Nehru Gas Rahat Hospital Bhopal,MADHYA PRADESH,Bhopal,Public,PMJAY,No,"M1, M7, M2, S1, S16, S3, S4, S5",8,3,5,High
+HOSP23G06524,Indira Gandhi Mahila Evam Balya Chikitsalaya Gas Rahat Bhopal,MADHYA PRADESH,Bhopal,Public,PMJAY,No,"M2, S4",2,1,1,High
+HOSP23G06798,Kushabhau Thakre District Hospital Rewa,MADHYA PRADESH,Rewa,Public,PMJAY,No,"M1, M7, M2, M3, S1, S16, S2, S3, S4, S5",10,4,6,High
+HOSP23G07132,Dh Guna,MADHYA PRADESH,Guna,Public,PMJAY,No,"M1, M7, S7, M2, M3, M5, M8, S1, S10, S11, S16, S2, S3, S4, S5, S6",16,6,10,Low
+HOSP23G07969,Civil Hospital Jabera,MADHYA PRADESH,Damoh,Public,PMJAY,No,"M1, M7",2,2,0,Low
+HOSP23G08131,Community Health Centra Gandhinagar,MADHYA PRADESH,Bhopal,Public,PMJAY,No,"M1, M7, M2, S1, S4",5,3,2,High
+HOSP23G08132,Chc Berasia,MADHYA PRADESH,Bhopal,Public,PMJAY,No,"M2, S4",2,1,1,High
+HOSP23G08153,Cil Aasta,MADHYA PRADESH,Sehore,Public,PMJAY,No,"M1, M7, M2, M3, M8, S16, S2, S3, S4, S5, S6",11,5,6,High
+HOSP23G08201,Govt. Community Health Center Kolar,MADHYA PRADESH,Bhopal,Public,PMJAY,No,"M1, M7, M2, S1, S4",5,3,2,High
+HOSP23G08207,Ch Beragarh,MADHYA PRADESH,Bhopal,Public,PMJAY,No,"M1, M7, M2, S1, S16, S2, S3, S4, S5",9,3,6,High
+HOSP23G08418,Pandit Deendayal Hospital Umaria,MADHYA PRADESH,Umaria,Public,PMJAY,No,"M1, M7, M2, M3, M8, S1, S16, S3, S4, S5, S6",11,5,6,Low
+HOSP23G08487,Chc Nasrullaganj,MADHYA PRADESH,Sehore,Public,PMJAY,No,"M1, M7, M2, M8, S1, S13, S4, S5",8,4,4,High
+HOSP23G08497,Chc Ichawar,MADHYA PRADESH,Sehore,Public,PMJAY,No,M2,1,1,0,High
+HOSP23G08505,Chc Shyampur,MADHYA PRADESH,Sehore,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G09101,Civil Hospital Maihar,MADHYA PRADESH,Satna,Public,PMJAY,No,"M1, M7, M2, S1, S4",5,3,2,Medium
+HOSP23G09192,Chc Pichhore,MADHYA PRADESH,Shivpuri,Public,PMJAY,No,S4,1,0,1,Medium
+HOSP23G09287,Civil Hospital Bareli,MADHYA PRADESH,Raisen,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G09297,Civil Hospital Begumganj,MADHYA PRADESH,Raisen,Public,PMJAY,No,"S1, M1, M7",3,2,1,High
+HOSP23G09305,Chc Mandideep,MADHYA PRADESH,Raisen,Public,PMJAY,No,"M1, M7, M2, S1, S4",5,3,2,High
+HOSP23G09312,Civil Hospital Mhow,MADHYA PRADESH,Indore,Public,PMJAY,No,"M1, M7, M2, S1, S3, S4, S5",7,3,4,High
+HOSP23G09321,Chc Kannod,MADHYA PRADESH,Dewas,Public,PMJAY,No,"M1, M7, M2, S1, S4, S6",6,3,3,Medium
+HOSP23G09342,Chc Maheshwar,MADHYA PRADESH,Khargone,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G09355,Civil Hospital Waraseoni,MADHYA PRADESH,Balaghat,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G09357,Ch Lanji,MADHYA PRADESH,Balaghat,Public,PMJAY,No,"M1, M7, S4",3,2,1,Medium
+HOSP23G09360,Community Health Center Katangi,MADHYA PRADESH,Balaghat,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G09362,Civil Hospital Jaora,MADHYA PRADESH,Ratlam,Public,PMJAY,No,"M2, S3, S4",3,1,2,Medium
+HOSP23G09386,Ch Vijayraghavgarh,MADHYA PRADESH,Katni,Public,PMJAY,No,S4,1,0,1,Medium
+HOSP23G09415,Chc Sanwer,MADHYA PRADESH,Indore,Public,PMJAY,No,S4,1,0,1,High
+HOSP23G09449,Community Health Center Silwani,MADHYA PRADESH,Raisen,Public,PMJAY,No,"S1, M1, M7",3,2,1,High
+HOSP23G09466,Chc Betma,MADHYA PRADESH,Indore,Public,PMJAY,No,"S4, ER, SG",3,0,2,High
+HOSP23G09527,Pandit Dean Dayal Upadhye Chc Manasa,MADHYA PRADESH,Neemuch,Public,PMJAY,No,"M1, M7, M2, S2, S3, S4",6,3,3,Medium
+HOSP23G09539,Chc Susner,MADHYA PRADESH,Agar Malwa,Public,PMJAY,No,"M1, M7, M2, S4, S5, S6",6,3,3,Low
+HOSP23G09578,Civil Hospital Amarpatan,MADHYA PRADESH,Satna,Public,PMJAY,No,"S1, S4, S5",3,0,3,Medium
+HOSP23G09588,Chc Mungaoli,MADHYA PRADESH,Ashok Nagar,Public,PMJAY,No,"M1, M7, M2, S4",4,3,1,Low
+HOSP23G09591,Govt.Civil Hospital Gadarwara,MADHYA PRADESH,Narsinghpur,Public,PMJAY,No,S1,1,0,1,Medium
+HOSP23G09596,Chc Bagli,MADHYA PRADESH,Dewas,Public,PMJAY,No,"M1, M7, M2, M3, M8, S4",6,5,1,Medium
+HOSP23G09602,Civil Hospital Sarangpur,MADHYA PRADESH,Rajgarh,Public,PMJAY,No,"M1, M7, M2, S16, S2, S3, S4, MN",8,4,4,Medium
+HOSP23G09618,Community Health Center Patan,MADHYA PRADESH,Jabalpur,Public,PMJAY,No,"S1, S4",2,0,2,High
+HOSP23G09641,Civil Hospital Sihora,MADHYA PRADESH,Jabalpur,Public,PMJAY,No,"M1, M7, M2",3,3,0,High
+HOSP23G09642,Chc Jeerapur,MADHYA PRADESH,Rajgarh,Public,PMJAY,No,"M1, M7, M3, S1, S3, S4, ID, MP",8,4,3,Medium
+HOSP23G09648,Chc Prathvipur,MADHYA PRADESH,Tikamgarh,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G09651,Ch Jawad,MADHYA PRADESH,Neemuch,Public,PMJAY,No,"M1, M7, S4",3,2,1,Medium
+HOSP23G09655,Chc Nagod,MADHYA PRADESH,Satna,Public,PMJAY,No,S1,1,0,1,Medium
+HOSP23G09661,Chc Singoli,MADHYA PRADESH,Neemuch,Public,PMJAY,No,"M1, M7, M2, S4",4,3,1,Medium
+HOSP23G09671,Civil Hospital Dabra,MADHYA PRADESH,Gwalior,Public,PMJAY,No,"M1, M7, S4",3,2,1,High
+HOSP23G09686,Chc Badagaon,MADHYA PRADESH,Tikamgarh,Public,PMJAY,No,"M1, M7, S1, S4",4,2,2,Medium
+HOSP23G09687,Chc Obaidullaganj,MADHYA PRADESH,Raisen,Public,PMJAY,No,"M1, M7, S3",3,2,1,High
+HOSP23G09714,Chc Shahpura,MADHYA PRADESH,Jabalpur,Public,PMJAY,No,S4,1,0,1,High
+HOSP23G09738,Chc Bajna,MADHYA PRADESH,Ratlam,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G09839,Civil Hospital Khurai,MADHYA PRADESH,Sagar,Public,PMJAY,No,"M1, M7, M2, S1, S16, S3, S4",7,3,4,High
+HOSP23G09840,Chc Palera,MADHYA PRADESH,Tikamgarh,Public,PMJAY,No,-NA-,1,0,0,Medium
+HOSP23G09863,Chc Lavkushnagar,MADHYA PRADESH,Chhatarpur,Public,PMJAY,No,"M1, M7, M2, S4",4,3,1,Medium
+HOSP23G09867,Civil Hospital Jiwajiganj Ujjain,MADHYA PRADESH,Ujjain,Public,PMJAY,No,"M1, M7, S1, S4",4,2,2,Medium
+HOSP23G09873,Madhav Nagar Hospital,MADHYA PRADESH,Ujjain,Public,PMJAY,No,"M1, M7, S1, S16, S3, S5, ER, MN, MO, MP, MR, NA, SO, ST",14,6,6,Medium
+HOSP23G09874,Chc Badamalehra,MADHYA PRADESH,Chhatarpur,Public,PMJAY,No,"M1, M7, M2",3,3,0,Medium
+HOSP23G09877,Community Health Center Pushprajgarh,MADHYA PRADESH,Anuppur,Public,PMJAY,No,"M1, M7",2,2,0,Low
+HOSP23G09878,Civil Hospital Nagda,MADHYA PRADESH,Ujjain,Public,PMJAY,No,S4,1,0,1,Medium
+HOSP23G09880,Chc Shahpura,MADHYA PRADESH,Dindori,Public,PMJAY,No,"M1, M7",2,2,0,Low
+HOSP23G09881,Community Health Center Niwari,MADHYA PRADESH,Tikamgarh,Public,PMJAY,No,"M1, M7, S5",3,2,1,Medium
+HOSP23G09886,Chc Amarpur,MADHYA PRADESH,Dindori,Public,PMJAY,No,"M1, M7, M2, S4",4,3,1,Low
+HOSP23G09887,Chc Bajag,MADHYA PRADESH,Dindori,Public,PMJAY,No,"M1, M7, M2, S4",4,3,1,Low
+HOSP23G09892,Chc Vikrampur,MADHYA PRADESH,Dindori,Public,PMJAY,No,"M1, M7, S4",3,2,1,Low
+HOSP23G09894,Chc Karanjiya,MADHYA PRADESH,Dindori,Public,PMJAY,No,"M1, M7, S4, MP",4,3,1,Low
+HOSP23G09898,Chc Mehandwani,MADHYA PRADESH,Dindori,Public,PMJAY,No,"M1, M7",2,2,0,Low
+HOSP23G09899,Chc Samnapur,MADHYA PRADESH,Dindori,Public,PMJAY,No,"M1, M7, S4",3,2,1,Low
+HOSP23G09900,Civil Hospital Hazira Gwalior,MADHYA PRADESH,Gwalior,Public,PMJAY,No,"M1, M7, M2, M3, S1, S16, S2, S3, S4, S5, S6",11,4,7,High
+HOSP23G09909,Chc Jharda,MADHYA PRADESH,Ujjain,Public,PMJAY,No,"M1, M7, S4",3,2,1,Medium
+HOSP23G09947,Chc Baldevgarh,MADHYA PRADESH,Tikamgarh,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G09952,Chc Devendranagar,MADHYA PRADESH,Panna,Public,PMJAY,No,"M1, M7, M2, S4",4,3,1,Low
+HOSP23G09958,Chc Goharganj,MADHYA PRADESH,Raisen,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G09970,Chc Jatara,MADHYA PRADESH,Tikamgarh,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G09975,Chc Khargapur,MADHYA PRADESH,Tikamgarh,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G09993,Ch Mahidpur,MADHYA PRADESH,Ujjain,Public,PMJAY,No,"M1, M7, M2, S1, S4",5,3,2,Medium
+HOSP23G100101,Chc Sonkatch,MADHYA PRADESH,Dewas,Public,PMJAY,No,"M1, M7, S4, ID, MN, MP",6,4,1,Medium
+HOSP23G100126,Aiims Bhopal,MADHYA PRADESH,Bhopal,Public,PMJAY,No,"M1, M2, S8, M7, S7, M3, M4, M5, M6, M8, S1, S10, S11, S12, S13, S14, S15, S16, S2, S3, S4, S5, S6, S9, BM, ER, ID, IN, OT, TG",30,8,16,High
+HOSP23G100170,Chc Narayangarh,MADHYA PRADESH,Mandsaur,Public,PMJAY,No,"M1, M7, MP, SO",4,3,1,High
+HOSP23G100173,Chc Nagari,MADHYA PRADESH,Mandsaur,Public,PMJAY,No,"M1, M7, M2, ER, SO",5,3,1,High
+HOSP23G100175,Chc Dhundharka,MADHYA PRADESH,Mandsaur,Public,PMJAY,No,"M1, M7, ER, MP, SO",5,3,1,High
+HOSP23G100200,Chc Mundi,MADHYA PRADESH,Khandwa,Public,PMJAY,No,"M1, M7, M2, M3, S4",5,4,1,Medium
+HOSP23G100209,Chc Jhik Bijuri,MADHYA PRADESH,Shahdol,Public,PMJAY,No,"M1, M7, S4",3,2,1,Medium
+HOSP23G100213,Jaisinghnagar,MADHYA PRADESH,Shahdol,Public,PMJAY,No,"M1, M7, M2, S4",4,3,1,Medium
+HOSP23G100218,Chc Chitrangi,MADHYA PRADESH,Singrauli,Public,PMJAY,No,"M1, M7, S4",3,2,1,Medium
+HOSP23G100220,Chc Dhanpuri,MADHYA PRADESH,Shahdol,Public,PMJAY,No,"M1, M7, S4",3,2,1,Medium
+HOSP23G100226,Chc Athner,MADHYA PRADESH,Betul,Public,PMJAY,No,"M1, M7, SO",3,2,1,Medium
+HOSP23G100234,Chc Bairdah,MADHYA PRADESH,Singrauli,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G100235,Chc Khujner,MADHYA PRADESH,Rajgarh,Public,PMJAY,No,"M1, M7, S4",3,2,1,Medium
+HOSP23G100258,Chc Satwas,MADHYA PRADESH,Dewas,Public,PMJAY,No,"M1, M7, S4, ER, ID",5,2,1,Medium
+HOSP23G100259,Chc Shahpur,MADHYA PRADESH,Betul,Public,PMJAY,No,"M1, M7, SO",3,2,1,Medium
+HOSP23G100261,Chc Chicholi,MADHYA PRADESH,Betul,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G100277,Chc Beenaganj,MADHYA PRADESH,Guna,Public,PMJAY,No,"M1, M7, M2",3,3,0,Low
+HOSP23G100291,Chc Shahapur,MADHYA PRADESH,Burhanpur,Public,PMJAY,No,"M1, M7, ER, SO",4,2,1,Medium
+HOSP23G100293,Chc Morwa,MADHYA PRADESH,Singrauli,Public,PMJAY,No,"M1, M7, S4",3,2,1,Medium
+HOSP23G100294,Chc Narwar,MADHYA PRADESH,Ujjain,Public,PMJAY,No,"M1, M7, S4",3,2,1,Medium
+HOSP23G100297,Chc Bijawar,MADHYA PRADESH,Chhatarpur,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G100300,Chc Deosar,MADHYA PRADESH,Singrauli,Public,PMJAY,No,"M1, M7, S4",3,2,1,Medium
+HOSP23G100304,Chc Sehra,MADHYA PRADESH,Betul,Public,PMJAY,No,"M1, M7, SO",3,2,1,Medium
+HOSP23G100351,Chc Multai,MADHYA PRADESH,Betul,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G100355,Community Health Centre Handiya,MADHYA PRADESH,Harda,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G100377,Chc Nepangar,MADHYA PRADESH,Burhanpur,Public,PMJAY,No,"M1, M7, ER, SO",4,2,1,Medium
+HOSP23G100388,Chc Ghoradongri,MADHYA PRADESH,Betul,Public,PMJAY,No,"M1, M7, SO",3,2,1,Medium
+HOSP23G100421,Chc Myana,MADHYA PRADESH,Guna,Public,PMJAY,No,"M1, M7",2,2,0,Low
+HOSP23G100424,Comunity Health Center Parasi,MADHYA PRADESH,Anuppur,Public,PMJAY,No,"M1, M7, S4",3,2,1,Low
+HOSP23G100426,Civil Hospital Ambah,MADHYA PRADESH,Morena,Public,PMJAY,No,"M1, M7, M2, S5, MN, S4",6,4,2,Medium
+HOSP23G100430,Chc Suthaliya,MADHYA PRADESH,Rajgarh,Public,PMJAY,No,"M1, M7, M2, S1, S2, S3, S4, S5",8,3,5,Medium
+HOSP23G100436,Chc Noorabad,MADHYA PRADESH,Morena,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G100437,Chc Indergarh,MADHYA PRADESH,Datia,Public,PMJAY,No,"M1, M7, S4",3,2,1,Low
+HOSP23G100438,Chc Raghogarh,MADHYA PRADESH,Guna,Public,PMJAY,No,"M1, M7, M2",3,3,0,Low
+HOSP23G100441,Chc Bhainsdehi,MADHYA PRADESH,Betul,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G100450,Chc Funga,MADHYA PRADESH,Anuppur,Public,PMJAY,No,"M1, M7, S4",3,2,1,Low
+HOSP23G100496,Chc Khaknar,MADHYA PRADESH,Burhanpur,Public,PMJAY,No,"M1, M7, ER, SO",4,2,1,Medium
+HOSP23G100498,Chc Gaurihar,MADHYA PRADESH,Chhatarpur,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G100502,Chc Surkhi,MADHYA PRADESH,Sagar,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G100506,Chc Para,MADHYA PRADESH,Jhabua,Public,PMJAY,No,"M1, M7, S4",3,2,1,Low
+HOSP23G100509,Chc Bhimpur,MADHYA PRADESH,Betul,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G100511,Public Hospital Narwar,MADHYA PRADESH,Shivpuri,Public,PMJAY,No,"M1, M7, S4",3,2,1,Medium
+HOSP23G100512,Community Health Centre Kotma,MADHYA PRADESH,Anuppur,Public,PMJAY,No,"M1, M7",2,2,0,Low
+HOSP23G10053,Chc Bhander,MADHYA PRADESH,Datia,Public,PMJAY,No,"M1, M7, S1, S4",4,2,2,Low
+HOSP23G10055,Chc Ghatiya,MADHYA PRADESH,Ujjain,Public,PMJAY,No,"M1, M7, S4",3,2,1,Medium
+HOSP23G100565,Chc Kishangarh,MADHYA PRADESH,Chhatarpur,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G100576,Chc Unchehara,MADHYA PRADESH,Satna,Public,PMJAY,No,"M1, M7, MP, SO",4,3,1,Medium
+HOSP23G100578,Community Health Center Tyonda,MADHYA PRADESH,Vidisha,Public,PMJAY,No,"M1, M7, M2, S4",4,3,1,High
+HOSP23G100581,Chcghuwara,MADHYA PRADESH,Chhatarpur,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G100582,Chc Majjhgawan,MADHYA PRADESH,Satna,Public,PMJAY,No,"M1, M7, MP, SO",4,3,1,Medium
+HOSP23G100583,Chc Kesli,MADHYA PRADESH,Sagar,Public,PMJAY,No,"M1, M7, S1, S4",4,2,2,High
+HOSP23G100584,Chc Pachmari,MADHYA PRADESH,Hoshangabad,Public,PMJAY,No,"M1, M7, S4",3,2,1,High
+HOSP23G100599,Chc Jaitehri,MADHYA PRADESH,Anuppur,Public,PMJAY,No,"M1, M7",2,2,0,Low
+HOSP23G100602,Community Health Center Venkatnagar,MADHYA PRADESH,Anuppur,Public,PMJAY,No,"M1, M7",2,2,0,Low
+HOSP23G100612,Chc Lalbagh,MADHYA PRADESH,Burhanpur,Public,PMJAY,No,"M1, M7, ER, SO",4,2,1,Medium
+HOSP23G100619,Chc  Pohari,MADHYA PRADESH,Shivpuri,Public,PMJAY,No,"M1, M7, S4",3,2,1,Medium
+HOSP23G100631,Chc Amdara,MADHYA PRADESH,Satna,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G100634,Civil Hospital Barnagar,MADHYA PRADESH,Ujjain,Public,PMJAY,No,"M1, M7, M2, S1, S4",5,3,2,Medium
+HOSP23G100669,Chc Sirali,MADHYA PRADESH,Harda,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G100675,Community Health Centre Sainkheda,MADHYA PRADESH,Narsinghpur,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G10069,Chc Tarana,MADHYA PRADESH,Ujjain,Public,PMJAY,No,"M1, M7, S4",3,2,1,Medium
+HOSP23G100696,Chc Rajmarg Chouraha,MADHYA PRADESH,Narsinghpur,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G100711,Govt Civil Hospital Pandhurna,MADHYA PRADESH,Chhindwara,Public,PMJAY,No,"M1, M7, M2, S4, MN, SB, SE, SG",8,4,4,Medium
+HOSP23G100716,Chc Nateran,MADHYA PRADESH,Vidisha,Public,PMJAY,No,"M1, M7, S4, MP",4,3,1,High
+HOSP23G100731,Chc Niwash,MADHYA PRADESH,Singrauli,Public,PMJAY,No,"M1, M7, S4",3,2,1,Medium
+HOSP23G10076,Community Health Center Gairatganj,MADHYA PRADESH,Raisen,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G100777,Chc Jaisinagar,MADHYA PRADESH,Sagar,Public,PMJAY,No,"M1, M7, S4",3,2,1,High
+HOSP23G100796,Civil Hospital Khachrod,MADHYA PRADESH,Ujjain,Public,PMJAY,No,"M1, M7, SO",3,2,1,Medium
+HOSP23G100917,Chc Garhakota,MADHYA PRADESH,Sagar,Public,PMJAY,No,"M1, M7, S4",3,2,1,High
+HOSP23G100996,Chc Khutar,MADHYA PRADESH,Singrauli,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G10110,Chc Amanganj,MADHYA PRADESH,Panna,Public,PMJAY,No,"M1, M7",2,2,0,Low
+HOSP23G101101,Chc Malthone,MADHYA PRADESH,Sagar,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G101107,Chc Mandibamora,MADHYA PRADESH,Sagar,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G101163,Chc Mohkhed,MADHYA PRADESH,Chhindwara,Public,PMJAY,No,"M1, M7, SO",3,2,1,Medium
+HOSP23G101210,Urban Community Health Center Banganga Indore,MADHYA PRADESH,Indore,Public,PMJAY,No,"M1, M7, M2, S1, S4",5,3,2,High
+HOSP23G101249,Chc Kurai,MADHYA PRADESH,Seoni,Public,PMJAY,No,"M1, M7",2,2,0,Low
+HOSP23G101406,Chc Karahal,MADHYA PRADESH,Sheopur,Public,PMJAY,No,"M1, M7, ER, ID, SO, ST",6,2,2,Low
+HOSP23G101550,Chc Kolaras,MADHYA PRADESH,Shivpuri,Public,PMJAY,No,"M1, M7, S4",3,2,1,Medium
+HOSP23G102013,Central Hospital,MADHYA PRADESH,Singrauli,GOI,PMJAY,No,"M1, M7, S16, S3, S4",5,2,3,Medium
+HOSP23G102120,Chc Bichhiya,MADHYA PRADESH,Mandla,Public,PMJAY,No,"M1, M7, BM, MN, MP, SO",6,4,1,Medium
+HOSP23G102158,C.H.C.Khilchipur,MADHYA PRADESH,Rajgarh,Public,PMJAY,No,"M1, M7, S4, ER, MN, MP",6,4,1,Medium
+HOSP23G102180,Chc Baroda,MADHYA PRADESH,Sheopur,Public,PMJAY,No,"M1, M7, ER, SO",4,2,1,Low
+HOSP23G102186,Chc Pachore,MADHYA PRADESH,Rajgarh,Public,PMJAY,No,"M1, M7, S3, S4",4,2,2,Medium
+HOSP23G102201,Chc Boda,MADHYA PRADESH,Rajgarh,Public,PMJAY,No,"M1, M7, S4",3,2,1,Medium
+HOSP23G102217,Government Meternity Home Birla Nagar Gwalior,MADHYA PRADESH,Gwalior,Public,PMJAY,No,"M1, M7, S4",3,2,1,High
+HOSP23G102261,Chc Badarwas,MADHYA PRADESH,Shivpuri,Public,PMJAY,No,"M1, M7, S4",3,2,1,Medium
+HOSP23G102697,Chc Nowgong,MADHYA PRADESH,Chhatarpur,Public,PMJAY,No,"M1, M7, M2, S1, S3, S4, S5",7,3,4,Medium
+HOSP23G103039,Chc Banda,MADHYA PRADESH,Sagar,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G103119,Civil Hospital Shujalpur City,MADHYA PRADESH,Shajapur,Public,PMJAY,No,"M1, M7, ER, MN, MP, SG, SN, SO, SS",9,4,4,Medium
+HOSP23G10346,Community Health Center Sanchi,MADHYA PRADESH,Raisen,Public,PMJAY,No,S2,1,0,1,High
+HOSP23G10390,Chc Udaipura,MADHYA PRADESH,Raisen,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G10405,Chc Badi,MADHYA PRADESH,Raisen,Public,PMJAY,No,"M1, M7, BM, SO",4,2,1,High
+HOSP23G10418,Civil Hospital Sendhwa,MADHYA PRADESH,Barwani,Public,PMJAY,No,"M1, M7, S16, S4",4,2,2,High
+HOSP23G10440,Chc Ingoriya,MADHYA PRADESH,Ujjain,Public,PMJAY,No,"M1, M7, SO",3,2,1,Medium
+HOSP23G106240,Chc Satanwara,MADHYA PRADESH,Shivpuri,Public,PMJAY,No,"M1, M7, S4",3,2,1,Medium
+HOSP23G106300,Chc Kurwai,MADHYA PRADESH,Vidisha,Public,PMJAY,No,"M1, M7, M2, S1, S4",5,3,2,High
+HOSP23G106409,Chc Gyaraspur,MADHYA PRADESH,Vidisha,Public,PMJAY,No,"M1, M7, ER, ID, MP, SO, ST",7,3,2,High
+HOSP23G106945,Community Health Centar Lateri,MADHYA PRADESH,Vidisha,Public,PMJAY,No,"M1, M7, S4",3,2,1,High
+HOSP23G10740,Chc Burhar,MADHYA PRADESH,Shahdol,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G10762,Chc Gohparu,MADHYA PRADESH,Shahdol,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G107927,Burhar Central Hospital,MADHYA PRADESH,Shahdol,GOI,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G108404,Government Medical College Shahdol,MADHYA PRADESH,Shahdol,Public,PMJAY,No,"M1, M7, M2, M3, M8, S1, S16, S2, S3, S4, S5, BM, ER, ID, IN, MC, MO, MR, NA, SC, SN, SP, SS, ST, SU, SV",26,8,13,Medium
+HOSP23G108570,Regional Hospital Kotma Colliery,MADHYA PRADESH,Anuppur,GOI,PMJAY,No,"M1, M7",2,2,0,Low
+HOSP23G108580,Regional Hospital Nowrozabad,MADHYA PRADESH,Umaria,GOI,PMJAY,No,"M1, M7",2,2,0,Low
+HOSP23G110965,Chc Shamshabad,MADHYA PRADESH,Vidisha,Public,PMJAY,No,"M1, M2, S8, M7, M8, S1, S10, S11, S2, S3, S4, S5, S7",13,4,9,High
+HOSP23G111317,Chc Rahatgarh,MADHYA PRADESH,Sagar,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G111399,Chc Shahgarh,MADHYA PRADESH,Sagar,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G111401,Chc Chhaigaonmakhan,MADHYA PRADESH,Khandwa,Public,PMJAY,No,"M1, M7, S4",3,2,1,Medium
+HOSP23G111425,Uchc Makroniya Bujurg,MADHYA PRADESH,Sagar,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G111508,Chc Rehli,MADHYA PRADESH,Sagar,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G111542,Gmc Hospital Ratlam,MADHYA PRADESH,Ratlam,Public,PMJAY,No,"M1, M2, S8, M7, S7, M3, M4, M5, M6, M8, S1, S10, S11, S12, S14, S15, S16, S2, S3, S4, S5, S6",22,8,14,Medium
+HOSP23G111559,Super Speciality Hospiatal Nscb Medical College,MADHYA PRADESH,Jabalpur,Public,PMJAY,No,"M1, M2, S8, M7, S7, M3, M4, M5, S1, S12, S13, S14, S15, S2, S5, S6, S9",17,6,11,High
+HOSP23G111653,Abv Goverment Medical College And Associated Hospital,MADHYA PRADESH,Vidisha,Public,PMJAY,No,"M1, M7, M2, M3, M4, M5, M6, M8, S1, S10, S11, S16, S2, S3, S4, S5, S6, ER, MC, SU",20,9,10,High
+HOSP23G112239,Chc Pipalkheda,MADHYA PRADESH,Vidisha,Public,PMJAY,No,"M1, M7, S4",3,2,1,High
+HOSP23G11226,Chc Gandhwani,MADHYA PRADESH,Dhar,Public,PMJAY,No,MG,1,1,0,High
+HOSP23G11237,Community Health Center Dahi,MADHYA PRADESH,Dhar,Public,PMJAY,No,"M1, M7, BM, MP, SG, SO",6,3,2,High
+HOSP23G112469,Chc Sarai,MADHYA PRADESH,Singrauli,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G112475,Capf Composite Hospital Bsf,MADHYA PRADESH,Gwalior,GOI,PMJAY,No,"M1, M7, M2, S1, S16, S4, S5",7,3,4,High
+HOSP23G112858,Chc Bhikhangaon,MADHYA PRADESH,Khargone,Public,PMJAY,No,"M1, M7, S4",3,2,1,High
+HOSP23G112899,Chc Bhagwanpura,MADHYA PRADESH,Khargone,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G113222,Chc Rampur Naikin,MADHYA PRADESH,Sidhi,Public,PMJAY,No,"M1, M7, M2",3,3,0,Low
+HOSP23G113824,Community Health Center Gurh,MADHYA PRADESH,Rewa,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G114106,Chc Polaykala,MADHYA PRADESH,Shajapur,Public,PMJAY,No,"M1, M7, ER, SG, SO",5,2,2,Medium
+HOSP23G114123,Chc Bagh,MADHYA PRADESH,Dhar,Public,PMJAY,No,"M1, M7, ER, ID, MP, SG, SO, ST",8,3,3,High
+HOSP23G114211,Chc Devrajnagar,MADHYA PRADESH,Satna,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G114251,Chc Ramnagar,MADHYA PRADESH,Satna,Public,PMJAY,No,"M1, M7, ER, MP, SO",5,3,1,Medium
+HOSP23G114453,Chc Thikari,MADHYA PRADESH,Barwani,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G11452,Civil Hospital Seondha,MADHYA PRADESH,Datia,Public,PMJAY,No,"M1, M7",2,2,0,Low
+HOSP23G114532,Superspeciality Hospital,MADHYA PRADESH,Gwalior,Public,PMJAY,No,"M1, M7, S7, M2, M3, S1, S14, S3, S4, S5, S8, S9, SL",13,4,9,High
+HOSP23G11458,Chc Singhpur,MADHYA PRADESH,Shahdol,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G114625,C.H.C. Pandhana,MADHYA PRADESH,Khandwa,Public,PMJAY,No,"M1, M7, M2, S4",4,3,1,Medium
+HOSP23G114841,Community Health Center Dhanora,MADHYA PRADESH,Seoni,Public,PMJAY,No,"M1, M7",2,2,0,Low
+HOSP23G114850,Chc Killod,MADHYA PRADESH,Khandwa,Public,PMJAY,No,"M1, M7, S4, ER, ID",5,2,1,Medium
+HOSP23G115186,Chc Nalkheda,MADHYA PRADESH,Agar Malwa,Public,PMJAY,No,"M1, M7, ER, ID, MP, NA, SG, SO",8,3,2,Low
+HOSP23G11537,Chcmanawar,MADHYA PRADESH,Dhar,Public,PMJAY,No,"M1, M7, S4, S5",4,2,2,High
+HOSP23G11544,Chc Pawai,MADHYA PRADESH,Panna,Public,PMJAY,No,"M1, M7, M2, S4",4,3,1,Low
+HOSP23G11560,Community Health Centar Nisarpur,MADHYA PRADESH,Dhar,Public,PMJAY,No,MG,1,1,0,High
+HOSP23G11562,Chc Budhni,MADHYA PRADESH,Sehore,Public,PMJAY,No,"M1, M7, M2, S4, S6",5,3,2,High
+HOSP23G119049,Chc Vijaypur,MADHYA PRADESH,Sheopur,Public,PMJAY,No,"M1, M7, ER, SO",4,2,1,Low
+HOSP23G119370,Super Speciality Hospital,MADHYA PRADESH,Rewa,Public,PMJAY,No,"M1, M2, S8, S7, M3, S12, S13, S9, ER, ID, MG, MO, MP, NA, OT, SC, SG, SM, SS",19,6,9,High
+HOSP23G120132,Chc Barode,MADHYA PRADESH,Agar Malwa,Public,PMJAY,No,"M1, M7, ER, SO",4,2,1,Low
+HOSP23G120859,Govt Master Lal Singh Hospital Gas Rahat Bhopal,MADHYA PRADESH,Bhopal,Public,PMJAY,No,"M1, M7, M2, S2, S3, S4, S5",7,3,4,High
+HOSP23G121108,Chc Isagarh,MADHYA PRADESH,Ashok Nagar,Public,PMJAY,No,"M1, M7",2,2,0,Low
+HOSP23G121156,Chc Mau,MADHYA PRADESH,Bhind,Public,PMJAY,No,"M1, M7, SO",3,2,1,Medium
+HOSP23G12122,Civil Hospital,MADHYA PRADESH,Dhar,Public,PMJAY,No,"S1, S16, S4",3,0,3,High
+HOSP23G121298,Chc Manpur,MADHYA PRADESH,Indore,Public,PMJAY,No,"M1, M7, M2, S4",4,3,1,High
+HOSP23G121713,Civil Hospital Shujalpur,MADHYA PRADESH,Shajapur,Public,PMJAY,No,"M1, M7, S1, S16, S3, S4, MN, MP, SS",9,4,5,Medium
+HOSP23G122086,Chc Kalapipal,MADHYA PRADESH,Shajapur,Public,PMJAY,No,"M1, M7, SO",3,2,1,Medium
+HOSP23G122365,Chc Badoni,MADHYA PRADESH,Datia,Public,PMJAY,No,"M1, M7, ID, SO",4,2,1,Low
+HOSP23G122474,Community Health Center Sundarsi,MADHYA PRADESH,Shajapur,Public,PMJAY,No,"M1, M7, ER, SG, SO",5,2,2,Medium
+HOSP23G122479,Civil Hospital Akodiya,MADHYA PRADESH,Shajapur,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G122480,Ch Anjad,MADHYA PRADESH,Barwani,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G122570,Chc Lalburra,MADHYA PRADESH,Balaghat,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G122625,Civil Hospital Baihar,MADHYA PRADESH,Balaghat,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G122702,Chc Gopalganj,MADHYA PRADESH,Seoni,Public,PMJAY,No,MG,1,1,0,Low
+HOSP23G122703,Ch Barghat,MADHYA PRADESH,Seoni,Public,PMJAY,No,"S1, ER, MG",3,1,1,Low
+HOSP23G122800,Civil Hospital Keolari,MADHYA PRADESH,Seoni,Public,PMJAY,No,MG,1,1,0,Low
+HOSP23G122851,Chc Rampayli,MADHYA PRADESH,Balaghat,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G123225,Composite Hospital,MADHYA PRADESH,Neemuch,GOI,PMJAY,No,"MG, SE, SG, SO",4,1,3,Medium
+HOSP23G123374,Chc Amjhera,MADHYA PRADESH,Dhar,Public,PMJAY,No,"MG, SG",2,1,1,High
+HOSP23G123390,Chc Churhat,MADHYA PRADESH,Sidhi,Public,PMJAY,No,"M1, M7, SO",3,2,1,Low
+HOSP23G123463,Chc Birsa,MADHYA PRADESH,Balaghat,Public,PMJAY,No,MG,1,1,0,Medium
+HOSP23G123986,Chc Mangilal Churiya Hospital,MADHYA PRADESH,Indore,Public,PMJAY,No,"MG, SO",2,1,1,High
+HOSP23G12428,Chc Jeeran,MADHYA PRADESH,Neemuch,Public,PMJAY,No,"M1, M7, S4",3,2,1,Medium
+HOSP23G126899,Government Medical College,MADHYA PRADESH,Shivpuri,Public,PMJAY,No,"IN, MG, MO, MP, SB, SE, SG, SO, SS, SU, BM, ER, ID, MC, MM, MN, MR, NA, SC, SL, SM, SN, SP, ST, SV",25,7,13,Medium
+HOSP23G127575,Chc Sardarpur,MADHYA PRADESH,Dhar,Public,PMJAY,No,"MG, SO",2,1,1,High
+HOSP23G127582,Community Health Centre Dharmpuri,MADHYA PRADESH,Dhar,Public,PMJAY,No,"ER, MG, MN, SE, SO",5,2,2,High
+HOSP23G127599,Community Health Centre Dhamnod,MADHYA PRADESH,Dhar,Public,PMJAY,No,"BM, MG, MN, SE, SG, SO",6,2,3,High
+HOSP23G12767,Chc Pithampur,MADHYA PRADESH,Dhar,Public,PMJAY,No,S4,1,0,1,High
+HOSP23G128116,Nandkumar Sigh Chouhan Government Medical College,MADHYA PRADESH,Khandwa,Public,PMJAY,No,"BM, ER, MC, MG, MN, MO, MP, MR, SB, SC, SE, SG, SL, SO, SS, ST",16,6,8,Medium
+HOSP23G128168,Dental Square,MADHYA PRADESH,Jabalpur,Public,Only CGHS,No,SM,1,0,1,High
+HOSP23G129633,Seth Mannulal Jagannath Das Trust Hospital,MADHYA PRADESH,Jabalpur,Private(Not For Profit),Only CGHS,Yes,"BM, CP, MC, MG, MN, MO, MP, OC, SB, SE, SG, SM, SN, SO, SP, SS, SU",17,5,9,High
+HOSP23G129692,Bhandari Poly Clinic Pvt. Ltd.,MADHYA PRADESH,Jabalpur,Public,Only CGHS,Yes,"MC, MG, MR, SB, SG, SN, SP, ST",8,3,5,High
+HOSP23G135294,Civil Hospital Badnawar,MADHYA PRADESH,Dhar,Public,PMJAY,No,"BM, MG, SG, SO",4,1,2,High
+HOSP23G13534,Community Health Center Tanda,MADHYA PRADESH,Dhar,Public,PMJAY,No,MG,1,1,0,High
+HOSP23G135549,Dr Knk Govt Hospital,MADHYA PRADESH,Bhopal,Public,PMJAY,No,"MG, MM, MP, SB, SE, SG, SO, ST, ER, ID, MN",11,4,5,High
+HOSP23G135770,Chc Umarban,MADHYA PRADESH,Dhar,Public,PMJAY,No,MG,1,1,0,High
+HOSP23G136109,Chc Raipur Karchuliyan,MADHYA PRADESH,Rewa,Public,PMJAY,No,"MG, ER, SO",3,1,1,High
+HOSP23G136429,Ch Malharganj,MADHYA PRADESH,Indore,Public,PMJAY,No,"MG, SO",2,1,1,High
+HOSP23G136464,Community Health Center Kundam,MADHYA PRADESH,Jabalpur,Public,PMJAY,No,MG,1,1,0,High
+HOSP23G136851,Chc Chakghat,MADHYA PRADESH,Rewa,Public,PMJAY,No,"MG, ER, SO",3,1,1,High
+HOSP23G137104,Chc Teonthar,MADHYA PRADESH,Rewa,Public,PMJAY,No,"MG, MN, MP, SO",4,3,1,High
+HOSP23G137106,Civil Hospital Omkareshwar,MADHYA PRADESH,Khandwa,Public,PMJAY,No,"MG, SB, SO, ER, ID",5,1,2,Medium
+HOSP23G137158,C.H.C Naya Harsud,MADHYA PRADESH,Khandwa,Public,PMJAY,No,"MG, ER, ID, SO",4,1,1,Medium
+HOSP23G137218,Chc Bagod,MADHYA PRADESH,Khargone,Public,PMJAY,No,"ID, MG",2,1,0,High
+HOSP23G137275,C.H.C Punasa,MADHYA PRADESH,Khandwa,Public,PMJAY,No,"ID, MG, SO",3,1,1,Medium
+HOSP23G137341,Chc Pati,MADHYA PRADESH,Barwani,Public,PMJAY,No,"ID, MG, MN, MP, SO",5,3,1,High
+HOSP23G137573,Chc Rajpur,MADHYA PRADESH,Barwani,Public,PMJAY,No,"BM, ER, ID, MC, MG, MM, MN, MO, MP, MR, NA, SB, SC, SE, SG, SL, SM, SO, SP, SS, SU, SV",22,7,11,High
+HOSP23G137787,Chc Pansemal,MADHYA PRADESH,Barwani,Public,PMJAY,No,"ID, MG, MN, MP",4,3,0,High
+HOSP23G138138,Chc Manigawan,MADHYA PRADESH,Rewa,Public,PMJAY,No,"MG, SB, SO",3,1,2,High
+HOSP23G138162,Chc Roun,MADHYA PRADESH,Bhind,Public,PMJAY,No,"ER, MG, SO",3,1,1,Medium
+HOSP23G138219,Chc Semariya,MADHYA PRADESH,Rewa,Public,PMJAY,No,"MG, SO",2,1,1,High
+HOSP23G138260,Ch Banmore,MADHYA PRADESH,Morena,Public,PMJAY,No,"ER, ID, MG, MP, SB, SO",6,2,2,Medium
+HOSP23G139200,Chhindwara Institute Of Medical Sciences,MADHYA PRADESH,Chhindwara,Public,PMJAY,No,"BM, ER, ID, IN, MC, MG, MM, MN, MO, MP, MR, NA, SB, SC, SE, SG, SL, SM, SN, SO, SP, SS, ST, SU, SV",25,7,13,Medium
+HOSP23G140108,Chc Govindgarh,MADHYA PRADESH,Rewa,Public,PMJAY,No,"ER, MG, SO",3,1,1,High
+HOSP23G140460,Ch Amarwara,MADHYA PRADESH,Chhindwara,Public,PMJAY,No,MG,1,1,0,Medium
+HOSP23G14221,Rajiv Gandhi Civil Hospital,MADHYA PRADESH,Vidisha,Public,PMJAY,No,"M1, M7, S3, S4, ER, MN, MP",7,4,2,High
+HOSP23G14276,Ch Petlawad,MADHYA PRADESH,Jhabua,Public,PMJAY,No,S1,1,0,1,Low
+HOSP23G142796,C.H.C Khalwa,MADHYA PRADESH,Khandwa,Public,PMJAY,No,"ID, MG, MN, MP, SO",5,3,1,Medium
+HOSP23G14285,Chc Thandla,MADHYA PRADESH,Jhabua,Public,PMJAY,No,"M1, M7, M2, S4, ER, ID, MN, SB, SE, SG, SL, SM, ST, SU",14,4,8,Low
+HOSP23G14288,Chc Ranapur,MADHYA PRADESH,Jhabua,Public,PMJAY,No,"M1, M7, S4",3,2,1,Low
+HOSP23G143067,Chc Rampur Baghelan,MADHYA PRADESH,Satna,Public,PMJAY,No,MG,1,1,0,Medium
+HOSP23G144928,Phc Veerpurdam,MADHYA PRADESH,Sehore,Public,PMJAY,No,"MG, MP, SE, SO",4,2,2,High
+HOSP23G14540,Chc Meghnagar,MADHYA PRADESH,Jhabua,Public,PMJAY,No,"M1, M7, ER, MN, MP, SB, SE, SG, SL, SM, SO, ST",12,4,7,Low
+HOSP23G146201,Ch Chanderi,MADHYA PRADESH,Ashok Nagar,Public,PMJAY,No,"ER, ID, MG",3,1,0,Low
+HOSP23G14678,Teonthar,MADHYA PRADESH,Rewa,Public,PMJAY,No,"MP, SO",2,1,1,High
+HOSP23G146982,Chc Panagar,MADHYA PRADESH,Jabalpur,Public,PMJAY,No,"MG, ER, MP, SO",4,2,1,High
+HOSP23G147272,Chc Amayan,MADHYA PRADESH,Bhind,Public,PMJAY,No,"ER, MG",2,1,0,Medium
+HOSP23G147705,Chc Majholi,MADHYA PRADESH,Jabalpur,Public,PMJAY,No,"ID, MG, MP",3,2,0,High
+HOSP23G147759,School Of Exc For Eye,MADHYA PRADESH,Indore,Public,PMJAY,No,SE,1,0,1,High
+HOSP23G147783,Superspeciality Hospital Mgm Medical College Indore,MADHYA PRADESH,Indore,Public,PMJAY,No,"BM, ER, ID, IN, MC, MG, MM, MN, MO, MP, MR, NA, OT, SB, SC, SE, SG, SL, SM, SN, SO, SP, SS, ST, SU, SV",26,7,13,High
+HOSP23G14808,Sirmour,MADHYA PRADESH,Rewa,Public,PMJAY,No,"M1, M7, M2, ER, ID, SO, ST",7,3,2,High
+HOSP23G14812,Chc Mauganj,MADHYA PRADESH,Rewa,Public,PMJAY,No,"M1, M7, ER, SG, SO",5,2,2,High
+HOSP23G150647,Phc Rampur Kalan,MADHYA PRADESH,Morena,Public,PMJAY,No,"ER, MG",2,1,0,Medium
+HOSP23G15073,Chc Jawa,MADHYA PRADESH,Rewa,Public,PMJAY,No,"M1, M7, S4",3,2,1,High
+HOSP23G150989,Csc Bori,MADHYA PRADESH,Alirajpur,Public,PMJAY,No,"BM, ER, ID, MG, MP, SB, SG, SO",8,2,3,Low
+HOSP23G15473,Chc  Rama,MADHYA PRADESH,Jhabua,Public,PMJAY,No,"M1, M7, S4",3,2,1,Low
+HOSP23G15502,Civil Hospital Lakhnadon,MADHYA PRADESH,Seoni,Public,PMJAY,No,"M1, M7, M2, S1, S2, S4, S5, S6",8,3,5,Low
+HOSP23G15647,Rajeev Gandhi Memorial Hospital Sironj,MADHYA PRADESH,Vidisha,Public,PMJAY,No,"M1, M7, M2, S16, S4",5,3,2,High
+HOSP23G158395,Chc Niwali,MADHYA PRADESH,Barwani,Public,PMJAY,No,"ER, ID, MG, MP, SB, SG, SO",7,2,3,High
+HOSP23G16062,Civil Hospital Biaora,MADHYA PRADESH,Rajgarh,Public,PMJAY,No,"M1, M7, M2, S1, S3, S4, S5",7,3,4,Medium
+HOSP23G16084,Ch Narsinggarh,MADHYA PRADESH,Rajgarh,Public,PMJAY,No,"M1, M7, S1, S4, S5",5,2,3,Medium
+HOSP23G166151,Maternity Home Laxmiganj,MADHYA PRADESH,Gwalior,Public,PMJAY,No,"ER, MN, MP, SO",4,2,1,High
+HOSP23G170115,Dr Agrawals Eye Hospital,MADHYA PRADESH,Indore,Public,Only CGHS,No,SE,1,0,1,High
+HOSP23G171327,Government Mental Hospital,MADHYA PRADESH,Indore,Public,PMJAY,No,"ER, MG, MM",3,2,0,High
+HOSP23G171487,Manorama Raje T.B. Hospital,MADHYA PRADESH,Indore,Public,PMJAY,No,"ID, MG",2,1,0,High
+HOSP23G171595,Maharaja  Tukojirao Holkar Womens Hospital,MADHYA PRADESH,Indore,Public,PMJAY,No,"ER, ID, MG, MN, MP, SO",6,3,1,High
+HOSP23G171766,Chacha Nehru Bal Chikitsalay,MADHYA PRADESH,Indore,Public,PMJAY,No,"ID, MG, MP, NA",4,2,0,High
+HOSP23G196312,Medanta Super Specility Hospital Indore,MADHYA PRADESH,Indore,Public,Only CGHS,No,"CP, MC, MG, OC, SB, SG, SL, SN, SO, SP, SU, SV",12,2,8,High
+HOSP23G202822,Chc Dhodhar,MADHYA PRADESH,Sheopur,Public,PMJAY,No,"ER, MG, SO",3,1,1,Low
+HOSP23G202880,Phc Premsar,MADHYA PRADESH,Sheopur,Public,PMJAY,No,"ER, ID, MG, MP, SO",5,2,1,Low
+HOSP23G202960,Primary Health Center Nahargarh,MADHYA PRADESH,Mandsaur,Public,PMJAY,No,"ER, MG, MP, SO",4,2,1,High
+HOSP23G203939,Urban Chc Manmohan Nagar,MADHYA PRADESH,Jabalpur,Public,PMJAY,No,"ER, ID, MG, MP, SL, SO",6,2,2,High
+HOSP23G207487,Phc Alampur,MADHYA PRADESH,Bhind,Public,PMJAY,No,"ER, MG",2,1,0,Medium
+HOSP23G21318,Chc Bahoriband,MADHYA PRADESH,Katni,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G56763,Civil Hospital Sausar,MADHYA PRADESH,Chhindwara,Public,PMJAY,No,"M2, S3, S4",3,1,2,Medium
+HOSP23G60096,Government Cancer Hospital,MADHYA PRADESH,Indore,Public,PMJAY,No,"M5, M6, S15",3,2,1,High
+HOSP23G60607,Chc Segaon,MADHYA PRADESH,Khargone,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G61089,Dr Shyama Prasad Mukharji Hospital,MADHYA PRADESH,Hoshangabad,Public,PMJAY,No,"M1, M7, M2, M3, S1, S4",6,4,2,High
+HOSP23G61229,Chc Karera,MADHYA PRADESH,Shivpuri,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G62846,Ch.Aron,MADHYA PRADESH,Guna,Public,PMJAY,No,"M1, M7, M2, S16",4,3,1,Low
+HOSP23G62922,Chc Khaniyadhana,MADHYA PRADESH,Shivpuri,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G70809,Chc Joura,MADHYA PRADESH,Morena,Public,PMJAY,No,"M1, M7, M2, S4",4,3,1,Medium
+HOSP23G70813,Lavkesh Singh Govt.Civil Hospital Beohari,MADHYA PRADESH,Shahdol,Public,PMJAY,No,"M1, M7, M2, S16, S4",5,3,2,Medium
+HOSP23G70842,Community Health Centre Kailaras,MADHYA PRADESH,Morena,Public,PMJAY,No,"M1, M7, M2, S1, S4, S5",6,3,3,Medium
+HOSP23G70855,Chc Bichuwa,MADHYA PRADESH,Chhindwara,Public,PMJAY,No,"M1, M7, SO",3,2,1,Medium
+HOSP23G70878,Chc Pahargarh,MADHYA PRADESH,Morena,Public,PMJAY,No,"M1, M7, MP, SO",4,3,1,Medium
+HOSP23G71254,Chc Ajaygarh,MADHYA PRADESH,Panna,Public,PMJAY,No,"M1, M7, M2, S1, S4",5,3,2,Low
+HOSP23G71324,Chc Porsa,MADHYA PRADESH,Morena,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G71521,Chc Sahanagar,MADHYA PRADESH,Panna,Public,PMJAY,No,"M1, M7",2,2,0,Low
+HOSP23G71670,Chc Malhargarh,MADHYA PRADESH,Mandsaur,Public,PMJAY,No,"M1, M7, ER, MP, SO",5,3,1,High
+HOSP23G72310,Phc Chikload,MADHYA PRADESH,Raisen,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G72313,Phc Barkheda,MADHYA PRADESH,Raisen,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G72314,Phc Sultanpur,MADHYA PRADESH,Raisen,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G72804,Chc Khadiyahar,MADHYA PRADESH,Morena,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G73115,Chc Bamori,MADHYA PRADESH,Guna,Public,PMJAY,No,"M1, M7",2,2,0,Low
+HOSP23G73263,Chc Jawar,MADHYA PRADESH,Sehore,Public,PMJAY,No,"M1, M7, M2, S4",4,3,1,High
+HOSP23G73362,Civil Hospital Garoth,MADHYA PRADESH,Mandsaur,Public,PMJAY,No,"M1, M7, MP, SG, SO",5,3,2,High
+HOSP23G74559,Chc Sohagpur,MADHYA PRADESH,Hoshangabad,Public,PMJAY,No,"M1, M7, S4",3,2,1,High
+HOSP23G77495,Bhopal Memorial Hospital And Research Centre Bhopal,MADHYA PRADESH,Bhopal,Public,PMJAY,No,"M1, S12, S13, S3, S7, S8, S9, IN, M8, S1, SC",11,2,8,High
+HOSP23G81112,Primary Health Center Kothri,MADHYA PRADESH,Sehore,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G81397,Primary Health Center Diwadiya,MADHYA PRADESH,Sehore,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G82222,Community Health Center Doraha Distt.Sehore,MADHYA PRADESH,Sehore,Public,PMJAY,No,"M1, M7, ER, ID, SO",5,2,1,High
+HOSP23G84014,Chc Ladkui,MADHYA PRADESH,Sehore,Public,PMJAY,No,"M1, M7, SO",3,2,1,High
+HOSP23G84214,Primary Health Center Siddikganj,MADHYA PRADESH,Sehore,Public,PMJAY,No,"M1, M7, S4",3,2,1,High
+HOSP23G84577,Community Health Center Gohad,MADHYA PRADESH,Bhind,Public,PMJAY,No,"M1, M7, S4, ER, SM",5,2,2,Medium
+HOSP23G84589,Community Health Centar Bilkisganj,MADHYA PRADESH,Sehore,Public,PMJAY,No,"M1, M7, BM, ER, ID, MN, SO",7,3,1,High
+HOSP23G84608,Chc Shamgarh,MADHYA PRADESH,Mandsaur,Public,PMJAY,No,"M1, M7, M2, S4",4,3,1,High
+HOSP23G85250,Community Health Center Rehti,MADHYA PRADESH,Sehore,Public,PMJAY,No,"M1, M7, M2, M3, S1, S12, S4, S5",8,4,4,High
+HOSP23G85284,Primary Health Center Mardanpur,MADHYA PRADESH,Sehore,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G86740,Civil Hospital Lahar,MADHYA PRADESH,Bhind,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G88923,Chc Phoop,MADHYA PRADESH,Bhind,Public,PMJAY,No,"M1, M7, ER, SO",4,2,1,Medium
+HOSP23G90209,Sub Divisional Railway Hospital,MADHYA PRADESH,Sehore,GOI,PMJAY,No,M2,1,1,0,High
+HOSP23G90864,Sub Divisonal Railway Hospital Itarsi,MADHYA PRADESH,Bhopal,GOI,PMJAY,No,-NA-,1,0,0,High
+HOSP23G91098,W.R.Divisional Railway Hospital,MADHYA PRADESH,Ratlam,GOI,PMJAY,No,"M1, M7, M2, S3, S4",5,3,2,Medium
+HOSP23G91520,Chc Suawsara,MADHYA PRADESH,Mandsaur,Public,PMJAY,No,"M1, M7, M2, ID, SO",5,3,1,High
+HOSP23G91521,Chc Sitamau,MADHYA PRADESH,Mandsaur,Public,PMJAY,No,"M1, M7, M2, SO",4,3,1,High
+HOSP23G91807,Chc Sihawal,MADHYA PRADESH,Sidhi,Public,PMJAY,No,"M1, M7, S4",3,2,1,Low
+HOSP23G92301,Chc Khategaon,MADHYA PRADESH,Dewas,Public,PMJAY,No,"M1, M7, MN, MP, SO",5,4,1,Medium
+HOSP23G93512,Chc Moman Barodia,MADHYA PRADESH,Shajapur,Public,PMJAY,No,"M1, M7, S4",3,2,1,Medium
+HOSP23G93775,Chc Jhiranya,MADHYA PRADESH,Khargone,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G93782,Civil Hospital Sabalgarh,MADHYA PRADESH,Morena,Public,PMJAY,No,"M1, M7, M2, S1, S4, BM, MN, SB",8,4,3,Medium
+HOSP23G93796,Ch Barwah,MADHYA PRADESH,Khargone,Public,PMJAY,No,"M2, S1, S16, S3, S4, S5, ER, ID, MG",9,2,5,High
+HOSP23G93801,Chc Gogawa,MADHYA PRADESH,Khargone,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G93802,Chc Barud,MADHYA PRADESH,Khargone,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G93806,Chc Mandleshwar,MADHYA PRADESH,Khargone,Public,PMJAY,No,"M1, M7",2,2,0,High
+HOSP23G93921,Community Health Center Timarni Distt Harda,MADHYA PRADESH,Harda,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G98287,Chc Gunnour,MADHYA PRADESH,Panna,Public,PMJAY,No,"M1, M7, M2, S1",4,3,1,Low
+HOSP23G98327,Chc Khajuraho,MADHYA PRADESH,Chhatarpur,Public,PMJAY,No,"M1, M7, S5",3,2,1,Medium
+HOSP23G98406,Chc Naigarhi,MADHYA PRADESH,Rewa,Public,PMJAY,No,"M1, M7, SO",3,2,1,High
+HOSP23G98459,Chc Isha Nagar,MADHYA PRADESH,Chhatarpur,Public,PMJAY,No,"M1, M7, M2, S1",4,3,1,Medium
+HOSP23G98474,Community Health Center Khirkiya,MADHYA PRADESH,Harda,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G98564,Chc Semariya,MADHYA PRADESH,Sidhi,Public,PMJAY,No,"M1, M7, S4",3,2,1,Low
+HOSP23G98642,Chc Pali Distt Umaria,MADHYA PRADESH,Umaria,Public,PMJAY,No,"M1, M7",2,2,0,Low
+HOSP23G98654,Chc Manpur Distt Umaria,MADHYA PRADESH,Umaria,Public,PMJAY,No,"M1, M7",2,2,0,Low
+HOSP23G98680,Chc Chandia Distt Umaria,MADHYA PRADESH,Umaria,Public,PMJAY,No,"M1, M7",2,2,0,Low
+HOSP23G98698,Ch Bhanpura,MADHYA PRADESH,Mandsaur,Public,PMJAY,No,"M1, M7, MP, SO",4,3,1,High
+HOSP23G98772,Chc Kalyanpura,MADHYA PRADESH,Jhabua,Public,PMJAY,No,"M1, M7",2,2,0,Low
+HOSP23G98871,Chc Batiyagarh,MADHYA PRADESH,Damoh,Public,PMJAY,No,"M1, M7, MP, SO",4,3,1,Low
+HOSP23G98907,Chc  Hindoriya,MADHYA PRADESH,Damoh,Public,PMJAY,No,"M1, M7",2,2,0,Low
+HOSP23G98912,Chc Buxwaha,MADHYA PRADESH,Chhatarpur,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G98923,Chc Patera,MADHYA PRADESH,Damoh,Public,PMJAY,No,"M1, M7, ER, MP, SO",5,3,1,Low
+HOSP23G98928,Community Health Center Kirnapur,MADHYA PRADESH,Balaghat,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G98997,Chc Tendukeda,MADHYA PRADESH,Damoh,Public,PMJAY,No,"M1, M7, S1, S4, MP",5,3,2,Low
+HOSP23G99065,Chc Patharia,MADHYA PRADESH,Damoh,Public,PMJAY,No,"M1, M7, S1, S4, MP, SB",6,3,3,Low
+HOSP23G99175,Chc Piploda,MADHYA PRADESH,Ratlam,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G99176,Civil Hospital Alote,MADHYA PRADESH,Ratlam,Public,PMJAY,No,"M1, M7, ER, SO",4,2,1,Medium
+HOSP23G99178,Chc Namli,MADHYA PRADESH,Ratlam,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G99213,Sailana,MADHYA PRADESH,Ratlam,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G99215,Chc Taal,MADHYA PRADESH,Ratlam,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G99216,Chc Kharwakala,MADHYA PRADESH,Ratlam,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G99218,Chc Majhauli,MADHYA PRADESH,Sidhi,Public,PMJAY,No,"M1, M7, S4",3,2,1,Low
+HOSP23G99219,Community Health Center Gangev,MADHYA PRADESH,Rewa,Public,PMJAY,No,"M1, M7, M2, S4",4,3,1,High
+HOSP23G99238,Chc Shadora,MADHYA PRADESH,Ashok Nagar,Public,PMJAY,No,"M1, M7, S4",3,2,1,Low
+HOSP23G99259,Chc Parasia,MADHYA PRADESH,Chhindwara,Public,PMJAY,No,"M1, M7, M2, SO",4,3,1,Medium
+HOSP23G99362,Chc Mehgaon,MADHYA PRADESH,Bhind,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G99433,Chc Barhi,MADHYA PRADESH,Katni,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G99436,Chc Hanumana,MADHYA PRADESH,Rewa,Public,PMJAY,No,"M1, M7, M2, S4",4,3,1,High
+HOSP23G99466,Civil Hospital Hatta,MADHYA PRADESH,Damoh,Public,PMJAY,No,"M1, M7, S1, S4, MP",5,3,2,Low
+HOSP23G99483,Chc Badwara,MADHYA PRADESH,Katni,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G99491,Chc Umariyapan,MADHYA PRADESH,Katni,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G99494,Civil Hospital Rampura,MADHYA PRADESH,Neemuch,Public,PMJAY,No,"M1, M7, S4, MP",4,3,1,Medium
+HOSP23G99495,Ch Chandameta,MADHYA PRADESH,Chhindwara,Public,PMJAY,No,"M1, M7, M2, SO",4,3,1,Medium
+HOSP23G99524,Civil Hospital Hatpipliya,MADHYA PRADESH,Dewas,Public,PMJAY,No,"M1, M7, ER, ID, MN, MP, SO",7,4,1,Medium
+HOSP23G99526,Community Health Center Barotha,MADHYA PRADESH,Dewas,Public,PMJAY,No,"M1, M7, S4",3,2,1,Medium
+HOSP23G99530,Chc Rithi,MADHYA PRADESH,Katni,Public,PMJAY,No,"S4, ER, MG, MP",4,2,1,Medium
+HOSP23G99532,Community Health Center Vijayganjmandi,MADHYA PRADESH,Dewas,Public,PMJAY,No,"M1, M7, ER, ID, MN, MP, SO",7,4,1,Medium
+HOSP23G99548,Chc Kothi,MADHYA PRADESH,Satna,Public,PMJAY,No,"M1, M7, MP, SO",4,3,1,Medium
+HOSP23G99642,Chc Prabhat Pattan,MADHYA PRADESH,Betul,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G99646,Chc Ater,MADHYA PRADESH,Bhind,Public,PMJAY,No,"M1, M7, ER, SO",4,2,1,Medium
+HOSP23G99743,Chc Pahadi,MADHYA PRADESH,Katni,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23G99760,Chc Damau,MADHYA PRADESH,Chhindwara,Public,PMJAY,No,"M1, M7, S1, S2, SO",5,2,3,Medium
+HOSP23G99804,Community Health Center Tonkkhurd,MADHYA PRADESH,Dewas,Public,PMJAY,No,"M1, M7, S2, ER, ID, MN, MP, SO",8,4,2,Medium
+HOSP23G99906,Chc Kusmi,MADHYA PRADESH,Sidhi,Public,PMJAY,No,"M1, M7, SO",3,2,1,Low
+HOSP23G99944,Chc Amla,MADHYA PRADESH,Betul,Public,PMJAY,No,"M1, M7",2,2,0,Medium
+HOSP23P00432,Jk Hospital,MADHYA PRADESH,Bhopal,Private(Not For Profit),PMJAY,No,"M1, M2, S8, M7, S7, M3, M4, M5, M6, S1, S10, S11, S12, S13, S14, S15, S16, S2, S3, S4, S5, S6, S9",23,7,16,High
+HOSP23P00457,Dube Surgical And Dental Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),PMJAY and CGHS,No,"S1, S10, S11, S14, S15, S16, S5, S6, S7, S8, S9",11,0,11,High
+HOSP23P00541,Krishna Cancer Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M5, NA, SC",3,1,1,High
+HOSP23P00623,Asg Hospital Pvt Ltd,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,S3,1,0,1,High
+HOSP23P00825,Shalya Joint Care,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,Yes,S5,1,0,1,High
+HOSP23P00907,Vindhya Hospital And Research Centre,MADHYA PRADESH,Rewa,Private(For Profit),PMJAY,No,"M1, M2, S8, M7, S7, M3, S1, S10, S11, S12, S13, S14, S16, S2, S3, S4, S5, S6, S9",19,4,15,High
+HOSP23P01297,Pandey Hospital Pvt Ltd,MADHYA PRADESH,Jabalpur,Private(For Profit),PMJAY,No,"M1, M2, S8, M7, S7, M5, S1, S10, S11, S14, S16, S2, S3, S4, S5, S6, S9",17,4,13,High
+HOSP23P01306,Navodaya Cancer Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M4, M5, M6, S15, MG",5,4,1,High
+HOSP23P01311,Narmada Trauma Centre,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, S1, S10, S11, S5, S6, S8, S9",9,2,7,High
+HOSP23P01319,Jawaharlal Nehru Cancer Hospital And Research Centre,MADHYA PRADESH,Bhopal,Private(Not For Profit),PMJAY,No,"M4, M5, M6, S15",4,3,1,High
+HOSP23P01320,Peoples Hospital Bhanpur Bhopal,MADHYA PRADESH,Bhopal,Private(Not For Profit),PMJAY,Yes,"M1, M7, M2, S1, S10, S11, S2, S3, S4, S5, BM, ER, ID, S8, S7, MC, MN, S14, S6, S9, SM, SV",22,5,14,High
+HOSP23P01322,Siddhanta Redcross Superspeciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY and CGHS,No,"M1, M2, S8, M7, S7, M5, S1, S12, S13, S15, S2, S3, S5, S6, S9",15,4,11,High
+HOSP23P01324,Chirayu Medical College And Hospital Aunit Of Chirayu Charitable Foundation,MADHYA PRADESH,Bhopal,Private(Not For Profit),PMJAY,No,"M1, M2, S8, M7, S7, M3, M4, M5, M6, S1, S10, S11, S12, S13, S14, S15, S16, S2, S3, S4, S5, S6, S9",23,7,16,High
+HOSP23P01367,Central Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, M2, S1, S10, S11, S16, S2, S4, S5, S6, S8, S9",13,3,10,High
+HOSP23P01369,Noble Multispeciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M2, S8, M7, S7, S1, S10, S11, S12, S13, S14, S4, S5, S6, S9",15,3,12,High
+HOSP23P01377,New Pandey Hospital,MADHYA PRADESH,Hoshangabad,Private(For Profit),PMJAY,No,"M1, M7, S1, S16, S4, S5, S8, S9",8,2,6,High
+HOSP23P01386,Seth Mannulal Jagannath Dastrust Hospital,MADHYA PRADESH,Jabalpur,Private(Not For Profit),PMJAY and CGHS,No,"M1, M7, M2, M5, S1, S10, S11, S12, S14, S16, S2, S3, S4, S5, S8, S9, SC, SU",18,4,14,High
+HOSP23P01395,Global Speciality Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"M1, M2, S8, M7, S7, S1, S10, S11, S12, S16, S2, S3, S5, S9",14,3,11,High
+HOSP23P01404,Baderia Metroprime Multispeciality Hospital,MADHYA PRADESH,Jabalpur,Private(Not For Profit),PMJAY,No,"M1, M2, S8, M7, S7, M3, M4, M5, M6, S1, S10, S11, S12, S13, S15, S2, S3, S4, S5, S6, S9",21,7,14,High
+HOSP23P01443,P G Multi Speciality Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),PMJAY,No,"ER, SN, ST, SU",4,0,3,High
+HOSP23P01452,V Care Children Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M2, M3",2,2,0,High
+HOSP23P01512,Marble City Hospital And Research Centre Pvt Ltd,MADHYA PRADESH,Jabalpur,Private(For Profit),PMJAY and CGHS,No,"M1, M2, S8, M7, S7, M3, M4, M5, S1, S10, S11, S12, S13, S15, S16, S2, S3, S4, S5, S6, S9",21,6,15,High
+HOSP23P01555,Chirayu Health And Medicare Private Limited,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M2, S8, M7, S7, S1, S10, S11, S12, S13, S14, S16, S2, S5, S6, S9",16,3,13,High
+HOSP23P01576,Infinity Heart Institute A Unit Of Ihrc Jabalpur,MADHYA PRADESH,Jabalpur,Private(Not For Profit),PMJAY,No,"S12, S13",2,0,2,High
+HOSP23P01577,Ashish Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),PMJAY,No,"M1, M2, S8, M7, S7, M3, M5, S1, S10, S11, S12, S13, S14, S15, S16, S2, S3, S4, S5, S6, S9",21,5,16,High
+HOSP23P01599,Apex Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, S1, S10, S11, S4, S6, S7",8,2,6,High
+HOSP23P01603,Kailash Superspeciality Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"M1, M2, S8, M7, S7, M3, S1, S10, S11, S12, S14, S2, S3, S4, S5, S6, S9",17,4,13,High
+HOSP23P01611,Shree Vinayak Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M2, S8, M7, S7, M3, M5, S1, S10, S11, S15, S2, S4, S6, S9, SB",16,5,11,High
+HOSP23P01650,Laxminarayanhospital,MADHYA PRADESH,Jabalpur,Private(Not For Profit),PMJAY,No,"M1, M2, S8, M7, M4, M5, S1, S10, S11, S14, S15, S2, S4, S5, S7, S9",16,5,11,High
+HOSP23P02125,Mishra Nursing Home And Diagnotic Foundation,MADHYA PRADESH,Sidhi,Private(For Profit),PMJAY,No,"M1, M7, S7, M2, M3, S1, S12, S16, S4, S5, S6",11,4,7,Low
+HOSP23P02161,Roshan Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, M2, M3, S1, S10, S11, S12, S14, S15, S2, S4, S5, S7, S8, S9",16,4,12,High
+HOSP23P02220,Carewell Multispeciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, S7, S1, S10, S11, S4, S5, S6, MO, SC, SN",12,3,9,High
+HOSP23P02330,Anantshree Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, S7, M2, M3, S1, S12, S14, S16, S2, S4, S5, S6, S8, S9, S10, S11",17,4,13,High
+HOSP23P02341,Mohanlal Hargovinddas Public Charitable Trust Hospital,MADHYA PRADESH,Jabalpur,Private(Not For Profit),PMJAY,No,"M1, M2, S8, M7, S1, S10, S11, S2, S4, S5, S6, S9",12,3,9,High
+HOSP23P02351,Narmada Apna Hospital Hoshangabad,MADHYA PRADESH,Hoshangabad,Private(For Profit),PMJAY,No,"M1, M7, S7, M2, S1, S10, S11, S2, S4, S5, S6, S8, S9, MN",14,4,10,High
+HOSP23P02358,Deepshikha Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M2, S1, S4, S5",4,1,3,High
+HOSP23P02529,Amaltas Institute Of Medical Sciences Bangar Dewas,MADHYA PRADESH,Dewas,Private(Not For Profit),PMJAY,No,"M1, M7, S1, S2, S3, S4, S5, BM, ER, IN, MC, MN, MO, MP, MR, NA, SC, SM, SN, SP, SS, ST, SU, SV",24,7,13,Medium
+HOSP23P02833,Bombay Hospital And Research Centre Jabalpur,MADHYA PRADESH,Jabalpur,Private(For Profit),PMJAY,No,"M1, M2, S8, M7, S7, M3, M4, M5, S1, S10, S11, S14, S16, S2, S3, S4, S5, S6, S9, S12, S13, S15",22,6,16,High
+HOSP23P02939,Sanjivani Fracture And Trauma Hospital,MADHYA PRADESH,Hoshangabad,Private(For Profit),PMJAY,No,SB,1,0,1,High
+HOSP23P02971,Bhopal Test Tube Baby Centre,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,S4,1,0,1,High
+HOSP23P02999,Sai Hospital,MADHYA PRADESH,Raisen,Private(For Profit),PMJAY,No,"M1, M7, M2, S1, S4, S5",6,3,3,High
+HOSP23P03112,Dharmlok Hospital Pvt Ltd,MADHYA PRADESH,Katni,Private(For Profit),PMJAY,No,"M1, M7, M2, M3, S1, S4, SB, SU",8,4,4,Medium
+HOSP23P03131,Kalyan Memorial And Kdj Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"M1, M2, S8, M7, M3, M6, S1, S10, S11, S12, S14, S15, S16, S2, S4, S5, S6, S7, S9",19,5,14,High
+HOSP23P03171,Netrika Netralaya,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,S3,1,0,1,High
+HOSP23P03634,Retina Speciality Hospital,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,S3,1,0,1,High
+HOSP23P03705,Cancer Hospital And Research Institute Jan Vikas Nyas Trust,MADHYA PRADESH,Gwalior,Private(Not For Profit),PMJAY,No,"M5, M6, S15, MG, SG",5,3,2,High
+HOSP23P03743,S V Eye Care And Research Centre,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,S3,1,0,1,High
+HOSP23P03764,Akshaya Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,S12,1,0,1,High
+HOSP23P03816,Leelawati Memorial Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M2, S8, M7, S1, S10, S11, S12, S15, S16, S4, S5, S9, S6",14,3,11,High
+HOSP23P03836,Medi Square Hospital Pvt Ltd,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"M1, M2, S8, M7, S1, S5, S6, S7, S9",9,3,6,High
+HOSP23P03901,Tripti Multi Speciality And Trauma Centre,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M2, S8, M7, S7, M3, M4, M5, S1, S10, S11, S12, S14, S15, S16, S2, S3, S4, S5, S6, S9",21,6,15,High
+HOSP23P03902,Shri Sai Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M2, S8, M3, S1, S4, S5, S7, S9",9,3,6,High
+HOSP23P04204,Jk Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),PMJAY,No,"MG, SB, SG, SO",4,1,3,High
+HOSP23P04232,Banthia Hospital,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"SB, SL, SN, ST",4,0,4,High
+HOSP23P04543,Sarvottam Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MG, SB, SG, SN, SP, ST",6,1,5,High
+HOSP23P05733,Aradhana Maternity & Kidney Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, S7, MG, SO",4,2,2,High
+HOSP23P05858,Jeevan Jyoti Netralaya Superspeciality Eye Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,S3,1,0,1,High
+HOSP23P06815,Charak Hospital Pvt.Ltd.,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"M1, M2, S8, M7, S7, S1, S10, S11, S14, S15, S2, S3, S4, S5, S9",15,3,12,High
+HOSP23P07100,Sadguru Netra Chikitsalaya & Jankikund Chikitsalaya,MADHYA PRADESH,Satna,Private(Not For Profit),PMJAY,No,"S1, S3, S4, S5",4,0,4,Medium
+HOSP23P07199,Mata Mandir Hospital Nyas Colony Itarsi,MADHYA PRADESH,Hoshangabad,Private(Not For Profit),PMJAY,No,"M1, M7, S1",3,2,1,High
+HOSP23P07256,Barod Hospital,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,S5,1,0,1,High
+HOSP23P07423,Rajas Eye & Retina Research Center,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,S3,1,0,1,High
+HOSP23P07652,Apple Hospital,MADHYA PRADESH,Burhanpur,Private(For Profit),PMJAY,No,"M1, M7, S1, S5",4,2,2,Medium
+HOSP23P07862,Mgm Hospital And Research Centre,MADHYA PRADESH,Katni,Private(For Profit),PMJAY,No,"M1, M2, S8, M7, S7, M3, S1, S10, S11, S12, S15, S16, S3, S4, S5, S9, S6",17,4,13,Medium
+HOSP23P08165,Lalit Geetanjali Makan Hospital,MADHYA PRADESH,Raisen,Private(For Profit),PMJAY,No,"M1, M7, M2, S1, S16, S4, S5",7,3,4,High
+HOSP23P08377,Rana Uday Hospital Sehore,MADHYA PRADESH,Sehore,Private(For Profit),PMJAY,No,"S1, S4, S5, M1, M7, S10, S11, S2, S6, S7, S8, S9",12,2,10,High
+HOSP23P08789,Sahyog Hospital & Research Centre Pvt Ltd,MADHYA PRADESH,Guna,Private(For Profit),PMJAY,No,"M1, M7, S1, S2, S3, S5",6,2,4,Low
+HOSP23P08823,Vatsalya Children Hospital,MADHYA PRADESH,Hoshangabad,Private(For Profit),PMJAY,No,"M2, MN",2,2,0,High
+HOSP23P08918,Meenakshi Hospital,MADHYA PRADESH,Guna,Private(For Profit),PMJAY,No,"S1, S16, S2, S5",4,0,4,Low
+HOSP23P09261,Career Institute Of Medical Sciences,MADHYA PRADESH,Bhopal,Private(Not For Profit),PMJAY,No,"M1, M2, S8, M7, S7, S1, S10, S11, S16, S2, S4, S5, S6, S9, MO, MR, SC",17,5,12,High
+HOSP23P09506,Janjyoti Super Speciality Eye Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),PMJAY,No,S3,1,0,1,High
+HOSP23P09685,Rohit Eye Hospital And Child Care Centre,MADHYA PRADESH,Indore,Private(For Profit),PMJAY and CAPF,No,S3,1,0,1,High
+HOSP23P09823,Sewa Sadan Eye Hospital,MADHYA PRADESH,Bhopal,Private(Not For Profit),PMJAY,No,S3,1,0,1,High
+HOSP23P09981,A.K. Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, S5",3,2,1,High
+HOSP23P100102,Kalyan Multispeciality Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"M1, M7, S7, M2, M3, S1, S10, S11, S12, S13, S14, S2, S4, S5",14,4,10,High
+HOSP23P100156,Yogiraj Hospital And Research Centre,MADHYA PRADESH,Mandla,Private(For Profit),PMJAY,No,"M1, M7, M2, S4",4,3,1,Medium
+HOSP23P100402,Silverline Hospital And Research Institute Bhopal,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY and CGHS,No,"M1, M7, M5, S1, S15, S4, S5, S6",8,3,5,High
+HOSP23P100404,Convenient Hospital Limited,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"S12, S13, S3",3,0,3,High
+HOSP23P101052,Sai Ortho And General Hospital,MADHYA PRADESH,Rajgarh,Private(For Profit),PMJAY,No,"S1, S16, S5, ER, ID, MG, SO, ST, SU",9,1,6,Medium
+HOSP23P101189,Shubhishi Hospital Pvt Lmt,MADHYA PRADESH,Khargone,Private(For Profit),PMJAY,No,"M1, M7, M2, S1, S16, S2, S3, S4, S5, MN, SU",11,4,7,High
+HOSP23P101317,Nehru Shatabdi Chkitsalya,MADHYA PRADESH,Singrauli,GOI,PMJAY,No,"M1, M7, S7, M2, S1, S2, S3, S4, S5",9,3,6,Medium
+HOSP23P101739,Ajwani Eye Hospital Pvt. Ltd.,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,S3,1,0,1,High
+HOSP23P102178,All Is Well Multi Speciality Hospital,MADHYA PRADESH,Burhanpur,Private(For Profit),PMJAY,No,"M1, M2, S8, M7, M4, M5, S1, S12, S14, S16, S2, S3, S4, S5, S6, S7, S9, MN, SP",19,6,13,Medium
+HOSP23P102254,Saluja Eye Care Center,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,S3,1,0,1,High
+HOSP23P102338,Bhandari Hospital & Research Center,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"S1, S12, S13, S7, M3, MG",6,2,4,High
+HOSP23P102380,Ayushman Medical Diagnostic Private Limited. Bansal Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M6, S12, SV",3,1,2,High
+HOSP23P102417,Matashree Netralaya,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,S3,1,0,1,High
+HOSP23P102442,Maan Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, S4",3,2,1,High
+HOSP23P102444,R K Hospital,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"SB, SO",2,0,2,High
+HOSP23P102720,Vison Care And Research Centre,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,S3,1,0,1,High
+HOSP23P102927,Swami Vivekanand Regional Spine Center,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"S8, S9",2,0,2,High
+HOSP23P106342,Peoples General Hospital Pvt Ltd,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M2, S8, S7, S1, S12, S16, S2, S5, S9, MG",10,2,8,High
+HOSP23P106420,Choithram Hospital & Research Centre,MADHYA PRADESH,Indore,Private(Not For Profit),PMJAY,No,"M6, S12, S13, MG",4,2,2,High
+HOSP23P106648,Saraf Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"M1, S7, S1, S4, S5, S6, MG",7,2,5,High
+HOSP23P107015,Gg Nursing Home Katni,MADHYA PRADESH,Katni,Private(For Profit),PMJAY,No,"S1, S3, S5, MG",4,1,3,Medium
+HOSP23P10745,R D Gardi Medical College & C R Gardi Hospital,MADHYA PRADESH,Ujjain,Private(Not For Profit),PMJAY,No,"M1, M7, S7, M2, S1, S10, S11, S12, S13, S14, S15, S16, S3, S4, S5, S6, S8, S9, MG, MN, MO, SL",22,6,16,Medium
+HOSP23P107657,Navjeevan Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"S7, S5, S8, S9, MG, MO, SC, SG",8,2,6,High
+HOSP23P107742,Sanjivani Hospital Betul,MADHYA PRADESH,Betul,Private(For Profit),PMJAY,No,"M1, M7, S1, S5",4,2,2,Medium
+HOSP23P107994,Pamnani Hospital And Research Center,MADHYA PRADESH,Mandsaur,Private(For Profit),PMJAY,No,"M1, M7, S1, S4, S2, S5, S7",7,2,5,High
+HOSP23P108140,Vidhata Multispeciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M2, S8, M7, S1, S10, S11, S14, S2, S4, S5, S6, S7, S9, MG",15,4,11,High
+HOSP23P108239,Aarogya Nidhi Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MG, MN, MP, SB, SG, SL, SN, SO, SP, SS, ST, SU",12,3,9,High
+HOSP23P108521,Sanjeevani Hospital Anuppur,MADHYA PRADESH,Anuppur,Private(For Profit),PMJAY,No,"S4, MG, MN, SG",4,2,2,Low
+HOSP23P108542,Ajay Hospital,MADHYA PRADESH,Mandsaur,Private(For Profit),PMJAY,No,"S1, S16, S4, SB, SU",5,0,5,High
+HOSP23P108601,Agrawal Hospital And Research Institute,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"S16, S2, S4",3,0,3,High
+HOSP23P108934,Ashaniketan Hospital Bhopal,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, M2, S1, S2, S4, S5, SU",8,3,5,High
+HOSP23P110980,Max Care Chilren Hospital Pvt. Ltd.,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M2, M3, S14",3,2,1,High
+HOSP23P111236,Smart City Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"S12, S13, S5, S7",4,0,4,High
+HOSP23P111290,Shree Siddhi Vinayak Multispeciality Hospitals,MADHYA PRADESH,Mandsaur,Private(For Profit),PMJAY,No,"M2, S1, S4, S5, MC, SU",6,2,4,High
+HOSP23P111379,Mona Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"NA, SB, SC, SG, SN, SO, SU",7,0,6,High
+HOSP23P111751,Niramay Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M2, S8, M7, S1, S10, S11, S4, S5, S6, S9, SU",12,3,9,High
+HOSP23P111754,Ra Stone & Surgical Care,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, S1, S4, S5, MG, S7",7,3,4,High
+HOSP23P112549,Sheefa Medical Centre,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"SB, SO",2,0,2,High
+HOSP23P113084,Gomabai Netralaya,MADHYA PRADESH,Neemuch,Private(Not For Profit),PMJAY,No,S3,1,0,1,Medium
+HOSP23P113484,Global Orthopaedic Center,MADHYA PRADESH,Ujjain,Private(For Profit),PMJAY,No,S5,1,0,1,Medium
+HOSP23P113505,Pushpanjali Super Speciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, S1, S4, S5, S7, MC",7,3,4,High
+HOSP23P113516,Shree Shubh Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, M2, S1, S10, S11, S4, S5, S7",9,3,6,High
+HOSP23P113642,Rewa Hospital And Reserch Centre Pvt Ltd,MADHYA PRADESH,Rewa,Private(For Profit),PMJAY,No,"M1, M7, M2, S1, S14, S16, S2, S4, S5, ER, MN, MO, SP, SU",14,5,8,High
+HOSP23P113719,Orthocare,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"S4, S5",2,0,2,High
+HOSP23P113909,Ujjain Charitable Trust Hospital & Research Centre,MADHYA PRADESH,Ujjain,Private(For Profit),PMJAY,No,"M1, M7, M2, M3, S1, S10, S11, S14, S16, S2, S3, S4, S5, S7",14,4,10,Medium
+HOSP23P113920,Hakimi Hospital,MADHYA PRADESH,Burhanpur,Private(For Profit),PMJAY,No,"S1, S4, S5",3,0,3,Medium
+HOSP23P114046,Maa Memorial Surgical Clinic And Dignostic Center,MADHYA PRADESH,Khargone,Private(For Profit),PMJAY,No,"SB, SG",2,0,2,High
+HOSP23P114048,Shanta Nursing Home,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"M2, S1, S4, S8, S9, BM, MN, SB, SM, SP, SU",11,2,8,High
+HOSP23P114141,Rl Hospital,MADHYA PRADESH,Morena,Private(For Profit),PMJAY,No,"S16, S3",2,0,2,Medium
+HOSP23P114168,Sheela Devi  Multispeciality  Hospital,MADHYA PRADESH,Raisen,Private(For Profit),PMJAY,No,"M1, M7, S1, S4",4,2,2,High
+HOSP23P114187,Adarsh Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"SG, SU",2,0,2,High
+HOSP23P114278,Arera Trauma & Critical Care Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, S1, S10, S11, S15, S16, S4, S5, S6, S7, S8, S9, MO",14,3,11,High
+HOSP23P114294,Gokuldas Hospital Pvt.Ltd,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"MC, SB, SG, SN, SU, SV, SP",7,1,6,High
+HOSP23P114334,Prakash Ubeja Superspeciality Hospital,MADHYA PRADESH,Khandwa,Private(For Profit),PMJAY,No,"SG, SO, SB, SU",4,0,4,Medium
+HOSP23P114409,St. Francis Hospital And Research Centre,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"M1, M7, S7, M3, S1, S12, S13, S16, S2, S5, S6, SE, SO",13,3,10,High
+HOSP23P114448,Gd Hospital,MADHYA PRADESH,Ratlam,Private(Not For Profit),PMJAY,No,"M2, S1, S10, S11, S16, S4, S5, SU",8,1,7,Medium
+HOSP23P114450,Shri Goverdhan Critical Care Maternity Trauma Center And Multispecility Hospital,MADHYA PRADESH,Betul,Private(For Profit),PMJAY,No,"M1, M2, S8, M7, S7, S1, S12, S4, S5, S6, S9, MN, SL",13,4,9,Medium
+HOSP23P114589,Prime Hospital And Research Center,MADHYA PRADESH,Dewas,Private(For Profit),PMJAY,No,"M1, M7, S1, S4, S5, S7",6,2,4,Medium
+HOSP23P114592,Bhagwati Nursing Home,MADHYA PRADESH,Harda,Private(For Profit),PMJAY,No,"S1, S5, MG",3,1,2,Medium
+HOSP23P114631,Mahamritynjay Hospital,MADHYA PRADESH,Barwani,Private(For Profit),PMJAY,No,"S5, MG",2,1,1,High
+HOSP23P114740,Shri Sadguru Seva Sangh Trust,MADHYA PRADESH,Vidisha,Private(For Profit),PMJAY,No,"S3, S4",2,0,2,High
+HOSP23P114760,Raksha Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"S2, S4",2,0,2,High
+HOSP23P114761,Shri Ganesh Memorial Hospital,MADHYA PRADESH,Sagar,Private(For Profit),PMJAY,No,"M1, M7, S1, SB, SO",5,2,3,High
+HOSP23P114784,Shivalaya Hospital Trauma & Maternity Center,MADHYA PRADESH,Sehore,Private(For Profit),PMJAY,No,"M1, M7, S1, S16, S4, S5, S7",7,2,5,High
+HOSP23P114831,Gupta Nusing Home Neemuch,MADHYA PRADESH,Neemuch,Private(For Profit),PMJAY,No,"M1, M7, S1, S5, SL, SO, SS, SU",8,2,6,Medium
+HOSP23P114931,Sankara Eye Centre,MADHYA PRADESH,Indore,Private(Not For Profit),PMJAY,No,S3,1,0,1,High
+HOSP23P115066,Maa Sharda Orthopedic And Fracture Hospital,MADHYA PRADESH,Barwani,Private(For Profit),PMJAY,No,SB,1,0,1,High
+HOSP23P11583,Ssims Hospital,MADHYA PRADESH,Gwalior,Private(Not For Profit),PMJAY,No,"M1, M7, M2, M3, S1, S10, S11, S12, S16, S3, S4, S5, S7",13,4,9,High
+HOSP23P116167,Sanskar Hospital And Research Center,MADHYA PRADESH,Dewas,Private(For Profit),PMJAY,No,"MP, SB, SC, SG, SM, SN, SP, SS, SU, MG, SL",11,2,9,Medium
+HOSP23P116407,Khandelwal Hospital & Nursing Home,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"SB, MO, SG, SU",4,1,3,High
+HOSP23P116451,Ubuntu Heart & Super Speciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"S12, SV",2,0,2,High
+HOSP23P116465,Bhopal Multispeciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, S1, S4, S5, BM, MC, MG, SP, SU, SV",11,4,6,High
+HOSP23P116472,National Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),PMJAY,No,"M1, M7, S1, S14, S16, S2, S3, S5, M2, S8, S12, S7",12,3,9,High
+HOSP23P116490,Multi Care Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, S1, S5",4,2,2,High
+HOSP23P116519,Asha Hospital Barwani,MADHYA PRADESH,Barwani,Private(Not For Profit),PMJAY,No,"MG, SB, SG, SO, SL, SU",6,1,5,High
+HOSP23P116536,Maheshwari Nursing Home,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"M1, M7, S7, S1, S4, S5, S6, S8, S9",9,2,7,High
+HOSP23P116539,Siddhivinayak Multispeciality Hospital,MADHYA PRADESH,Shivpuri,Private(For Profit),PMJAY,No,"M1, M7, S1, S4, S5, SU",6,2,4,Medium
+HOSP23P116564,Hope S S Hospital And Research Center,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, S1, S5",4,2,2,High
+HOSP23P116569,Metro Medicare Multispeciality Hospital,MADHYA PRADESH,Burhanpur,Private(For Profit),PMJAY,No,"M1, M7, M2, S1, S16, S4, S5, MN",8,4,4,Medium
+HOSP23P116581,Neuron Trauma Center & Multispeciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, S1, MP, SB",5,3,2,High
+HOSP23P116592,Sanjeevan Hospital & Reserch Center,MADHYA PRADESH,Jabalpur,Private(For Profit),PMJAY,No,"SO, SU",2,0,2,High
+HOSP23P116593,Mother Teresa Hospital Dindori,MADHYA PRADESH,Dindori,Private(For Profit),PMJAY,No,"M1, M7",2,2,0,Low
+HOSP23P116598,Vinayak Hospital,MADHYA PRADESH,Dewas,Private(For Profit),PMJAY,No,"M1, M7, M2, S1, S14, S16, S2, S4, S5, SU",10,3,7,Medium
+HOSP23P116612,Vidhya Cancer Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"M5, S15",2,1,1,High
+HOSP23P116616,Arogyadham Chikistalay Evam Anusandhan Kendra,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"M1, M7, S14, S16, S4, S5, MC, SE, SG, SL, SN, ST, SU",13,3,10,High
+HOSP23P116619,Ayushman Hospital,MADHYA PRADESH,Balaghat,Private(For Profit),PMJAY,No,"M1, M7, S12, SU",4,2,2,Medium
+HOSP23P116639,Kibs Hospital,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,S14,1,0,1,High
+HOSP23P116648,Jindal Hospital Diagnostics And Research Center Seoni,MADHYA PRADESH,Seoni,Private(For Profit),PMJAY,No,"M1, M7, M2, S1, S12, S4, S5, BM, ER, ID, MN, SM, SN, SP, SS, ST, SU",17,4,10,Low
+HOSP23P116719,Swastik Health Care,MADHYA PRADESH,Shahdol,Private(For Profit),PMJAY,No,SB,1,0,1,Medium
+HOSP23P116741,Lifecare Hospital,MADHYA PRADESH,Chhindwara,Private(For Profit),PMJAY,No,"BM, ER, MG, MO, MP, SB, SG, SM, SO, SU",10,3,5,Medium
+HOSP23P116746,Medicare Hospital & Research Centre,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"M2, M3, S5, S7",4,2,2,High
+HOSP23P116787,Gurjar Shri Hospital,MADHYA PRADESH,Khargone,Private(Not For Profit),PMJAY,No,"M2, S1, S16, S5, MG, SO, SU",7,2,5,High
+HOSP23P116819,Ashadeep Hospital,MADHYA PRADESH,Indore,Private(Not For Profit),PMJAY,No,"S3, S5",2,0,2,High
+HOSP23P117320,Unique Hospital,MADHYA PRADESH,Bhopal,Private(Not For Profit),PMJAY,No,S5,1,0,1,High
+HOSP23P117367,Mount Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, S1, S2, S4, S5, SU",7,2,5,High
+HOSP23P117381,Lahoti Hospital And Research Center,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, MP, SB, SC, SG, SP, SS, SU",9,3,6,High
+HOSP23P117925,Ajay Bhandari Associates Llp,MADHYA PRADESH,Jabalpur,Private(For Profit),PMJAY and CGHS,No,"S12, S13",2,0,2,High
+HOSP23P117935,Anand Jaint Replacement Center,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,S5,1,0,1,High
+HOSP23P117974,Prabhu Prem Netralaya And General Hospital,MADHYA PRADESH,Bhopal,Private(Not For Profit),PMJAY,No,"S3, MG",2,1,1,High
+HOSP23P118028,Sanjeevani Multispeciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,S5,1,0,1,High
+HOSP23P118078,Vedanta Fracture & General Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, S1, S16, S5, S8, S9",7,2,5,High
+HOSP23P118091,Sanjeevini Multi Specialty Hospital,MADHYA PRADESH,Guna,Private(For Profit),PMJAY,No,"M1, M7, S1, S14, S16, S2, S4, S5",8,2,6,Low
+HOSP23P118783,Arogyam Hospital,MADHYA PRADESH,Ratlam,Private(For Profit),PMJAY,No,"S14, S2, S5, MG",4,1,3,Medium
+HOSP23P118868,Shubh Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"S1, S4, S5, S7",4,0,4,High
+HOSP23P118944,City Care Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"S1, S5, MG, SP, SU",5,1,4,High
+HOSP23P119008,Life Care Hospital,MADHYA PRADESH,Sidhi,Private(For Profit),PMJAY,No,"M2, S1, S5",3,1,2,Low
+HOSP23P119079,Dewas Hospital & Research Centre,MADHYA PRADESH,Dewas,Private(For Profit),PMJAY,No,"S5, SU",2,0,2,Medium
+HOSP23P119146,Mamta Fracture Hospital,MADHYA PRADESH,Betul,Private(For Profit),PMJAY,No,S5,1,0,1,Medium
+HOSP23P119196,Nawaz Urology Hospital & Maternity Home,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"S1, S4, S7",3,0,3,High
+HOSP23P119257,Samadhan Fracture Hospital,MADHYA PRADESH,Balaghat,Private(For Profit),PMJAY,No,S5,1,0,1,Medium
+HOSP23P119261,Retina Eye Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,S3,1,0,1,High
+HOSP23P119329,Shree Mahaveer Netra Chikitsalaya,MADHYA PRADESH,Neemuch,Private(For Profit),PMJAY,No,S3,1,0,1,Medium
+HOSP23P119421,Dulaar Children Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M2, MN",2,2,0,High
+HOSP23P119428,Sight Care Eye Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,S3,1,0,1,High
+HOSP23P119659,Sukh Sagar Medical College & Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),PMJAY,No,"MG, MP, SB, SE, SG, SL, SM, SO, SU, MO, SC, SN, SS",13,3,10,High
+HOSP23P119699,True Care Hospital,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"M1, M7, S1, S2, S4, S5",6,2,4,High
+HOSP23P119718,Chaudhary Nursing Home,MADHYA PRADESH,Neemuch,Private(For Profit),PMJAY,No,"M1, M7, S4, S5",4,2,2,Medium
+HOSP23P119725,Sahaj Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M5, S1, S15, S4, S8, S9, ER",7,1,5,High
+HOSP23P119778,Garg Nursing Home,MADHYA PRADESH,Morena,Private(For Profit),PMJAY,No,"M1, M7, S5",3,2,1,Medium
+HOSP23P119803,Future Multi Speciliity Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, S1, S4, S5",5,2,3,High
+HOSP23P120028,Vism Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"M1, M7, S1, S3, S5, S6, SC, SM, SN, SU",10,2,8,High
+HOSP23P120194,Manosheela Orthopedic Hospital,MADHYA PRADESH,Chhindwara,Private(For Profit),PMJAY,No,SB,1,0,1,Medium
+HOSP23P120251,Aditya Super Speciality Hospital & Trauma Centre,MADHYA PRADESH,Jabalpur,Private(For Profit),PMJAY and CGHS,No,"M5, S10, S11, S3, MC, MG, SL, SN, SU",9,3,6,High
+HOSP23P120316,Arthros Clinic,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"S3, S5",2,0,2,High
+HOSP23P120322,Shri D P Care Hospital,MADHYA PRADESH,Shajapur,Private(For Profit),PMJAY,No,SO,1,0,1,Medium
+HOSP23P120372,Shridham Hospital,MADHYA PRADESH,Narsinghpur,Private(Not For Profit),PMJAY,No,"MG, MP, SB, SG, SO",5,2,3,Medium
+HOSP23P120440,Dns Hospitals Private Limited,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"MC, SB, SV, SL, SP",5,1,4,High
+HOSP23P120441,Pbgm Hospital And Research Center,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, S1, S10, S11, S4, S5, S7, S8, S9, MO, SC",12,3,9,High
+HOSP23P120463,Praime Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"S4, S5, SG, SN, SP, ST, SU",7,0,7,High
+HOSP23P120485,Balaji Children Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M2, S14",2,1,1,High
+HOSP23P120722,Ayush Hospital And Research Center,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"S1, S5, ER, MG, SO",5,1,3,High
+HOSP23P120796,Soham Hospital & Research Centre,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"M1, M7, S1",3,2,1,High
+HOSP23P120871,Radhe Krishna Hospital,MADHYA PRADESH,Morena,Private(For Profit),PMJAY,No,MG,1,1,0,Medium
+HOSP23P121056,Anushree Netra Chikitsalaya And Retina Care Center,MADHYA PRADESH,Jabalpur,Private(For Profit),PMJAY,No,SE,1,0,1,High
+HOSP23P121186,Berasia General Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, S5",3,2,1,High
+HOSP23P122079,Ozon Hospital,MADHYA PRADESH,Khargone,Private(For Profit),PMJAY,No,S5,1,0,1,High
+HOSP23P122082,Shubham Hospital,MADHYA PRADESH,Khandwa,Private(For Profit),PMJAY,No,"MC, MG, SG, SL, SO",5,2,3,Medium
+HOSP23P122135,Shree Sai Baba Jeevandhara Hospital,MADHYA PRADESH,Barwani,Private(For Profit),PMJAY,No,"SB, ER, MG, MO, MP, SC, SG, SM, SU",9,3,5,High
+HOSP23P122446,Mehta Nursing Home,MADHYA PRADESH,Mandsaur,Private(For Profit),PMJAY,No,"MG, SG",2,1,1,High
+HOSP23P122506,Krishna Life Care,MADHYA PRADESH,Burhanpur,Private(For Profit),PMJAY,No,"MG, SB, SG",3,1,2,Medium
+HOSP23P122607,Medanta Super Speciality Hospital Indore,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"MC, SV, SU",3,1,2,High
+HOSP23P122664,Kakodiya Multispeciality Hospital,MADHYA PRADESH,Betul,Private(For Profit),PMJAY,No,"SB, SG, MG, SU",4,1,3,Medium
+HOSP23P122697,Laxmi Memorial Hoapital And Research Centre,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"MG, SB, SG, SO",4,1,3,High
+HOSP23P122748,Mewar Hospital Pvt Ltd Mandsaur,MADHYA PRADESH,Mandsaur,Private(For Profit),PMJAY,No,S5,1,0,1,High
+HOSP23P122787,Promise Children And General Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MG, MP, SB, SG, SS, SU",6,2,4,High
+HOSP23P122879,Ganga Hospital,MADHYA PRADESH,Raisen,Private(For Profit),PMJAY,No,"M1, M7, M2, S1, S4, S5",6,3,3,High
+HOSP23P122958,Sms Energy Hospital,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"BM, MC, MG, MO, MP, SB, SG, SL, SM, SN, SO, SP, SS, ST, SC, SU",16,4,11,High
+HOSP23P122977,Sng Hospital,MADHYA PRADESH,Indore,Private(Not For Profit),PMJAY,No,"SB, SG, SN, SC, SM",5,0,5,High
+HOSP23P123020,Narayan Hospital Sagar Private Limited,MADHYA PRADESH,Sagar,Private(For Profit),PMJAY,No,"MG, SG",2,1,1,High
+HOSP23P123076,Shalby Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),PMJAY,No,"MC, MO, SU, SV, SC",5,2,3,High
+HOSP23P123207,Pat Hospitals,MADHYA PRADESH,Indore,Private(Not For Profit),PMJAY,No,"MC, MP, SB, SE, SG, SO",6,2,4,High
+HOSP23P123210,Noble Hospital,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"SB, SL, SS, SU, MG",5,1,4,High
+HOSP23P123285,Dr Rai Hospital,MADHYA PRADESH,Sagar,Private(For Profit),PMJAY,No,"BM, SB, SG, SP, MC, MG, MO, MP, SC, SL, SM, SO, SS, ST, SU, SV",16,4,11,High
+HOSP23P123317,Madhuban Hospital Unit Of Tiss,MADHYA PRADESH,Sehore,Private(For Profit),PMJAY,No,"SB, SE, SG, SM, SO, MG, SL, SU",8,1,7,High
+HOSP23P123472,Nimar Navjeevandan Hospital,MADHYA PRADESH,Khargone,Private(For Profit),PMJAY,No,"MN, SB, SG, SO, ST",5,1,4,High
+HOSP23P123542,Vardhman Hospital,MADHYA PRADESH,Katni,Private(For Profit),PMJAY,No,SB,1,0,1,Medium
+HOSP23P123570,Ojas Hospital Bareli,MADHYA PRADESH,Raisen,Private(For Profit),PMJAY,No,"MG, SB, SG",3,1,2,High
+HOSP23P123580,Kalpana Multi Speciality Hospital And Diagnostic Center Llp,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"SG, SU, MG, SB, SN",5,1,4,High
+HOSP23P123590,Shraddha Hospital,MADHYA PRADESH,Ratlam,Private(Not For Profit),PMJAY,No,"MG, SB, SG, SO",4,1,3,Medium
+HOSP23P123640,R K Hospital,MADHYA PRADESH,Mandsaur,Private(For Profit),PMJAY,No,SB,1,0,1,High
+HOSP23P123647,Gurukripa Hospital,MADHYA PRADESH,Katni,Private(For Profit),PMJAY,No,SG,1,0,1,Medium
+HOSP23P123653,Connected Care Hospital & Research Centre,MADHYA PRADESH,Agar Malwa,Private(For Profit),PMJAY,No,"MG, SB, SG, SL, SO, SS, SU",7,1,6,Low
+HOSP23P123702,Ramniwas Airan Hospital Neemuch,MADHYA PRADESH,Neemuch,Private(For Profit),PMJAY,No,SU,1,0,1,Medium
+HOSP23P123732,Guruji Seva Niyas Madhv Shrishti   Indore,MADHYA PRADESH,Indore,Private(Not For Profit),PMJAY,No,MG,1,1,0,High
+HOSP23P123782,Link Hospital Gwalior,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"MC, MG, MN, SG, SO, SU, BM, ER, MP, SC, SL, SM, SN, SP, SS, ST",16,4,10,High
+HOSP23P123820,Sanjivani Hospital & Research Center,MADHYA PRADESH,Barwani,Private(For Profit),PMJAY,No,"MG, SB, SC, SG, SM, SN, SO, ST, SU",9,1,8,High
+HOSP23P123821,Galaxy Super Speciality Hospital Jabalpur,MADHYA PRADESH,Jabalpur,Private(For Profit),PMJAY,No,"BM, ER, IN, MC, MN, MO, MP, MR, SB, SC, SG, SL, SM, SN, SO, SP, SS, ST, SU, SV",20,5,12,High
+HOSP23P123904,Sonare Multispeciality Hospital,MADHYA PRADESH,Chhindwara,Private(For Profit),PMJAY,No,"MG, SB, ST, SU",4,1,3,Medium
+HOSP23P123906,Eminent Hospital A Unit Of Pratyush Healthcare Pvt Ltd,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"MO, SB, SU, MG",4,2,2,High
+HOSP23P123941,Bhagwan Mahavir Swasthy Kendra,MADHYA PRADESH,Mandsaur,Private(Not For Profit),PMJAY,No,"MG, SB",2,1,1,High
+HOSP23P123944,Vardaan  Hospital,MADHYA PRADESH,Shivpuri,Private(For Profit),PMJAY,No,"MG, SB, SG, SO, SU",5,1,4,Medium
+HOSP23P123989,Pukhratan Hospital,MADHYA PRADESH,Neemuch,Private(For Profit),PMJAY and CAPF,No,MG,1,1,0,Medium
+HOSP23P123990,Lnct Medical College And Sewakunj Hospital Kanadia Indore,MADHYA PRADESH,Indore,Private(Not For Profit),PMJAY,No,"MG, MN, MP, SB, SE, SG, SL, SO, SS, SU, ID",11,3,7,High
+HOSP23P124137,Mohak Hitech Speciality Hospital,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,SU,1,0,1,High
+HOSP23P124155,Janseva Superspeciality Hospital,MADHYA PRADESH,Raisen,Private(For Profit),PMJAY,No,"MG, SB, SG",3,1,2,High
+HOSP23P124157,Manorama Hospital,MADHYA PRADESH,Barwani,Private(For Profit),PMJAY,No,"MG, SB, SC, SG, SL, SM, SU",7,1,6,High
+HOSP23P124331,Mahajan Hospital,MADHYA PRADESH,Dhar,Private(For Profit),PMJAY,No,"SB, SG, SM, SO, SU",5,0,5,High
+HOSP23P124352,Kshitij Hospital & Research Center,MADHYA PRADESH,Rewa,Private(For Profit),PMJAY,No,"MN, MP",2,2,0,High
+HOSP23P124619,Phoenix Medical Canter,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"SB, SC, ST, SU",4,0,4,High
+HOSP23P124755,Shri Vaishnav Diagnostic & Kidney Center,MADHYA PRADESH,Indore,Private(Not For Profit),PMJAY,No,-NA-,1,0,0,High
+HOSP23P124774,Saluja Hospital,MADHYA PRADESH,Dewas,Private(For Profit),PMJAY,No,"SB, SL",2,0,2,Medium
+HOSP23P124824,Indore Trauma Center Yogmaya Hospital & Trauma Center,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"SB, SU",2,0,2,High
+HOSP23P124881,Jjhospital,MADHYA PRADESH,Khandwa,Private(For Profit),PMJAY,No,"SB, SG, SO, SC, SU",5,0,5,Medium
+HOSP23P125277,Dewan Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"SB, SG, SU",3,0,3,High
+HOSP23P125409,Deshmukh Dental Clinic,MADHYA PRADESH,Jabalpur,Not Specified,Only CGHS,No,SM,1,0,1,High
+HOSP23P125787,Delhi Mri Center,MADHYA PRADESH,Jabalpur,Not Specified,Only CGHS,Yes,MP,1,1,0,High
+HOSP23P125788,Denasia Dental Clinic,MADHYA PRADESH,Bhopal,Not Specified,Only CGHS,Yes,SM,1,0,1,High
+HOSP23P125789,Healthy Smile Dental Clinic And Orthodontic Centre,MADHYA PRADESH,Jabalpur,Not Specified,Only CGHS,Yes,SM,1,0,1,High
+HOSP23P125790,Jaanki Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,Yes,"BM, ER, MG, MP, SB, SG, SL, SO, ST, SU",10,2,6,High
+HOSP23P125791,Neuberg Supratech Kotgirwar Laboratories Llp,MADHYA PRADESH,Bhopal,Not Specified,Only CGHS,Yes,-NA-,1,0,0,High
+HOSP23P125792,Manoria Heart & Critical Care Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,Yes,"ER, MC, SG, SV",4,1,2,High
+HOSP23P125793,Medi-Square Hospital Pvt. Ltd.,MADHYA PRADESH,Indore,Private(For Profit),Only CGHS,Yes,SB,1,0,1,High
+HOSP23P125794,Rajas Eye And Retina Research Centre,MADHYA PRADESH,Indore,Private(For Profit),Only CGHS,No,SE,1,0,1,High
+HOSP23P125795,Sant Hirdaram Yoga And Nature Cure Hospital,MADHYA PRADESH,Bhopal,Private(Not For Profit),Only CGHS,Yes,"CP, MG, OC",3,1,0,High
+HOSP23P125796,Shubbham Dental Clinic,MADHYA PRADESH,Jabalpur,Not Specified,Only CGHS,No,SM,1,0,1,High
+HOSP23P125797,Silver Line Hospital & Research Institute,MADHYA PRADESH,Bhopal,Private(Not For Profit),Only CGHS,No,"ER, MG, MO, SB, SC, SG, SO, ST",8,2,5,High
+HOSP23P125798,Swastik Multispeciality Hospital & Research Centre,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,Yes,"BM, ER, MC, MG, MN, MO, MP, NA, SB, SC, SE, SG, SL, SM, SN, SO, SP, SS, ST, SU, SV",21,5,13,High
+HOSP23P125799,Vaishali Dental Care,MADHYA PRADESH,Jabalpur,Not Specified,Only CGHS,Yes,SM,1,0,1,High
+HOSP23P125800,Vimal Eye Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,No,SE,1,0,1,High
+HOSP23P126178,Shataayu Dental Clinic,MADHYA PRADESH,Indore,Not Specified,Only CGHS,Yes,SM,1,0,1,High
+HOSP23P126321,Contacare Eye Hospital (Unit Of Contacare Opthalmi,MADHYA PRADESH,Jabalpur,Not Specified,Only CGHS,No,SE,1,0,1,High
+HOSP23P126322,Hajela Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,Yes,"BM, ER, MC, MG, MN, MP, SB, SG, SL, SN, SS, ST, SU",13,4,7,High
+HOSP23P126549,Adhunic Dental Clinic,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,No,SM,1,0,1,High
+HOSP23P126550,Husain Eye Care Centre,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,No,SE,1,0,1,High
+HOSP23P126551,Trivedi Dental Clinic,MADHYA PRADESH,Jabalpur,Public,Only CGHS,Yes,SM,1,0,1,High
+HOSP23P126740,Sanjeevan Hospital Research Centre - Jabalpur,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,Yes,"BM, ER, MG, MP, SB, SC, SG, SM, SN, SO, SP, SS, SU",13,2,9,High
+HOSP23P127200,Mittal Medicare And Hospital Pvt Ltd,MADHYA PRADESH,Dhar,Private(For Profit),PMJAY,No,"MG, MP, SB, SO",4,2,2,High
+HOSP23P127205,Shri Balaji Hospital & Trauma Centre,MADHYA PRADESH,Sagar,Private(For Profit),PMJAY,No,"SB, SL",2,0,2,High
+HOSP23P127464,Gbl Hospital,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"M1, M7, MO, SB, SG, SU",6,3,3,High
+HOSP23P127527,Ln Medical College & J K Hospital,MADHYA PRADESH,Bhopal,Private(Not For Profit),Only CGHS,No,"BM, ER, MC, MG, MN, MP, SB, SE, SG, SL, SM, SN, SO, SP, SS, ST, SU, SV",18,4,12,High
+HOSP23P127528,Tathastu Superspeciality Dental Clinic Kolar Branch,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,Yes,SM,1,0,1,High
+HOSP23P127538,Gut Gi And Liver Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,Yes,"ER, MC, MG, MO, SB, SG, SP, SU",8,3,4,High
+HOSP23P127543,Geeta Bhawan Hospital,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"M1, M7, M5, S1, S2, S3, S5",7,3,4,High
+HOSP23P127557,Tathastu Superspeciality Dental Clinic Indrapuri Branch,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,Yes,SM,1,0,1,High
+HOSP23P127670,Centre For Sight Indore A Unit Of New Delhi Centre For Sight Ltd.,MADHYA PRADESH,Indore,Private(For Profit),Only CGHS,Yes,SE,1,0,1,High
+HOSP23P127798,Aditya Dental Clinic,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,Yes,SM,1,0,1,High
+HOSP23P127808,Sewa Sadan Eye Hospital Trust,MADHYA PRADESH,Bhopal,Private(Not For Profit),Only CGHS,Yes,SE,1,0,1,High
+HOSP23P127827,Vision Care And Research Centre,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,Yes,SE,1,0,1,High
+HOSP23P127881,Tathastu Superspeciality Dental Clinic Malviya Nagar Branch,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,Yes,SM,1,0,1,High
+HOSP23P127912,Asg Hospital Pvt. Ltd.,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,Yes,SE,1,0,1,High
+HOSP23P127922,Asg Hospital Pvt. Ltd.,MADHYA PRADESH,Indore,Private(For Profit),Only CGHS,Yes,SE,1,0,1,High
+HOSP23P127940,Kothari Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,Yes,"MG, SB, SC, SG, SM, SP, SU",7,1,6,High
+HOSP23P127965,Career Institute Of Medical Sciences,MADHYA PRADESH,Bhopal,Private(Not For Profit),Only CGHS,Yes,"BM, ER, MC, MG, MP, SB, SG, SL, SM, SN, SO, SP, ST, SU",14,3,9,High
+HOSP23P127969,Navjeevan Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,Yes,"BM, ER, MC, MG, MN, MP, SB, SG, SM, SO, SS, ST, SU",13,4,7,High
+HOSP23P127997,Chhavi Eye Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,No,SE,1,0,1,High
+HOSP23P127999,Jamdar Hospital Pvt. Ltd. Jabalpur,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,No,"ER, IN, MG, SB, SG, SL, SN, SO, SP, ST, SU, SV",12,1,9,High
+HOSP23P128039,Navodaya Cancer Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,Yes,"MO, MR, NA, SC, SM",5,2,2,High
+HOSP23P128042,Anant Nursing Home Pvt Ltd,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,No,"BM, ER, MC, MG, MO, MP, SB, SC, SE, SG, SL, SM, SN, SO, SP, SS, ST, SU",18,4,12,High
+HOSP23P128043,Pandey Hospital Pvt Ltd,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,No,"BM, ER, IN, MG, SB, SE, SG, SL, SM, SN, SO, SP, ST, SU",14,1,10,High
+HOSP23P128052,Bombay Hospital & Research Centre,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,Yes,"ER, IN, MC, MG, MN, MO, MP, NA, SB, SE, SG, SL, SM, SN, SO, SP, SS, ST, SU, SV",20,5,12,High
+HOSP23P128053,Jawaharlal Nehru Cancer Hospital And Research Centre,MADHYA PRADESH,Bhopal,Private(Not For Profit),Only CGHS,Yes,"MG, MO, MR, NA, SC, SG",6,3,2,High
+HOSP23P128067,Marble City Hospital And Research Centre Pvt Ltd.,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,Yes,"BM, ER, IN, MC, MG, MN, MO, MP, NA, SB, SC, SE, SG, SL, SM, SN, SO, SP, SS, ST, SU, SV",22,5,13,High
+HOSP23P128186,Noble Multispeciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,Yes,"BM, ER, IN, MC, MG, MO, MP, SB, SG, SM, SN, SO, SP, SS, ST, SU, SV",17,4,10,High
+HOSP23P128191,Matashree Netralaya,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,Yes,SE,1,0,1,High
+HOSP23P128223,Laxmi Narayan Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,No,"ER, MG, MO, NA, SB, SC, SG, SO, SS",9,2,5,High
+HOSP23P128230,National Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,Yes,"BM, ER, MG, MN, MP, SB, SC, SE, SG, SL, SN, SO, SP, SS, ST, SU, MC, SM",18,4,12,High
+HOSP23P128263,Ajwani Eye Hospital Pvt. Ltd.,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,Yes,SE,1,0,1,High
+HOSP23P128339,Sudarshan Netralaya,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,Yes,SE,1,0,1,High
+HOSP23P128356,Siddhanta Red Cross Superspeciality Hospital,MADHYA PRADESH,Bhopal,Private(Not For Profit),Only CGHS,Yes,"IN, MC, MG, MO, SB, SC, SE, SG, SL, SM, SN, SO, SP, ST, SU, SV",16,3,12,High
+HOSP23P128448,Bansal Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,No,"MC, MO, MR, SC, SV",5,3,2,High
+HOSP23P128451,Shalya Joint Care,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,No,SB,1,0,1,High
+HOSP23P128502,Aditya Super Speciality Hospital & Trauma Centre,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,Yes,"BM, CP, MC, MG, MN, MO, MP, OC, SB, SE, SG, SL, SM, SN, SO, SP, SS, SU, SV",19,5,11,High
+HOSP23P128910,Batalia Eye Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,Yes,SE,1,0,1,High
+HOSP23P128932,Central Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,No,"BM, ER, MG, SB, SC, SG, SL, SM, SN, SO, SP, ST, SU",13,1,10,High
+HOSP23P128995,Best Super Specialty Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,Yes,"ER, IN, MC, MG, MO, MP, SB, SC, SE, SG, SL, SM, SN, SO, SP, SS, ST, SU",18,4,12,High
+HOSP23P129021,Mayo Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,No,"MC, MG, MN, MP, SG, SO",6,4,2,High
+HOSP23P129022,Narmada Trauma Centre Pvt Ltd,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,No,"BM, ER, IN, MG, MP, SB, SE, SG, SM, SN, SO, SP, SS, ST, SU",15,2,10,High
+HOSP23P129025,Prakash Eye Care & Laser Centre,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,Yes,SE,1,0,1,High
+HOSP23P129028,Rohit Eye Hospital And Child Care Centre,MADHYA PRADESH,Indore,Private(For Profit),Only CGHS,Yes,SE,1,0,1,High
+HOSP23P129029,Sri Aurobindo Institute Of Medical Science,MADHYA PRADESH,Indore,Private(For Profit),Only CGHS,Yes,"BM, ER, IN, MC, MG, MN, MO, MP, MR, NA, SB, SC, SE, SG, SL, SM, SN, SO, SP, SS, ST, SU, SV",23,6,13,High
+HOSP23P129114,Er H N Nema Memorial Super Specialty Heart & Critical Care Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,No,MC,1,1,0,High
+HOSP23P129217,Infinity Heart Institute A Unit Of Ihrc,MADHYA PRADESH,Jabalpur,Private(Not For Profit),Only CGHS,Yes,"MC, MG, OC, SV",4,2,1,High
+HOSP23P129359,Mahakoshal  Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,Yes,"BM, ER, MC, MG, MN, MO, MP, NA, SB, SC, SE, SG, SL, SM, SN, SO, SP, SS, ST, SU",20,5,12,High
+HOSP23P129360,Jabalpur Hospital And Research Centre,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,No,"ER, IN, MC, MG, MN, MO, MP, SB, SC, SE, SG, SL, SM, SN, SO, SP, SS, SU, SV",19,5,12,High
+HOSP23P129426,Retina Speciality Hospital,MADHYA PRADESH,Indore,Private(For Profit),Only CGHS,Yes,SE,1,0,1,High
+HOSP23P129551,Life Medicity Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,Yes,"BM, ER, IN, MC, MG, MN, MO, MP, NA, SB, SC, SE, SG, SL, SM, SN, SO, SP, SS, ST, SU",21,5,12,High
+HOSP23P129677,Ashish Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,No,"BM, ER, IN, MC, MG, MO, MP, NA, SB, SC, SE, SG, SL, SM, SN, SO, SP, SS, ST, SU, SV",21,4,13,High
+HOSP23P129712,Chirayu Charitable Foundation,MADHYA PRADESH,Bhopal,Private(Not For Profit),Only CGHS,Yes,"BM, ER, IN, MC, MG, MN, MO, MP, MR, NA, SB, SC, SE, SG, SL, SM, SN, SO, SP, SS, ST, SU, SV",23,6,13,High
+HOSP23P129714,Peoples Hospital Bhanpur Bhopal,MADHYA PRADESH,Bhopal,Private(Not For Profit),Only CGHS,Yes,"BM, ER, MC, MG, MN, MP, SB, SE, SG, SL, SM, SN, SO, SP, SS, ST, SU",17,4,11,High
+HOSP23P129742,Dube Surgical And Dental Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,Yes,"SB, SC, SG, SM, SN, SP, SS, ST, SU",9,0,9,High
+HOSP23P129758,Baderia Metroprime Multi Speciality Hospital  ( A Unit Of Satya Sai Cancer Society ),MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,No,"BM, ER, IN, MC, MG, MN, MO, MP, NA, SB, SC, SE, SG, SL, SM, SN, SO, SP, SS, ST, SU, SV",22,5,13,High
+HOSP23P129788,Jan Jyoti Super Speciality Eye Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,Yes,SE,1,0,1,High
+HOSP23P129910,Lbs Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,Yes,"BM, ER, MC, MG, MN, MO, MP, MR, SB, SC, SG, SM, SN, SO, SP, SS, ST, SU, SV",19,6,11,High
+HOSP23P129916,Dental House,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,No,SM,1,0,1,High
+HOSP23P129944,Baghel Hospital And Research Centre,MADHYA PRADESH,Harda,Private(For Profit),PMJAY,No,"SO, ER, MC, MG, SB, SG, SN, ST",8,2,5,Medium
+HOSP23P129975,Chs Apple Multispecility Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"MG, SB, SG, MO, SC, SM, SN, SU",8,2,6,High
+HOSP23P130057,Paliwal Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,No,"BM, ER, MG, MN, MO, MP, MR, NA, SB, SC, SE, SG, SN, SO, SU, SV",16,5,8,High
+HOSP23P130066,Bramhani Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"SB, SG, SN, SU, ID, MG, SM, ST",8,1,6,High
+HOSP23P130067,Charak Hospital Pvt.Ltd.,MADHYA PRADESH,Indore,Private(For Profit),Only CGHS,Yes,"ER, MC, MG, MO, NA, SB, SC, SE, SG, SM, SN, SO, SP, SU, SV",15,3,10,High
+HOSP23P130168,Urban Dental Skin,MADHYA PRADESH,Bhopal,Not Specified,Only CGHS,Yes,"CP, OC, SM",3,0,1,High
+HOSP23P130403,Raja Bhoj Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MG, SB, SG, SU, SN",5,1,4,High
+HOSP23P130406,Arogya Helathcre Multi Speciality Hospital,MADHYA PRADESH,Chhindwara,Private(For Profit),PMJAY,No,"MC, MG, SB, SG, SU, ER",6,2,3,Medium
+HOSP23P130564,Haque Multispeciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"SB, MG",2,1,1,High
+HOSP23P130637,Yashvi Multi Speciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"ID, MG, SB, SG",4,1,2,High
+HOSP23P130783,Karond Multispeciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MG, SG",2,1,1,High
+HOSP23P130851,Rudraksha Multispeciality Hospitals,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MG, SB, SG",3,1,2,High
+HOSP23P130970,Life Care Multispeciality Hospital Betul,MADHYA PRADESH,Betul,Private(For Profit),PMJAY,No,"MG, SB, SG, SU",4,1,3,Medium
+HOSP23P130971,Gayatri Multispeciality Hospital,MADHYA PRADESH,Bhopal,Private(Not For Profit),PMJAY,No,"MG, SB, SG, SN, SP, SU",6,1,5,High
+HOSP23P131057,Prabhu Prem Netralaya And General Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,No,SE,1,0,1,High
+HOSP23P131217,Eye Site Eye Hospital And Retina Centre,MADHYA PRADESH,Indore,Private(For Profit),Only CGHS,No,SE,1,0,1,High
+HOSP23P131281,Siddharth Eye Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,No,SE,1,0,1,High
+HOSP23P131291,Prakash Eyecare And Laser Centre,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,Yes,SE,1,0,1,High
+HOSP23P131293,Hajela Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"SL, SB",2,0,2,High
+HOSP23P131736,Navodaya Hospital & Research Centre,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"ID, MG, BM, SB, SG, SN, SO, SP, ST, SU",10,1,7,High
+HOSP23P131987,Getwell Hospital,MADHYA PRADESH,Indore,Private(Not For Profit),PMJAY,No,SB,1,0,1,High
+HOSP23P132079,Vns Hospital And Research Centre,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MG, SB, SG, SM, SO, SU",6,1,5,High
+HOSP23P132576,Shree Narayandasji Hospital,MADHYA PRADESH,Barwani,Private(Not For Profit),PMJAY,No,"MG, MP, SB, SU",4,2,2,High
+HOSP23P132773,Tathastu Superspeciality Dental Clinic,MADHYA PRADESH,Indore,Not Specified,Only CGHS,Yes,SM,1,0,1,High
+HOSP23P132802,Apex Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,Yes,"BM, CP, MG, OC, SB, SG, SN, SO, SP, SS, SU",11,1,7,High
+HOSP23P132827,Krishna Hospital Kukshi,MADHYA PRADESH,Dhar,Private(Not For Profit),PMJAY,No,"SO, MG, SB",3,1,2,High
+HOSP23P133886,Itm Hospital And Research Centre,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"BM, ER, MG, MN, MP, SB, SE, SG, SL, SO, SP, SU, MO, SM, SN, ST",16,4,10,High
+HOSP23P134023,Dentoral,MADHYA PRADESH,Bhopal,Not Specified,Only CGHS,No,CP,1,0,0,High
+HOSP23P134174,Saluja Eye Care Center,MADHYA PRADESH,Indore,Private(For Profit),Only CGHS,Yes,SE,1,0,1,High
+HOSP23P134328,National Hospital,MADHYA PRADESH,Rewa,Private(For Profit),PMJAY,No,"SB, SG, BM, ER, MG, MN, MO, MP, SC, SP, SU",11,4,5,High
+HOSP23P134338,Bhandari Hospital & Research Center,MADHYA PRADESH,Indore,Private(For Profit),Only CGHS,No,"CP, MC, MG, MN, MO, MP, MR, SB, SE, SG, SL, SM, SN, SO, SP, SS, SU, SV",18,6,11,High
+HOSP23P134359,Shri Bharat Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,SG,1,0,1,High
+HOSP23P134630,Shitla Sahai Institute Of Medical Sciences,MADHYA PRADESH,Gwalior,Private(Not For Profit),Only CGHS,Yes,"CP, MC, MG, MP, OC, SB, SE, SG, SL, SM, SN, SO, SP, SU, SV",15,3,10,High
+HOSP23P134636,Hope Hospital,MADHYA PRADESH,Dhar,Private(For Profit),PMJAY,No,"SC, SO, SG",3,0,3,High
+HOSP23P134682,Vidisha Apollo Multispeciality Hospital,MADHYA PRADESH,Vidisha,Private(For Profit),PMJAY,No,"ID, MG, SB, SG, SU",5,1,3,High
+HOSP23P134688,Medilife Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"SB, SO, SU, MG",4,1,3,High
+HOSP23P134780,Medanta Hospital Indore Unit Of Global Health Limited,MADHYA PRADESH,Indore,Private(For Profit),Only CGHS,No,"CP, MC, MG, OC, SB, SG, SO, SU, SV",9,2,5,High
+HOSP23P134785,Chitrakoot Netra Chikitsalaya And Laser Eye Surgery,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,Yes,SE,1,0,1,High
+HOSP23P134808,Sanjeevani Hospital,MADHYA PRADESH,Vidisha,Private(For Profit),PMJAY,No,MG,1,1,0,High
+HOSP23P135333,Cure One Dental Clinic,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,No,SM,1,0,1,High
+HOSP23P135419,St. Richard Pampuri Medicial Centre,MADHYA PRADESH,Khandwa,Private(For Profit),PMJAY,No,"MG, SB, SO, SG",4,1,3,Medium
+HOSP23P135491,Cancer Hospital And Research Institute,MADHYA PRADESH,Gwalior,Private(Not For Profit),Only CGHS,Yes,"CP, MG, MO, MR, OC, SO",6,3,1,High
+HOSP23P135562,Krishna Cancer Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,Yes,"CP, MO, OC, SP",4,1,1,High
+HOSP23P135720,Zindal Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"BM, ER, MG, MN, MP, SB, SC, SG, SM, SN, SO, SP, SS, ST, SU, ID",16,3,10,High
+HOSP23P135750,Sanjeevani Hospital,MADHYA PRADESH,Sehore,Private(For Profit),PMJAY,No,MG,1,1,0,High
+HOSP23P135752,Avanti Hospital Ujjain,MADHYA PRADESH,Ujjain,Private(Not For Profit),PMJAY,No,"IN, MC, MO, NA, SC, SN, SP, SV, BM, ER, MG, MN, MP, SB, SG, SL, SM, SS, ST",19,5,10,Medium
+HOSP23P135888,Tirupati Hospital,MADHYA PRADESH,Dhar,Private(For Profit),PMJAY,No,SB,1,0,1,High
+HOSP23P135899,Global Speciality Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),Only CGHS,No,"MC, MG, SB, SE, SG",5,2,3,High
+HOSP23P135939,Jaanki Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"SB, SP",2,0,2,High
+HOSP23P135949,Venus College And Hospital Vch Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"BM, MG, MP, SB, SG, ST, SU",7,2,4,High
+HOSP23P136134,Narmada Apna Hospital Chhatarpur,MADHYA PRADESH,Chhatarpur,Private(For Profit),PMJAY,No,"ER, ID, MG, MP, MN, SB, SG, SM, SN, SS, ST",11,3,6,Medium
+HOSP23P136210,Anuyog Hospital And Research Center Pvt.Ltd Mandsaur,MADHYA PRADESH,Mandsaur,Private(For Profit),PMJAY,No,"MC, MG, SB, SG, SM, SN, SO, ER, SC",9,2,6,High
+HOSP23P136243,Sanjeevani Hospital,MADHYA PRADESH,Rajgarh,Private(Not For Profit),PMJAY,No,"MG, SB",2,1,1,Medium
+HOSP23P136342,Shri Chaitanaya Mahaprabhu Private Ltd.,MADHYA PRADESH,Sagar,Private(For Profit),PMJAY,No,"ER, MG, MN, MP, SB, SG, SN, ST",8,3,4,High
+HOSP23P136608,Maa Rewa Hospital And Research Center Private Limited,MADHYA PRADESH,Umaria,Private(For Profit),PMJAY,No,"ER, ID, MG, SB",4,1,1,Low
+HOSP23P136750,Maruti Multispeciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"ID, MG, ER, SB, SG, ST",6,1,3,High
+HOSP23P136845,Navjeevam Hospital Shivpuri,MADHYA PRADESH,Shivpuri,Private(For Profit),PMJAY,No,"SB, SG, SU",3,0,3,Medium
+HOSP23P136959,S V Eye Care And Research Centre,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,No,SE,1,0,1,High
+HOSP23P137044,Ajay Bhandari Associates Llp,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,No,"CP, MC, OC, SL",4,1,1,High
+HOSP23P137129,Rishi Children Hospital,MADHYA PRADESH,Hoshangabad,Private(For Profit),PMJAY,No,"MN, MP",2,2,0,High
+HOSP23P137142,Smt Shanta Smriti Multispeciality Hospital,MADHYA PRADESH,Vidisha,Private(For Profit),PMJAY and CGHS,No,SB,1,0,1,High
+HOSP23P137174,Anushree Netra Chikitsalaya And Retina Care Center,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,No,SE,1,0,1,High
+HOSP23P137217,Setha Multispeciality Hospital,MADHYA PRADESH,Hoshangabad,Private(For Profit),PMJAY,No,"MR, MO, SC",3,2,1,High
+HOSP23P137219,Mewar Hospital Pvt Ltd,MADHYA PRADESH,Shahdol,Private(For Profit),PMJAY,No,SB,1,0,1,Medium
+HOSP23P137263,Miracle Hospital,MADHYA PRADESH,Mandsaur,Private(Not For Profit),PMJAY,No,"ER, MG",2,1,0,High
+HOSP23P137355,Late Shri Natthulalji Mori Memorial Hospital Pvt. Ltd.,MADHYA PRADESH,Khargone,Private(For Profit),PMJAY,No,SB,1,0,1,High
+HOSP23P137553,Arnav Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"BM, SB, SG, SN, SP, ST, SU",7,0,6,High
+HOSP23P137603,Radhakrishna Hospital Sendhwa,MADHYA PRADESH,Barwani,Private(Not For Profit),PMJAY,No,"MG, SB, ST",3,1,2,High
+HOSP23P137610,Chirayu Multispeciality Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"ID, SB, SC, SG, SU",5,0,4,High
+HOSP23P137699,Maqsood Memorial Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"ID, SB, SG, SN, SO, SP, SU",7,0,6,High
+HOSP23P137764,Maa Durga Hospital,MADHYA PRADESH,Katni,Private(For Profit),PMJAY,No,"BM, MG, MP, SB, SG, SO, SU",7,2,4,Medium
+HOSP23P137794,Metro Neuro Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"ID, SN",2,0,1,High
+HOSP23P137798,Ayushman Hospital,MADHYA PRADESH,Rajgarh,Private(For Profit),PMJAY,No,"MG, SB, SG",3,1,2,Medium
+HOSP23P137920,New Indore Super Speciality Hospital,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"SB, SG",2,0,2,High
+HOSP23P137936,Al Rasheed Charitable Maternity And Research Centre,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MN, SB, SG, SN, SO, ST, SU",7,1,6,High
+HOSP23P137952,Ganpati Memorial Multispeciality Hospital & Critical Care Unit,MADHYA PRADESH,Balaghat,Private(For Profit),PMJAY,No,"MG, SB, SG, SO, SU",5,1,4,Medium
+HOSP23P138017,V One Hospital,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"ID, MC, MO, SB, SC, SU",6,2,3,High
+HOSP23P138194,Dr Garg Hospital,MADHYA PRADESH,Morena,Private(For Profit),PMJAY,No,MG,1,1,0,Medium
+HOSP23P138258,Spandan Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MC, SV",2,1,1,High
+HOSP23P138355,Metrocity Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MG, SB, SG, SN, SU, SO",6,1,5,High
+HOSP23P138360,Mishra Multispeciality Hospital & Trauma Centre,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"BM, ER, SB, SG, SM, SN, SO, ST, SU",9,0,7,High
+HOSP23P138378,Om Hari Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"ID, SG, SU",3,0,2,High
+HOSP23P138429,Trinity Multispeciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MG, SG, SB, SL, SU",5,1,4,High
+HOSP23P138469,Shri Balaji Hospital,MADHYA PRADESH,Shajapur,Private(For Profit),PMJAY,No,"ER, ID, MG, SB, SG, ST",6,1,3,Medium
+HOSP23P138566,Vaibhav Hospital,MADHYA PRADESH,Sehore,Private(For Profit),PMJAY,No,"MG, SG, ER, SO",4,1,2,High
+HOSP23P138709,Bhopal Care Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MG, SB, SG, SL, SC, SM, SN, SP, SU",9,1,8,High
+HOSP23P139010,Thakur Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"SG, SU",2,0,2,High
+HOSP23P139103,Bhopal Hi Tech Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"SB, SG, ST",3,0,3,High
+HOSP23P140253,Ramshri Institute Of Medicalscience And Superspeciality Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"MG, SB, SG, SN, SU, SC, SP",7,1,6,High
+HOSP23P140291,Maa Pitambara Hospital And Research Center  Agar Malwa,MADHYA PRADESH,Agar Malwa,Private(For Profit),PMJAY,No,"MG, SB",2,1,1,Low
+HOSP23P140318,Arihant Kidney Multispeacialty Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,SU,1,0,1,High
+HOSP23P140398,Varnit Hospital,MADHYA PRADESH,Indore,Private(Not For Profit),PMJAY,No,"ER, SG",2,0,1,High
+HOSP23P140423,Rainbow Hospital And Research Centre,MADHYA PRADESH,Rewa,Private(For Profit),PMJAY,No,"MN, MP, SS",3,2,1,High
+HOSP23P140456,Sai Hospital And Trauma Center,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"SB, ID, SN, ST, SU",5,0,4,High
+HOSP23P140458,Health Plus Multispeciality Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,SN,1,0,1,High
+HOSP23P140462,Sai Shiva Netralaya,MADHYA PRADESH,Jabalpur,Private(Not For Profit),Only CGHS,No,SE,1,0,1,High
+HOSP23P140647,Tanish Medical Care,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,SU,1,0,1,High
+HOSP23P140836,Navjeevan Hospital And Research Centre,MADHYA PRADESH,Agar Malwa,Private(For Profit),PMJAY,No,SB,1,0,1,Low
+HOSP23P140907,Triveni Health Care,MADHYA PRADESH,Jabalpur,Private(For Profit),PMJAY,No,"MO, SC, SN, MG",4,2,2,High
+HOSP23P140950,Jashdeep Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,SB,1,0,1,High
+HOSP23P140980,Pramila Hospital And Ivf Center,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"MG, MO, MP, SB, SC, SG, SO, SU",8,3,5,High
+HOSP23P140996,My Smile Dental Clinic,MADHYA PRADESH,Bhopal,Not Specified,Only CGHS,No,SM,1,0,1,High
+HOSP23P141012,Prabath Shri Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MG, SG, SP, SU",4,1,3,High
+HOSP23P141155,Shri Ram Health Center,MADHYA PRADESH,Shahdol,Private(For Profit),PMJAY,No,"ER, MG, MN, MP, SB, SG, SM, SN, SO, SU",10,3,6,Medium
+HOSP23P141164,Vihaan Hospital And Research Centre,MADHYA PRADESH,Rewa,Private(For Profit),PMJAY,No,"BM, ER, ID, MG, MN, MO, MP, SB, SG, SL, SM, SP, SS, ST, SU",15,4,8,High
+HOSP23P141224,Sankalp Multispeciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"SB, SG",2,0,2,High
+HOSP23P141398,Community Value Specialty Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"BM, MG, SB, SC, SG, SO, ST, SU",8,1,6,High
+HOSP23P141457,Manan Child Care And Multispeciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MN, MP, SS",3,2,1,High
+HOSP23P141523,Jainamshree Multispeciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MG, SG",2,1,1,High
+HOSP23P141528,Samarthshree Multispeciality Hospital,MADHYA PRADESH,Jabalpur,Private(Not For Profit),PMJAY,No,SN,1,0,1,High
+HOSP23P141701,Katni Life Care Hospital And Research Center A Unit Of Narmadanchal Care India Pvt Ltd.,MADHYA PRADESH,Katni,Private(Not For Profit),PMJAY,No,"ER, ID, MG, SB, SE, SG, SM, SO, SP",9,1,6,Medium
+HOSP23P141894,Narayana Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"BM, MN, MP, SB, SG, SN, SO, SP, SS, ST, SU, MG",12,3,8,High
+HOSP23P142019,Sahara Hospital Gwalior,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"MG, MP, SB, SG, SL, SN, SO, SP, SS, SU",10,2,8,High
+HOSP23P142023,Laxmi Multi Speciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MG, SB, SG, SU",4,1,3,High
+HOSP23P142148,Sanjeevani Hospital,MADHYA PRADESH,Raisen,Private(For Profit),PMJAY,No,"MG, SB, SG, SN, SU",5,1,4,High
+HOSP23P142164,A B Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"SB, SG, SU",3,0,3,High
+HOSP23P142249,Galav Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"SN, SU, SB, SC, SG",5,0,5,High
+HOSP23P142269,Medista Hospital A Unit Of Aayushman Well Care Private Limited,MADHYA PRADESH,Indore,Private(Not For Profit),PMJAY,No,"SB, SC, SS, ST, SU, SP",6,0,6,High
+HOSP23P142317,Chirag Children Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MG, MP, SC, SG, SS",5,2,3,High
+HOSP23P142341,Max Multispeciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,SB,1,0,1,High
+HOSP23P142347,Dr Harishankar Hospital,MADHYA PRADESH,Vidisha,Private(For Profit),PMJAY,No,"MG, SB",2,1,1,High
+HOSP23P142360,Shree Shyam Hospital,MADHYA PRADESH,Dhar,Private(For Profit),PMJAY,No,"SB, SG, SO, SU",4,0,4,High
+HOSP23P142377,Vaidansh Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"SB, SC, SG, SM, SN, SP, SU",7,0,7,High
+HOSP23P142388,Miracles Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MC, MG, MN, MP, SB, SL, SN, SO",8,4,4,High
+HOSP23P142430,Amrita Hospital A Unit Of Amrita Healthcare Private Limited,MADHYA PRADESH,Shahdol,Private(For Profit),PMJAY,No,"ER, ID, MG, MN, MP, SB, SC, SG, SM, SO, ST, SU",12,3,7,Medium
+HOSP23P142481,Ubuntu Heart And Super Specialty Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,No,"MC, MG, OC, SB, SG, SO, SU, SV",8,2,5,High
+HOSP23P142754,Singrauli Hospital And Reaserch Center,MADHYA PRADESH,Singrauli,Private(For Profit),PMJAY,No,"MG, SB, SE, SM, SO",5,1,4,Medium
+HOSP23P142759,Sahu Hospital,MADHYA PRADESH,Narsinghpur,Private(For Profit),PMJAY,No,"SG, SU",2,0,2,Medium
+HOSP23P142863,Ojas Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"SB, SG",2,0,2,High
+HOSP23P142911,Yatharth Superspeciality Hospital,MADHYA PRADESH,Tikamgarh,Private(For Profit),PMJAY,No,"MC, MG, MP, SG, SN, SO, SS, SU",8,3,5,Medium
+HOSP23P143015,Leela Multspeciality Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,SG,1,0,1,High
+HOSP23P143106,Saniya Hospital,MADHYA PRADESH,Sehore,Private(For Profit),PMJAY,No,"MG, SO",2,1,1,High
+HOSP23P143116,Adiyogi Multispeciality Hospital Private Limited,MADHYA PRADESH,Dewas,Private(For Profit),PMJAY,No,"MG, SB, SG, SO, SU",5,1,4,Medium
+HOSP23P143149,Anant Heart Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,No,SV,1,0,1,High
+HOSP23P143194,Vedanta Multispeciality Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"MO, SN, SU, BM, ER, ID, MG, SB, SG, TG",10,2,4,High
+HOSP23P143236,Ananat Heart Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MC, SV",2,1,1,High
+HOSP23P143276,Indus Hospital,MADHYA PRADESH,Gwalior,Private(Not For Profit),PMJAY,No,SN,1,0,1,High
+HOSP23P143279,Chordia Hospital,MADHYA PRADESH,Neemuch,Private(For Profit),PMJAY,No,"MC, MG",2,2,0,Medium
+HOSP23P143305,Vivanta Critical Care Hospital,MADHYA PRADESH,Chhindwara,Private(For Profit),PMJAY,No,"SB, SG, SO, SU, ER, MC, MG, MO, SC, SM, SN",11,3,7,Medium
+HOSP23P14341,Choithram Netralaya,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,S3,1,0,1,High
+HOSP23P143415,Asg Hospital Pvt. Ltd.,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,SE,1,0,1,High
+HOSP23P143632,Mount Hospital,MADHYA PRADESH,Bhopal,Private(Not For Profit),Only CGHS,No,CP,1,0,0,High
+HOSP23P143642,Parashnath Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,MP,1,1,0,High
+HOSP23P143735,Good Hospital,MADHYA PRADESH,Burhanpur,Private(For Profit),PMJAY,No,"ER, ID, MG, MN, MP, SB, SG, SO",8,3,3,Medium
+HOSP23P143754,Smt.Ramadevi Smriti Maternity And Nursing Home,MADHYA PRADESH,Gwalior,Private(Not For Profit),PMJAY,No,"SB, SG, SO, SU",4,0,4,High
+HOSP23P143853,Laxmi Narayan Memorial Hospital,MADHYA PRADESH,Narsinghpur,Private(For Profit),PMJAY,No,"MC, MG, MP, SB, SE, SO",6,3,3,Medium
+HOSP23P143930,Help And Care Multi Hospital,MADHYA PRADESH,Vidisha,Private(For Profit),PMJAY,No,"MG, SB, SG",3,1,2,High
+HOSP23P143949,Shri Ram Multi Speciality Hospital,MADHYA PRADESH,Vidisha,Private(For Profit),PMJAY,No,"MG, SB, SG",3,1,2,High
+HOSP23P144102,Sun Shine Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"SG, MG, SB, SC, SN, SP, ST, SU",8,1,7,High
+HOSP23P144123,Om Hospital,MADHYA PRADESH,Neemuch,Private(For Profit),PMJAY,No,SB,1,0,1,Medium
+HOSP23P144137,Aman Hospital And Trauma Center,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MG, SB",2,1,1,High
+HOSP23P144172,Anmol Hospital,MADHYA PRADESH,Betul,Private(For Profit),PMJAY,No,"MG, SB",2,1,1,Medium
+HOSP23P144186,Care And Cure Multispeciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"SB, SU",2,0,2,High
+HOSP23P144217,Om Hospital And Research Centre,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"SP, MG, SB, SG, ST, SU",6,1,5,High
+HOSP23P144223,Sarthak Multispeciality Hospital,MADHYA PRADESH,Raisen,Private(For Profit),PMJAY,No,"MG, SB, SG, ST, SU",5,1,4,High
+HOSP23P144252,Shree Balaji Multispeciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,SB,1,0,1,High
+HOSP23P144274,Suryansh Multi Speciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"SB, MG, SG",3,1,2,High
+HOSP23P144350,Sun City Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,SG,1,0,1,High
+HOSP23P144398,Ayushman Multicare Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"SB, SG, MG",3,1,2,High
+HOSP23P144421,Dev Sudha Sevalay,MADHYA PRADESH,Tikamgarh,Private(For Profit),PMJAY,No,"ER, MG, SB, SG, SU",5,1,3,Medium
+HOSP23P144464,City Life Multispeciality Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"SB, SG, SN, SU",4,0,4,High
+HOSP23P144523,Sarvodaya Multispecialty Hospital,MADHYA PRADESH,Vidisha,Private(For Profit),PMJAY,No,"MG, SB, SG",3,1,2,High
+HOSP23P144606,Shree Geetanjali Hospital,MADHYA PRADESH,Mandsaur,Private(For Profit),PMJAY,No,"ER, MG, SB, SG, SO",5,1,3,High
+HOSP23P144630,Vishesh Jupiterhospital,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"MC, SV, MR",3,2,1,High
+HOSP23P144638,Raksha Hospital And Research Center,MADHYA PRADESH,Khargone,Private(For Profit),PMJAY,No,SB,1,0,1,High
+HOSP23P144768,Mishra Poly Clinic And Nursing Home,MADHYA PRADESH,Singrauli,Private(For Profit),PMJAY,No,"ER, MG, SE, SO",4,1,2,Medium
+HOSP23P145108,Kanha Multispeciality Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"ID, SB, SG, SU, MG, SN",6,1,4,High
+HOSP23P145196,Shri Ram Multispeciality Hospital Neemuch,MADHYA PRADESH,Neemuch,Private(For Profit),PMJAY,No,"MG, SB",2,1,1,Medium
+HOSP23P145250,Chhavi Eye Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),PMJAY,No,SE,1,0,1,High
+HOSP23P145394,Smile Care Dental Clinic,MADHYA PRADESH,Bhopal,Not Specified,Only CGHS,No,SM,1,0,1,High
+HOSP23P145462,Mediplus Hospital,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"MN, MO, MP, SB, SC, SG, SP, SS, SU",9,3,6,High
+HOSP23P145556,Taran Onco Care,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,MO,1,1,0,High
+HOSP23P145821,Rajdeep Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,No,"CP, MG, MP, OC, SG, SO, SS, SU",8,2,4,High
+HOSP23P146193,Dubey Hospital,MADHYA PRADESH,Hoshangabad,Private(For Profit),PMJAY,No,"MG, SB, SG, SO",4,1,3,High
+HOSP23P146197,New Adarsh Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MG, SB, SU",3,1,2,High
+HOSP23P146513,Radha Krishna Nursing Home,MADHYA PRADESH,Narsinghpur,Private(For Profit),PMJAY,No,"MG, SG, SU, MC",4,2,2,Medium
+HOSP23P146553,Suyesh Research Centre And Hospital Pvt Ltd,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,SG,1,0,1,High
+HOSP23P146554,Siddhant Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"SB, SG, SU",3,0,3,High
+HOSP23P146729,Dant Chikitsa Kendra,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,No,SM,1,0,1,High
+HOSP23P146795,Jmd Hospital,MADHYA PRADESH,Harda,Private(For Profit),PMJAY,No,SB,1,0,1,Medium
+HOSP23P146860,Jain Nursing Home,MADHYA PRADESH,Khandwa,Private(For Profit),PMJAY,No,"SB, ST",2,0,2,Medium
+HOSP23P146913,Amrit Heart And Medical Care Center,MADHYA PRADESH,Hoshangabad,Private(For Profit),PMJAY,No,"MC, MG",2,2,0,High
+HOSP23P147022,C3 Multi Speciality Hospital Pvt.Ltd,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"SB, SG, MO, SC, SL, SN, SO, SU",8,1,7,High
+HOSP23P147056,Ram Krishna Hospital And Trauma Center,MADHYA PRADESH,Agar Malwa,Private(For Profit),PMJAY,No,"SB, SG, SM, SN, SP, ST, SU",7,0,7,Low
+HOSP23P147059,Shree Guru Pad Hospital,MADHYA PRADESH,Barwani,Private(For Profit),PMJAY,No,"SB, SC, ST, SU",4,0,4,High
+HOSP23P147166,Muskan Children And General Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,MP,1,1,0,High
+HOSP23P147433,Maa Rewa Multispeciality Hospital And Trauma Centre,MADHYA PRADESH,Barwani,Private(For Profit),PMJAY,No,SO,1,0,1,High
+HOSP23P147541,Global Ananta Multispeciality Hospital,MADHYA PRADESH,Hoshangabad,Private(For Profit),PMJAY,No,"SB, ST",2,0,2,High
+HOSP23P147578,Kusha Bhau Thakre Nuring College And Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"ER, ID, MO, SB, SC, SG, SO, SU, MG",9,2,5,High
+HOSP23P148312,Srj Wellness Llp Srj Netralaya,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,SE,1,0,1,High
+HOSP23P148380,Sr Tulsi Multispeciality Hospital Private Limited,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"SB, SG, SN, SU, MG",5,1,4,High
+HOSP23P148432,Asg Hospital Private Limited,MADHYA PRADESH,Gwalior,Private(For Profit),Only CGHS,No,SE,1,0,1,High
+HOSP23P148590,Shri Krishna Hospital And Research Center,MADHYA PRADESH,Datia,Private(For Profit),PMJAY,No,"ER, MG, SB, SG, SU",5,1,3,Low
+HOSP23P148640,Bimr Hospitals,MADHYA PRADESH,Gwalior,Private(Not For Profit),Only CGHS,No,"BM, CP, MC, MG, MN, MO, MP, MR, OC, SB, SE, SG, SL, SM, SN, SO, SP, SS, SU, SV",20,6,11,High
+HOSP23P148651,Avicenna Multispeciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"ID, SG, SB, SU",4,0,3,High
+HOSP23P148767,Jeevandaan Multispeciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MG, SB, SG, SO, SU",5,1,4,High
+HOSP23P148926,Netrika Netralaya,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,No,SE,1,0,1,High
+HOSP23P149341,Ganpati Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,ST,1,0,1,High
+HOSP23P149697,Minerva The Medicity,MADHYA PRADESH,Rewa,Private(For Profit),PMJAY,No,SV,1,0,1,High
+HOSP23P150416,Shrishti Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MG, SB, SG, SU",4,1,3,High
+HOSP23P150657,Prarthana Hospital And Research Centre,MADHYA PRADESH,Rewa,Private(For Profit),PMJAY,No,"MG, MP, SB, SG, SP, SU",6,2,4,High
+HOSP23P151027,Amarnath Multi Speciality Hospital And Trauma Centre,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"BM, SM, SS, MG, SB, SG, SN, ST, SU",9,1,7,High
+HOSP23P151353,Shree Pandit Chaturbhuj Hospital,MADHYA PRADESH,Shivpuri,Private(For Profit),PMJAY,No,"MC, MG, SB, SG, SU",5,2,3,Medium
+HOSP23P154447,City Hospital,MADHYA PRADESH,Harda,Private(For Profit),PMJAY,No,"MG, SB",2,1,1,Medium
+HOSP23P157036,Miracles Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,Yes,"BM, CP, MC, MG, MN, MP, OC, SB, SG, SL, SN, SO, SP, SS, SU",15,4,8,High
+HOSP23P157176,Shree Ganesh Netralaya Private Limited,MADHYA PRADESH,Indore,Private(For Profit),Only CGHS,No,SE,1,0,1,High
+HOSP23P157488,Shankar Nursing Home And Maternity Centre,MADHYA PRADESH,Rewa,Private(For Profit),PMJAY,No,"SB, SG, SS, ST",4,0,4,High
+HOSP23P158376,B J Multicare Hospital,MADHYA PRADESH,Burhanpur,Private(For Profit),PMJAY,No,"ER, SB, SG",3,0,2,Medium
+HOSP23P158418,Aashima Hospital,MADHYA PRADESH,Gwalior,Private(Not For Profit),PMJAY,No,"SP, BM, ER, MG, MO, MP, SB, SG, SN, ST, SU",11,3,6,High
+HOSP23P158811,Swastik Multispeciality Hospital And Research Centre,MADHYA PRADESH,Jabalpur,Private(For Profit),PMJAY,No,"BM, ER, ID, MC, MG, MN, MO, MP, OT, SB, SC, SE, SG, SL, SM, SN, SO, SP, SS, ST, SU, SV",22,5,13,High
+HOSP23P159065,Jankikund Chikitsalaya,MADHYA PRADESH,Satna,Private(For Profit),PMJAY,No,"MG, SB, SG, SO",4,1,3,Medium
+HOSP23P159091,Lbs Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"BM, SB, SG, SM, SN, SP, ST, SU",8,0,7,High
+HOSP23P159250,Dks Hospital Multispeciality Trauma And Critical Care Centre,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"BM, ER, ID, MG, MO, SB, SG, SM, SP, ST, SU, MP, SO",13,3,7,High
+HOSP23P159523,Bhopal Care Hospital,MADHYA PRADESH,Hoshangabad,Private(Not For Profit),PMJAY,No,"MG, SB",2,1,1,High
+HOSP23P159567,Life Care Hospital,MADHYA PRADESH,Rajgarh,Private(For Profit),PMJAY,No,MG,1,1,0,Medium
+HOSP23P159851,Gyanodaya Multispecialty Hospital,MADHYA PRADESH,Neemuch,Private(Not For Profit),PMJAY,No,"BM, ER, ID, MG, MN, MP, SB, SG, SO, ST, SM, SN, SU",13,3,7,Medium
+HOSP23P160511,Bisen Ortho Care And Multispeciality Hospital,MADHYA PRADESH,Seoni,Private(For Profit),PMJAY,No,"BM, ER, MG, MN, MP, SB, SG, SM, SN, SO, SP, SS, ST, SU",14,3,9,Low
+HOSP23P160618,Sankara Eye Centre Indore,MADHYA PRADESH,Indore,Private(Not For Profit),Only CGHS,No,SE,1,0,1,High
+HOSP23P161598,Ayushman Super Speciality Hospital & Trauma Center,MADHYA PRADESH,Ratlam,Private(Not For Profit),PMJAY,No,"SB, SO",2,0,2,Medium
+HOSP23P162049,Apollo Sage  Hospitals,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MC, MG, OT, SB, SL, SN, SU, SV, MP, SG, SS",11,3,7,High
+HOSP23P162233,Anandam Netralaya,MADHYA PRADESH,Indore,Private(Not For Profit),Only CGHS,No,SE,1,0,1,High
+HOSP23P162320,Chhatarpati Shivaji Hospital,MADHYA PRADESH,Sagar,Private(For Profit),PMJAY,No,"MP, SB",2,1,1,High
+HOSP23P162737,Vision Eye Care Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,No,SE,1,0,1,High
+HOSP23P163594,Bansal Hospital A Unit Of Sagarshree Hospital And Research Institute Pvt Ltd,MADHYA PRADESH,Sagar,Private(For Profit),PMJAY,No,"MC, MO, MR, SC, SL, SU, SV, MG, OT, SB",10,4,5,High
+HOSP23P163718,Shital Chhaya Hospital Pvt. Ltd.,MADHYA PRADESH,Jabalpur,Private(For Profit),PMJAY,No,"BM, MG, MP, SB, SC, SG, SN, SO, SP, SS, ST",11,2,8,High
+HOSP23P164379,Ayodhya Shree Hospital And Trauma Center Llp,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"SB, SN, ST, SU",4,0,4,High
+HOSP23P165706,Vivek Memorial Hospital,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"MO, SB, SC, SN, ST, SU",6,1,5,High
+HOSP23P165754,Shree Multispeciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"ER, MG, SB, SC, SG, SM, SN, SU",8,1,6,High
+HOSP23P167400,Aadhaar Hospital Multi Speciality Unit,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"BM, ER, ID, MG, MN, MP, SB, SG, SM, SN, SO, SP, SS, ST, SU",15,3,9,High
+HOSP23P167980,Ramdas Hospital And Neuro Trauma Centre,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"MG, SB, SC, SG, SN, SP, ST, SU",8,1,7,High
+HOSP23P168936,Bhopal Hospital And Research Centre,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"SB, SO, ST, MG, SU",5,1,4,High
+HOSP23P168950,V One Hospital,MADHYA PRADESH,Indore,Private(For Profit),Only CGHS,No,"BM, CP, MC, MG, MN, MO, MP, MR, OC, SB, SE, SG, SL, SM, SN, SO, SP, SS, SU, SV",20,6,11,High
+HOSP23P168994,Diamond Mining Project Hospital Majhgawan,MADHYA PRADESH,Panna,GOI,PMJAY,No,MG,1,1,0,Low
+HOSP23P169196,Shalby Hospital In Association With Smj Trust Shalby Limited,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,No,"BM, CP, MC, MG, MN, MO, MP, OC, SB, SE, SG, SL, SM, SN, SO, SP, SS, SU, SV",19,5,11,High
+HOSP23P169963,Arera Hospital Vidisha,MADHYA PRADESH,Vidisha,Private(For Profit),PMJAY,No,"BM, ER, MC, MG, MO, SB, SC, SG, SM, SN, SP, SS, ST, SU",14,3,9,High
+HOSP23P170355,Triveni Health Care A Unit Of Jamdar Hospital Pvt Ltd,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,No,"BM, CP, MG, MO, OC, SB, SG, SL, SM, SN, SO, SP, SU",13,2,8,High
+HOSP23P170715,Kishnani Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"BM, ID, MC, MG, MP, SB, SC, SE, SG, SL, SM, SN, SO, SP, SS, ST, SU",17,3,12,High
+HOSP23P170899,Atal Hospital,MADHYA PRADESH,Sehore,Private(For Profit),PMJAY,No,"MG, SB, SG, SO, SU",5,1,4,High
+HOSP23P171024,Sarwa Dharma Multy Specility Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"MG, SB, SG, SN, SU",5,1,4,High
+HOSP23P171078,Life Imaging Center U O International Centre For Brain And Spine,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,No,-NA-,1,0,0,High
+HOSP23P171420,Hyderabad Omega Hospital A Unit Of Hyderabad Institute Of Oncology Private Limited,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,No,"BM, CP, MC, MG, MN, MO, MP, MR, OC, SB, SE, SG, SL, SM, SN, SO, SP, SS, SU, SV",20,6,11,High
+HOSP23P171654,Anand Hospital,MADHYA PRADESH,Chhindwara,Private(For Profit),PMJAY,No,"ER, MG, SB, SM, ST, SU",6,1,4,Medium
+HOSP23P171912,Asg Hospital Pvt Ltd,MADHYA PRADESH,Jabalpur,Private(For Profit),PMJAY,No,SE,1,0,1,High
+HOSP23P172800,Paridhi Hospital & Care,MADHYA PRADESH,Gwalior,Private(For Profit),Only CGHS,No,"BM, CP, MG, MN, MO, MP, OC, SB, SG, SL, SN, SO, SP, SS, SU",15,4,8,High
+HOSP23P173241,Sagar Multispeciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MC, MO, SB, SC, SE, SN, ST, SV, MG, MN, MP, SO, SS",13,5,8,High
+HOSP23P174308,Shri Shankar Hospital,MADHYA PRADESH,Vidisha,Private(For Profit),PMJAY,No,"MC, SP",2,1,1,High
+HOSP23P174442,Indore Multispecility Hospital,MADHYA PRADESH,Indore,Private(Not For Profit),PMJAY,No,"SB, SC, SG, SU",4,0,4,High
+HOSP23P174824,Vandana Hospital & Trauma Centre,MADHYA PRADESH,Singrauli,Private(For Profit),PMJAY,No,"ER, MG, SB",3,1,1,Medium
+HOSP23P174844,Life Care Hospital & Research Center,MADHYA PRADESH,Rewa,Private(For Profit),PMJAY,No,"MG, SB, SG",3,1,2,High
+HOSP23P175755,Balaji Fracture And General Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"ER, MG, SB, SG, ST",5,1,3,High
+HOSP23P182010,Bhartia Dental Clinic,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,No,SM,1,0,1,High
+HOSP23P182704,Asg Hospital Pvt. Ltd.,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,Yes,SE,1,0,1,High
+HOSP23P182901,Dr Mudgals Sparsh Hospital And Research Center,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"MG, MP, SB, SG, SN, SU",6,2,4,High
+HOSP23P183636,Yashoda Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"SB, SC, SG, SM, SN, SP, SU",7,0,7,High
+HOSP23P183848,Mission Hospital Damoh,MADHYA PRADESH,Damoh,Private(For Profit),PMJAY,No,"MC, SB, MG, SO",4,2,2,Low
+HOSP23P184544,Konark Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"SG, SU",2,0,2,High
+HOSP23P184795,Chl Charitable Trust Hospital,MADHYA PRADESH,Indore,Private(Not For Profit),PMJAY,No,"MC, MO, MR, SC, SV",5,3,2,High
+HOSP23P184970,Shalby Hospital,MADHYA PRADESH,Indore,Private(For Profit),Only CGHS,No,"BM, CP, MC, MG, MN, MO, MP, MR, OC, SB, SE, SG, SL, SM, SN, SO, SP, SS, SU, SV",20,6,11,High
+HOSP23P185335,Samriddhi Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"SB, ST, SU",3,0,3,High
+HOSP23P185897,Jain Diwakar Sri Aurobindo Hospital Ratlam,MADHYA PRADESH,Ratlam,Private(Not For Profit),PMJAY,No,"SB, SG, SO",3,0,3,Medium
+HOSP23P186310,Sai Shraddha Hospital,MADHYA PRADESH,Bhopal,Private(Not For Profit),PMJAY,No,"ER, SB, SG, SL, SP, SU",6,0,5,High
+HOSP23P188401,Anandam Netralaya Private Limited,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,SE,1,0,1,High
+HOSP23P188962,Cellcure Cancer Centre Pvt Ltd,MADHYA PRADESH,Indore,Private(For Profit),Only CGHS,No,MO,1,1,0,High
+HOSP23P189337,Sims Hospital,MADHYA PRADESH,Betul,Private(For Profit),PMJAY,No,"MG, SU",2,1,1,Medium
+HOSP23P191461,Indore City Hospital,MADHYA PRADESH,Indore,Private(Not For Profit),PMJAY,No,"ER, MG, MP, SB, SG, SO, ST, SU",8,2,5,High
+HOSP23P191696,Mdc Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"ER, ID, MG, MO, MP, SB, SE, SG, SL, SN, SO, SP, ST, SU",14,3,9,High
+HOSP23P192668,Vijay Shree Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"ID, SB, SG, SP, SU",5,0,4,High
+HOSP23P192712,Yash Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"ER, ID, SB, SG, SP, SU",6,0,4,High
+HOSP23P192974,Adi Shankar Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),PMJAY,No,"ER, SB, SG, SP",4,0,3,High
+HOSP23P193176,Sigma Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MG, SB, SC, SG, SN, ST, SU",7,1,6,High
+HOSP23P194703,Ram Krishna Medical College Hospital And Research Centre Bhopal,MADHYA PRADESH,Bhopal,Private(Not For Profit),PMJAY,No,"ER, MG, MP, SB, SE, SO, ST",7,2,4,High
+HOSP23P194727,Veda Hospital,MADHYA PRADESH,Ujjain,Private(For Profit),PMJAY,No,"MR, SB, SU",3,1,2,Medium
+HOSP23P194980,Life Line Hospital,MADHYA PRADESH,Sehore,Private(For Profit),PMJAY,No,MG,1,1,0,High
+HOSP23P195870,Mewar Hospital Pvt Ltd,MADHYA PRADESH,Neemuch,Private(For Profit),PMJAY,No,SB,1,0,1,Medium
+HOSP23P196318,Sbm Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"BM, ER, MG, SG, SO, SP",6,1,3,High
+HOSP23P196836,Vivekanand Hospital,MADHYA PRADESH,Bhind,Private(Not For Profit),PMJAY,No,"BM, ER, ID, MG, SB, SG, SN, SP, ST, SU",10,1,6,Medium
+HOSP23P197471,Saral Diagnostic And Imaging Center,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,No,-NA-,1,0,0,High
+HOSP23P198018,Index Medical College Hospital And Research Centre,MADHYA PRADESH,Indore,Private(Not For Profit),PMJAY,No,"BM, ER, MG, MN, MP, SB, SE, SG, SL, SM, SN, SO, SP, ST, SU, MC, MO, OT, SC, SS, SV",21,5,13,High
+HOSP23P198187,Ayushman Hospital,MADHYA PRADESH,Shajapur,Private(For Profit),PMJAY,No,"ER, MG, SB",3,1,1,Medium
+HOSP23P198601,Narayani Hospital,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"MP, SG, SS",3,1,2,High
+HOSP23P198710,Shree Hospital,MADHYA PRADESH,Raisen,Private(For Profit),PMJAY,No,"MG, SG",2,1,1,High
+HOSP23P199287,Sadbhawna Fracture Hospital,MADHYA PRADESH,Harda,Private(For Profit),PMJAY,No,SB,1,0,1,Medium
+HOSP23P199433,Shivay Multi Speciality Hospital,MADHYA PRADESH,Gwalior,Private(Not For Profit),PMJAY,No,"ER, MG, SB, SG, SN, SU",6,1,4,High
+HOSP23P199595,Nidaan Trauma And Multispeciality Hospital,MADHYA PRADESH,Rajgarh,Private(For Profit),PMJAY,No,SB,1,0,1,Medium
+HOSP23P199646,Nav Ent & Cancer Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),PMJAY,No,SL,1,0,1,High
+HOSP23P199651,Khemchand Jain Hospital And Research Center,MADHYA PRADESH,Sagar,Private(Not For Profit),PMJAY,No,"MG, SB, SN, SU",4,1,3,High
+HOSP23P199733,Dr Tripathi Hospital,MADHYA PRADESH,Panna,Private(For Profit),PMJAY,No,"ER, MG, MP, SB, SG",5,2,2,Low
+HOSP23P200128,G.D.Choudaha Memorial Multi Speciality Hospital,MADHYA PRADESH,Katni,Private(For Profit),PMJAY,No,"MG, MP, SB, SG, SO, SU",6,2,4,Medium
+HOSP23P200420,Sai Manglam Manav Seva Dental Clinic,MADHYA PRADESH,Bhopal,Not Specified,Only CGHS,No,SM,1,0,1,High
+HOSP23P200542,Aci Super Specialty Hospitals Indore,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"MO, MR, SC",3,2,1,High
+HOSP23P202310,City Hospital Satna,MADHYA PRADESH,Satna,Private(For Profit),PMJAY,No,SO,1,0,1,Medium
+HOSP23P202384,Naik Multispeciality Hospital Unit Of Naik Nursing Home,MADHYA PRADESH,Jabalpur,Private(Not For Profit),Only CGHS,No,"CP, MC, MG, MO, OC, SB, SG, SL, SM, SN, SO, SP, SS, SU, SV",15,3,10,High
+HOSP23P202666,Galaxy Super Speciality Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,No,"BM, CP, MC, MG, MN, MO, MP, OC, SB, SG, SL, SM, SN, SO, SP, SS, SU, SV",18,5,10,High
+HOSP23P203739,Arthros Multi Speciality Hospital,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"MG, MO, SB, SG, SP, ST, SU",7,2,5,High
+HOSP23P203805,Jainamshree Multispeciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,No,"CP, MG, OC, SG",4,1,1,High
+HOSP23P204034,Sn Krishna Hospital,MADHYA PRADESH,Ujjain,Private(For Profit),PMJAY,No,"MG, MO, SB, SC, SG, SN, SU, MC, SM, SP, ST, SV",12,3,9,Medium
+HOSP23P204159,Apple Indore Hospital & Research Centre A Unit Of Friends Unity Hospital & Research Centre Pvt. Ltd.,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"MC, MO, SB, SL",4,2,2,High
+HOSP23P204213,Claris Hospital,MADHYA PRADESH,Chhindwara,Private(For Profit),PMJAY,No,"MN, MP, SB, SC, SG, SL, SP, ST, SU",9,2,7,Medium
+HOSP23P204229,Ajwani Eye Care Centre,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,SE,1,0,1,High
+HOSP23P204296,Swastik Hospital Bhopal,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MO, SB, SC, SU",4,1,3,High
+HOSP23P204306,Jeevan Jyoti Hospital,MADHYA PRADESH,Sheopur,Private(For Profit),PMJAY,No,"MG, MP, SB",3,2,1,Low
+HOSP23P204350,Awadh Multispeciality Hospital,MADHYA PRADESH,Sehore,Private(For Profit),PMJAY,No,"MG, SB, SG, SO",4,1,3,High
+HOSP23P204358,Metro Hospital & Research Center,MADHYA PRADESH,Rewa,Private(For Profit),PMJAY,No,"MG, MN, MP, SO",4,3,1,High
+HOSP23P204418,Drishti Eye Care,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,SE,1,0,1,High
+HOSP23P204467,Apex Hospital,MADHYA PRADESH,Katni,Private(For Profit),PMJAY,No,"ER, MG, SB, SG, SL, SO, SU",7,1,5,Medium
+HOSP23P204590,Ratan Jyoti Netralaya,MADHYA PRADESH,Gwalior,Private(For Profit),Only CGHS,No,SE,1,0,1,High
+HOSP23P204742,Apollo Sage Hospitals  An Unit Of S R Associates,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,No,"CP, MC, MG, MN, MP, OC, SB, SE, SG, SL, SN, SO, SP, SS, SU, SV",16,4,10,High
+HOSP23P204946,Hyderabad Institute Of Oncology Private Limited,MADHYA PRADESH,Jabalpur,Private(For Profit),PMJAY,No,"ER, ID, MC, MG, MO, MP, MR, NA, SB, SC, SE, SG, SL, SM, SN, SO, SP, SS, ST, SV",20,5,12,High
+HOSP23P205085,Shivay Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MG, SO, ST, SB",4,1,3,High
+HOSP23P205117,Lakshya Multispeciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"ER, ID, MG, MN, MO, MP, OT, SB, SC, SG, SL, SM, SN, SP, ST, SU",16,4,9,High
+HOSP23P205198,Shri Ram Multy Specility,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"ER, MG, SO",3,1,1,High
+HOSP23P205229,Abhishree Hospital Pvt Ltd,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MG, SB, SC, SG, SN, SP, ST, SU",8,1,7,High
+HOSP23P205397,Doctor Plus Multispeciality Hospital,MADHYA PRADESH,Gwalior,Private(Not For Profit),PMJAY,No,"MG, SB, SG, SN, SO, ST, SU",7,1,6,High
+HOSP23P205511,Centre For Sight Bhopal A Unit Of New Delhi Centre For Sight Ltd,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,Yes,SE,1,0,1,High
+HOSP23P205533,Mayur Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MP, SB, SU",3,1,2,High
+HOSP23P205544,Jeevan Shri Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"ER, MG, SB, SO, SU",5,1,3,High
+HOSP23P205592,Sagar Multispeciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,Yes,"BM, CP, MC, MG, MN, MO, MP, OC, SB, SE, SG, SL, SM, SN, SO, SP, SS, SU, SV",19,5,11,High
+HOSP23P205638,Sardar Patel Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"SB, SU",2,0,2,High
+HOSP23P205715,Gohil Sampurn Hospital,MADHYA PRADESH,Shajapur,Private(For Profit),PMJAY,No,"SB, SG, SU",3,0,3,Medium
+HOSP23P205794,Clearmedi Paridhi Multispeciality Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"MO, MR, SB, SC, SG, ST, SU",7,2,5,High
+HOSP23P205811,Tirupati Balaji Children Hospital,MADHYA PRADESH,Rajgarh,Private(For Profit),PMJAY,No,"MN, MP, SS",3,2,1,Medium
+HOSP23P205831,Health Star Multispeciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"SB, SG, SU",3,0,3,High
+HOSP23P205946,Malwa Hospital,MADHYA PRADESH,Mandsaur,Private(For Profit),PMJAY,No,SB,1,0,1,High
+HOSP23P205953,Shantiraj Hospital,MADHYA PRADESH,Mandsaur,Private(For Profit),PMJAY,No,SB,1,0,1,High
+HOSP23P206796,Borle Hospital & Research Center,MADHYA PRADESH,Burhanpur,Private(For Profit),PMJAY,No,"ER, ID, MG, MP, SB, SE, SG, SN, SO, SP, ST, SU",12,2,8,Medium
+HOSP23P206930,Atal Multispeciality Hospital.,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,SB,1,0,1,High
+HOSP23P206965,Shri Balaji Hospital & Research Center,MADHYA PRADESH,Barwani,Private(For Profit),PMJAY,No,"MG, MO, SB, SG, SU",5,2,3,High
+HOSP23P206999,New City Hospital,MADHYA PRADESH,Tikamgarh,Private(Not For Profit),PMJAY,No,"ER, MG",2,1,0,Medium
+HOSP23P207124,New Rudra Hospital,MADHYA PRADESH,Sehore,Private(For Profit),PMJAY,No,"MG, SB, SG, ST, SU",5,1,4,High
+HOSP23P207350,Gayatri Multispeciality,MADHYA PRADESH,Bhopal,Private(For Profit),Only CGHS,Yes,"BM, CP, MC, MG, MN, MO, MP, OC, SB, SG, SL, SN, SO, SP, SS, SU, SV",17,5,9,High
+HOSP23P207613,Asian Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"BM, ER, ID, SB, SC, SG, SO, ST, SU",9,0,6,High
+HOSP23P207927,Healthcare Hospital,MADHYA PRADESH,Barwani,Private(For Profit),PMJAY,No,"MO, SB, SG, SO, SU",5,1,4,High
+HOSP23P208631,Erika Hospital Pvt Ltd,MADHYA PRADESH,Shajapur,Private(For Profit),PMJAY,No,"SB, SG",2,0,2,Medium
+HOSP23P208763,Sachin Mamta Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"ER, MP, SS",3,1,1,High
+HOSP23P208830,Devraj Institute Of Medical Sciences,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"MN, SB, SG, ST, SU",5,1,4,High
+HOSP23P208845,Swastik Cancer Hospital And Superspeciality Center,MADHYA PRADESH,Raisen,Private(For Profit),PMJAY,No,"MG, MO, MR, SB, SC, SG, SM, SN",8,3,5,High
+HOSP23P209096,Shubham Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"MC, SB, SG, SM, SN, SP, ST, SU",8,1,7,High
+HOSP23P209343,Jash Hospital And Research Center,MADHYA PRADESH,Shajapur,Private(Not For Profit),PMJAY,No,"BM, ER, MC, MG, MN, MO, MP, NA, SB, SC, SE, SG, SL, SM, SN, SO, SP, SS, ST, SU",20,5,12,Medium
+HOSP23P209379,Hayat Multispecialty Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"ER, SG, SN, SP, ST",5,0,4,High
+HOSP23P209454,Sight Care Eye Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),Only CGHS,No,SE,1,0,1,High
+HOSP23P209492,Centre For Sight A Unit Of New Delhi Centre For Sight Ltd,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,Yes,SE,1,0,1,High
+HOSP23P209668,Gargi Dental Care Super Specialist Clinic,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,No,SM,1,0,1,High
+HOSP23P211031,Adi Shankar Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,No,"CP, MC, MG, MP, SB, SE, SG, SL, SN, SO",10,3,6,High
+HOSP23P211171,Sodani Hospitals And Diagnostics Pvt. Ltd.,MADHYA PRADESH,Indore,Private(For Profit),Only CGHS,No,-NA-,1,0,0,High
+HOSP23P211250,Agrawal Dental And Oral Care,MADHYA PRADESH,Bhopal,Private(Not For Profit),Only CGHS,No,SM,1,0,1,High
+HOSP23P211390,Agrawal Eye And Child Care Centre,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,No,SE,1,0,1,High
+HOSP23P211883,Healthy Smile Dental Clinic,MADHYA PRADESH,Jabalpur,Not Specified,Only CGHS,No,SM,1,0,1,High
+HOSP23P211942,Nethradham Eye Hospital,MADHYA PRADESH,Jabalpur,Private(For Profit),Only CGHS,No,SE,1,0,1,High
+HOSP23P21481,Padhar Hospital,MADHYA PRADESH,Betul,Private(Not For Profit),PMJAY,No,"M1, M2, S8, M7, S7, M3, M4, M5, M6, S1, S10, S11, S12, S14, S15, S16, S2, S3, S4, S5, S6, S9",22,7,15,Medium
+HOSP23P22971,Arogya Hospital,MADHYA PRADESH,Raisen,Private(For Profit),PMJAY,No,"MG, SB, SG, SL",4,1,3,High
+HOSP23P23159,Eye Site Eye,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,S3,1,0,1,High
+HOSP23P24084,Kamla Ben Hospital,MADHYA PRADESH,Dhar,Private(For Profit),PMJAY,No,"MG, SB",2,1,1,High
+HOSP23P25682,Unique Superspecialty Center Neema Hospitals Pvt Ltd,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"M2, S8, S7, S1, S12, S5, SV",7,1,6,High
+HOSP23P25893,Devanta Hospital,MADHYA PRADESH,Shahdol,Private(For Profit),PMJAY,No,"M1, M7, M2, S4, S5, SG",6,3,3,Medium
+HOSP23P26892,Anandam Hospital Sendhwa,MADHYA PRADESH,Barwani,Private(For Profit),PMJAY,No,"M1, M7, S7, M2, M3, S1, S10, S11, S16, S2, S4, S5",12,4,8,High
+HOSP23P27551,Indian Institute Of Head And Neck Oncology Indore Cancer Foundation Charitable Trust,MADHYA PRADESH,Indore,Private(Not For Profit),PMJAY,No,"M5, M6",2,2,0,High
+HOSP23P31191,Vedant Hospital,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"M1, M7, M2, M4, S1, S10, S11, S14, S15, S16, S2, S4, S5, S6, S7",15,4,11,High
+HOSP23P31499,Nahar Hospital,MADHYA PRADESH,Chhindwara,Private(For Profit),PMJAY,No,"M2, S1, S16, S5, SU",5,1,4,Medium
+HOSP23P36341,Arihant Hospital & Research Centre,MADHYA PRADESH,Indore,Private(Not For Profit),PMJAY,No,"MG, SB, SO, SU",4,1,3,High
+HOSP23P39440,Rudransh Multispeciality Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M2, S8, M7, S1, S2, S4, S5, S7",9,3,6,High
+HOSP23P45623,Saptrishi Hospital An Unit Of Rai Saheb Bhaiyalal Dubey Educational And Medical Charitable Trust,MADHYA PRADESH,Jabalpur,Private(For Profit),PMJAY,No,"M1, M7, M5, S1, S15, S16, S2, S4",8,3,5,High
+HOSP23P49621,Shri Dada Darbar Hospital Trust,MADHYA PRADESH,Khargone,Private(Not For Profit),PMJAY,No,"M1, M7, S1, S2, S3, S4, S5",7,2,5,High
+HOSP23P51372,Nagpur Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, S1, S4, S5, S7",6,2,4,High
+HOSP23P54873,Ratan Jyoti Netralaya,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,S3,1,0,1,High
+HOSP23P56749,Sewalaya Hospital,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,"MN, MP, SB, SG, SO, SS",6,2,4,High
+HOSP23P59222,Goodwill Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, S1, S4, S5, S7",6,2,4,High
+HOSP23P67704,Bimr Hospital,MADHYA PRADESH,Gwalior,Private(Not For Profit),PMJAY,No,"M1, M2, S8, M7, S7, M3, M5, M6, S1, S10, S11, S12, S13, S14, S15, S16, S2, S3, S4, S5, S6, S9",22,6,16,High
+HOSP23P68267,Maheshwari Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, M2, S1, S10, S11, S2, S4, S5, S6, S7, S8, S9",13,3,10,High
+HOSP23P71477,R. R. Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, S1, S5",4,2,2,High
+HOSP23P72077,Rjn Apollo Spectra Hospitals,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"M7, S1, S12, S4, S5, S7, MO, SC",8,2,6,High
+HOSP23P73224,Green City Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M2, S8, M7, S4, S5, S6, S7, S9, BM, MG, SC, SG, SL, SP",15,4,10,High
+HOSP23P78856,Sri Aurobindo Institute Of Medical Sciences,MADHYA PRADESH,Indore,Private(Not For Profit),PMJAY and CGHS,Yes,"M1, M2, S8, M7, S7, M3, M4, M5, M6, S1, S10, S11, S12, S13, S14, S15, S16, S2, S3, S4, S5, S6, S9",23,7,16,High
+HOSP23P80355,Mahaveer Institute Of Medical Sciences & Research,MADHYA PRADESH,Bhopal,Private(Not For Profit),PMJAY,No,"M1, M7, M2, S1, S10, S11, S15, S16, S2, S3, S4, S5",12,3,9,High
+HOSP23P82256,Chandak Hospital,MADHYA PRADESH,Katni,Private(For Profit),PMJAY,No,"M1, M7, M2, S1, S4, S5, S7",7,3,4,Medium
+HOSP23P82994,Care Infinity Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, M2, M3, S1, S14, S16, S2, S3, S4, SB",11,4,7,High
+HOSP23P85740,Jyoti Multispeciality Hospitals Pvt Ltd,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,S5,1,0,1,High
+HOSP23P86802,Jeevan Jyoti Hospital,MADHYA PRADESH,Jhabua,Private(Not For Profit),PMJAY,No,"M1, M7, M2, S1, S3, S4, S5",7,3,4,Low
+HOSP23P88219,Life Care Hospital,MADHYA PRADESH,Gwalior,Private(For Profit),PMJAY,No,"M1, M7, S1, S16, S4, SB, SU",7,2,5,High
+HOSP23P88578,Apollo Rajshree Hospitals Pvt Ltd,MADHYA PRADESH,Indore,Private(For Profit),PMJAY,No,SV,1,0,1,High
+HOSP23P88606,Shri Indore Cloth Market Hospital,MADHYA PRADESH,Indore,Not Specified,PMJAY,No,"MC, MG, MN, MO, MP, SB, SG, SL, SM, SO, SS, SU",12,5,7,High
+HOSP23P90505,Sanil Multispeciality Dental Clinic,MADHYA PRADESH,Jabalpur,Private(Not For Profit),Only CGHS,Yes,SM,1,0,1,High
+HOSP23P91826,Dayal Multispeciality Hospital,MADHYA PRADESH,Hoshangabad,Private(For Profit),PMJAY,No,"S1, S4, S5, MG",4,1,3,High
+HOSP23P92699,Abm Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, S7, S1, S3, M2, S8, M7, MG, S10, S11, S12, S14, S15, S16, S4, S5",16,4,12,High
+HOSP23P93903,Mkm Stone And Urology Hospital,MADHYA PRADESH,Bhopal,Private(Not For Profit),PMJAY,No,S7,1,0,1,High
+HOSP23P98965,Paliwal Hospital Multi Super Speciality Unit Bhopal,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M2, S8, M7, S7, M3, M4, M5, M6, S1, S10, S11, S12, S13, S14, S15, S16, S2, S3, S4, S5, S6, S9",23,7,16,High
+HOSP23P99437,Bhopal Care Hospital,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, S1, S2, S4, S5, S7, S10, S11, S15, S8, S9",12,2,10,High
+HOSP23P99472,Rkdf Medical College Hospital And Research Centre,MADHYA PRADESH,Bhopal,Private(For Profit),PMJAY,No,"M1, M7, M2, M3, S1, S16, S2, S3, S4, S5, S6, S7",12,4,8,High
+HOSP98G108276,Wcl Area Hospital Pathakhera,MADHYA PRADESH,Betul,GOI,PMJAY,No,S5,1,0,1,Medium
+HOSP98G108378,Barkuhi Central Hospital,MADHYA PRADESH,Chhindwara,GOI,PMJAY,No,"M1, M7, M2, S16, S2, S3, S4, S5",8,3,5,Medium
+HOSP98G111061,Malanjkhand Copper Project Hospital,MADHYA PRADESH,Balaghat,GOI,PMJAY,No,"M1, M7, M2, S1, S16, S3, S4",7,3,4,Medium
+HOSP98G112868,Composite Hospital Crpf Bhopal,MADHYA PRADESH,Bhopal,GOI,PMJAY,No,"M1, M7, S1, S16, S3, S4",6,2,4,High
+HOSP98G113625,Vindhya Hospital Ntpc Vindhyanagar,MADHYA PRADESH,Singrauli,GOI,PMJAY,No,"M1, M7, M2, S1, S16, S3, S4, S5",8,3,5,Medium
+HOSP98G114437,Kasturba Hospital,MADHYA PRADESH,Bhopal,GOI,PMJAY,No,"M1, M7, M2, M8, S1, S16, S2, S3, S4, S5",10,4,6,High
+HOSP99G90860,Central Hospital Wcr,MADHYA PRADESH,Jabalpur,GOI,PMJAY,No,"M1, M7, S1, S16, S2, S3, S4, S5",8,2,6,High
+LAB23396130015,Venus Scan And Research Centre Bhopal,MADHYA PRADESH,Bhopal,Not Specified,Only CGHS,No,-NA-,1,0,0,High
+LAB23396206224,Thyrocare Technologies Limited,MADHYA PRADESH,Bhopal,Not Specified,Only CGHS,No,-NA-,1,0,0,High
+LAB23410136007,Healthcare Diagnostic,MADHYA PRADESH,Indore,Not Specified,Only CGHS,No,-NA-,1,0,0,High
+LAB23410209554,Centrapath Labs Private Limited,MADHYA PRADESH,Indore,Not Specified,Only CGHS,No,-NA-,1,0,0,High
+LAB23411129837,Sanya Hospital And Diagnostics Pvt Ltd,MADHYA PRADESH,Jabalpur,Not Specified,Only CGHS,Yes,-NA-,1,0,0,High
